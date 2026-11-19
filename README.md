@@ -107,6 +107,8 @@ Expected three-seed means on the independent Euler set:
 
 Small floating-point differences may occur across hardware and software. The figures in the manuscript are the existing research figures, copied without redrawing; archived timing values describe the original hardware/workflows.
 
+Publication validation recomputed all 12 checkpoints on both the 72-structure independent Euler set and the 36-structure sinusoidal set. The five primary metrics match the archived geometry-level results in 6,480 comparisons (maximum absolute difference below 4e-16). A fresh time-zero Meep input check, a clean-checkout inference check, and a two-update training execution check also passed. Detailed reports and recomputed tables are in `validation/`; this validation did not rerun all FDTD simulations or all 12 complete training runs.
+
 ## Train from the fixed training split
 
 ```bash

@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "scope": "Clean Git checkout without untracked research files; editable source imports and GPU inference on two geometries, seed2026 LocalTangent",
+  "checkpoint_count": 12,
+  "field_count": 288,
+  "source_mapping_count": 465,
+  "geometry_metrics_match_initial_smoke": true
+}

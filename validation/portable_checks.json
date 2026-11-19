@@ -14,6 +14,21 @@
     },
     "batch_size": 2
   },
+  "euler-independent72": {
+    "passed": true,
+    "seed_method_pairs": 12,
+    "geometries": 72,
+    "rows": 864,
+    "metric_comparisons": 4320,
+    "max_absolute_differences": {
+      "whole_complex_rel_l2": 3.3306690738754696e-16,
+      "bend_core_complex_rel_l2": 0.0,
+      "bend_core_phase_wmae_deg": 0.0,
+      "normal_relative_phase_wmae_deg": 0.0,
+      "coherence_complex_rel_l2": 0.0
+    },
+    "batch_size": 2
+  },
   "sinusoidal36": {
     "passed": true,
     "seed_method_pairs": 12,

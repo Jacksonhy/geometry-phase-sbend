@@ -1,0 +1,140 @@
+{
+  "dataset": "sinusoidal36",
+  "gate": 0.05,
+  "normal_pair_eta": 0.5,
+  "limited_run": false,
+  "summaries": [
+    {
+      "seed": 42,
+      "method": "linear",
+      "n": 36,
+      "whole_complex_rel_l2": 0.3716662438706428,
+      "whole_phase_wmae_deg": 14.627929470676719,
+      "bend_core_complex_rel_l2": 0.28834765836316356,
+      "bend_core_phase_wmae_deg": 12.092023176195221,
+      "normal_relative_phase_wmae_deg": 6.466324872976891,
+      "coherence_complex_rel_l2": 0.26886604847669676
+    },
+    {
+      "seed": 42,
+      "method": "arc_only",
+      "n": 36,
+      "whole_complex_rel_l2": 0.15997841571080804,
+      "whole_phase_wmae_deg": 5.477000420845748,
+      "bend_core_complex_rel_l2": 0.12742821543597932,
+      "bend_core_phase_wmae_deg": 5.607781242591546,
+      "normal_relative_phase_wmae_deg": 4.402605999769059,
+      "coherence_complex_rel_l2": 0.11450990894834231
+    },
+    {
+      "seed": 42,
+      "method": "local_tangent",
+      "n": 36,
+      "whole_complex_rel_l2": 0.1417459539141407,
+      "whole_phase_wmae_deg": 4.376886383749764,
+      "bend_core_complex_rel_l2": 0.09568736313177685,
+      "bend_core_phase_wmae_deg": 3.8247974884994864,
+      "normal_relative_phase_wmae_deg": 3.7926109035169855,
+      "coherence_complex_rel_l2": 0.1043920993562142
+    },
+    {
+      "seed": 42,
+      "method": "path_v2",
+      "n": 36,
+      "whole_complex_rel_l2": 0.14199968964900392,
+      "whole_phase_wmae_deg": 4.302802645724875,
+      "bend_core_complex_rel_l2": 0.0957232250661691,
+      "bend_core_phase_wmae_deg": 3.7581277524652146,
+      "normal_relative_phase_wmae_deg": 3.730493808746588,
+      "coherence_complex_rel_l2": 0.10721110405036517
+    },
+    {
+      "seed": 2026,
+      "method": "linear",
+      "n": 36,
+      "whole_complex_rel_l2": 0.3094583207460287,
+      "whole_phase_wmae_deg": 11.858227586162094,
+      "bend_core_complex_rel_l2": 0.24426074715894344,
+      "bend_core_phase_wmae_deg": 10.51973537086688,
+      "normal_relative_phase_wmae_deg": 5.450072744197377,
+      "coherence_complex_rel_l2": 0.22489766540737272
+    },
+    {
+      "seed": 2026,
+      "method": "arc_only",
+      "n": 36,
+      "whole_complex_rel_l2": 0.1536815497353815,
+      "whole_phase_wmae_deg": 5.062721454943725,
+      "bend_core_complex_rel_l2": 0.11810575491470285,
+      "bend_core_phase_wmae_deg": 5.015527583540514,
+      "normal_relative_phase_wmae_deg": 4.30064285977827,
+      "coherence_complex_rel_l2": 0.11429811500871352
+    },
+    {
+      "seed": 2026,
+      "method": "local_tangent",
+      "n": 36,
+      "whole_complex_rel_l2": 0.14011264164239468,
+      "whole_phase_wmae_deg": 4.256567928420482,
+      "bend_core_complex_rel_l2": 0.09504805089577689,
+      "bend_core_phase_wmae_deg": 3.7370383601671824,
+      "normal_relative_phase_wmae_deg": 3.8382364785550487,
+      "coherence_complex_rel_l2": 0.10570355999183917
+    },
+    {
+      "seed": 2026,
+      "method": "path_v2",
+      "n": 36,
+      "whole_complex_rel_l2": 0.13978744912941846,
+      "whole_phase_wmae_deg": 4.229912463082747,
+      "bend_core_complex_rel_l2": 0.09424480661152757,
+      "bend_core_phase_wmae_deg": 3.682331736597667,
+      "normal_relative_phase_wmae_deg": 3.8164230836736075,
+      "coherence_complex_rel_l2": 0.10580183418889999
+    },
+    {
+      "seed": 2027,
+      "method": "linear",
+      "n": 36,
+      "whole_complex_rel_l2": 0.279051181816579,
+      "whole_phase_wmae_deg": 10.54764680664171,
+      "bend_core_complex_rel_l2": 0.21028934990970005,
+      "bend_core_phase_wmae_deg": 8.998197069848553,
+      "normal_relative_phase_wmae_deg": 5.202587143232917,
+      "coherence_complex_rel_l2": 0.19569389699317952
+    },
+    {
+      "seed": 2027,
+      "method": "arc_only",
+      "n": 36,
+      "whole_complex_rel_l2": 0.15990589708475503,
+      "whole_phase_wmae_deg": 5.462570184457368,
+      "bend_core_complex_rel_l2": 0.12319334539355957,
+      "bend_core_phase_wmae_deg": 5.373240223806374,
+      "normal_relative_phase_wmae_deg": 4.494765567697508,
+      "coherence_complex_rel_l2": 0.11782964394158342
+    },
+    {
+      "seed": 2027,
+      "method": "local_tangent",
+      "n": 36,
+      "whole_complex_rel_l2": 0.14579420844846708,
+      "whole_phase_wmae_deg": 4.579146058746186,
+      "bend_core_complex_rel_l2": 0.10231756499159912,
+      "bend_core_phase_wmae_deg": 4.133771708209654,
+      "normal_relative_phase_wmae_deg": 3.7243647006346206,
+      "coherence_complex_rel_l2": 0.11020962926034644
+    },
+    {
+      "seed": 2027,
+      "method": "path_v2",
+      "n": 36,
+      "whole_complex_rel_l2": 0.14589687384429478,
+      "whole_phase_wmae_deg": 4.5826611361758465,
+      "bend_core_complex_rel_l2": 0.10240006275951608,
+      "bend_core_phase_wmae_deg": 4.13360269282682,
+      "normal_relative_phase_wmae_deg": 3.7195702001924764,
+      "coherence_complex_rel_l2": 0.1103463896555758
+    }
+  ]
+}

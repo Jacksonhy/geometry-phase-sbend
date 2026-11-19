@@ -1,10 +1,10 @@
 {
   "passed": true,
-  "tracked_files": 784,
-  "text_files_scanned": 469,
+  "tracked_files": 792,
+  "text_files_scanned": 476,
   "credential_patterns_found": 0,
   "private_key_files_included": false,
-  "total_file_bytes": 516800908,
+  "total_file_bytes": 517011707,
   "largest_file_bytes": 11877467,
   "largest_file": "assets/checkpoints/seed42/path_v2/best.pt"
 }
