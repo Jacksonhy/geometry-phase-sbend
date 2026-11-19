@@ -1,0 +1,88 @@
+{
+  "seed": 2026,
+  "predeclared_rule": true,
+  "cases": [
+    {
+      "role": "low_median_angle",
+      "record": {
+        "geometry_id": "blindB_738b71feab60d0c3",
+        "params": {
+          "wg_width_um": 0.5750000000000001,
+          "lateral_offset_um": 3.0500000000000003,
+          "R_min_um": 6.300000000000001
+        },
+        "input_port": 2,
+        "split": "blind",
+        "angle_stratum": "low",
+        "max_local_angle_deg": 28.187746192469493,
+        "min_same_width_centerline_rms_distance_um": 0.18557057614875339
+      }
+    },
+    {
+      "role": "middle_median_angle",
+      "record": {
+        "geometry_id": "blindB_44d55de27ed2a911",
+        "params": {
+          "wg_width_um": 0.45,
+          "lateral_offset_um": 4.425,
+          "R_min_um": 6.025
+        },
+        "input_port": 1,
+        "split": "blind",
+        "angle_stratum": "middle",
+        "max_local_angle_deg": 34.718329399349564,
+        "min_same_width_centerline_rms_distance_um": 0.15830117124015297
+      }
+    },
+    {
+      "role": "high_median_angle",
+      "record": {
+        "geometry_id": "blindB_9f39c4ce3cade4f8",
+        "params": {
+          "wg_width_um": 0.5,
+          "lateral_offset_um": 3.7750000000000004,
+          "R_min_um": 3.725
+        },
+        "input_port": 2,
+        "split": "blind",
+        "angle_stratum": "high",
+        "max_local_angle_deg": 40.782706780897314,
+        "min_same_width_centerline_rms_distance_um": 0.03900617341924334
+      }
+    },
+    {
+      "role": "worst_LT_bend_error",
+      "record": {
+        "geometry_id": "blindB_a262d604f84fe93d",
+        "params": {
+          "wg_width_um": 0.525,
+          "lateral_offset_um": 5.5,
+          "R_min_um": 6.625
+        },
+        "input_port": 2,
+        "split": "blind",
+        "angle_stratum": "middle",
+        "max_local_angle_deg": 36.91213035371893,
+        "min_same_width_centerline_rms_distance_um": 0.08120904746604521
+      }
+    },
+    {
+      "role": "largest_LT_minus_ArcOnly_regression",
+      "record": {
+        "geometry_id": "blindB_a262d604f84fe93d",
+        "params": {
+          "wg_width_um": 0.525,
+          "lateral_offset_um": 5.5,
+          "R_min_um": 6.625
+        },
+        "input_port": 2,
+        "split": "blind",
+        "angle_stratum": "middle",
+        "max_local_angle_deg": 36.91213035371893,
+        "min_same_width_centerline_rms_distance_um": 0.08120904746604521
+      }
+    }
+  ],
+  "repeated_geometries_retained": true,
+  "uses_error_for_two_explicit_failure_cases": true
+}

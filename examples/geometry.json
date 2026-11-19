@@ -1,0 +1,13 @@
+{
+  "geometry_id": "blindB_26486d65abaefaba",
+  "params": {
+    "wg_width_um": 0.4,
+    "lateral_offset_um": 3.5,
+    "R_min_um": 5.8500000000000005
+  },
+  "input_port": 1,
+  "split": "blind",
+  "angle_stratum": "low",
+  "max_local_angle_deg": 31.335512101558468,
+  "min_same_width_centerline_rms_distance_um": 0.05966929266392512
+}

@@ -1,0 +1,23 @@
+{
+  "unix": 1794803181.5729597,
+  "truth_fields_accessed": false,
+  "before_new_truth": true,
+  "all_new_truth_directories_absent": true,
+  "hashes": {
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2026_arc_only.npz": "4019fc175f5a825a90ee0826d9a457484b34009a644edbc9a31979ce73628524",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2026_linear.npz": "f8b15c769c97ce39086c93d7762bce02a712e9e8e8d86273f1ad3dda24a0d7cf",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2026_local_tangent.npz": "a111c06b44ab93ac2571f6b857fbaa8b88b25338aec5a6f4a27457172beb49ce",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2026_path_v2.npz": "5a3bc676f37028d3d6a56911cc2614e070a6a46aacb39134cf59ce69828708f3",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2027_arc_only.npz": "d85c0c1bf0d5f257888ddf1aed3c4f066731a7a414e68466a37a6e5c6d5535ab",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2027_linear.npz": "673db4b355dd415d62aabb84cb668ad5a896f7a52cf13095bbb25a2e657ee07b",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2027_local_tangent.npz": "205a90a9f263d61e50f6103a19b12c4205570f3f57d881c45befb2002ed2d636",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed2027_path_v2.npz": "fbc3f52f917fce606639cdece2e865965118644a434d169b63abab3a3c7814eb",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed42_arc_only.npz": "3d9dfed914085144739fa0edc2f0a58bf25254aaf935b6d5d791495eb678176b",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed42_linear.npz": "6484ba1d16ee58b4c590349d5da584a59dc440ed58b29836eef3a6cb437c2ca6",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed42_local_tangent.npz": "72cff4a8771bea143ced37a89c581b167086fe1f38f8325de5c1e8f34834363a",
+    "/mnt/d/game/research_sinusoidal_transfer_2026-11-16/predictions/seed42_path_v2.npz": "6252d689f946ac32d2918f33b0dd342011c9dbe8ac8c25b878306af6ecc0c57e"
+  },
+  "note": "All12 forward runs succeeded under read guard. Guard blocked subsequent self-output checksum read; this separate non-inference process verifies and freezes outputs before first truth. No forward rerun.",
+  "runner_sha256": "97a3ce1d515673efa33993f243d0b4a04f6f1d82f2971ef608aa7153f0b9e394",
+  "startup_runner_sha256": "536fb4d59952e4943173a8b903dedf1d51fd3cbbf0ec04dc0ec448f6553f4ff9"
+}

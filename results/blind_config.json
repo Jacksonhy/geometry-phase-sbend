@@ -1,0 +1,116 @@
+{
+  "seeds": [
+    42,
+    2026,
+    2027
+  ],
+  "methods": [
+    "linear",
+    "arc_only",
+    "local_tangent",
+    "path_v2"
+  ],
+  "new_geometries": 72,
+  "geometry_only_rng_seed": 2026111502,
+  "geometry_proposal_count": 6000,
+  "max_angle_stratum_edges_deg": [
+    32.06250418231664,
+    37.81381194788924
+  ],
+  "stratum_count": 24,
+  "width_each_stratum": 3,
+  "input_each_stratum": 12,
+  "physical_fit_gate": "original constructor margin; within original parameter support",
+  "novelty_exclusion": "all located historical manifests deduplicated; same-width centerline RMS>=0.035um; material-grid reflection hashes checked after simulation",
+  "fine_geometry_ids": [
+    "blindB_26486d65abaefaba",
+    "blindB_238b1e833b3d8d8f",
+    "blindB_fe18bfd449581832",
+    "blindB_6053592015355db4",
+    "blindB_c5fcebb1e20efab0",
+    "blindB_738b71feab60d0c3",
+    "blindB_6e088fec4b5d6166",
+    "blindB_bfce7a9a866a0be1",
+    "blindB_e5f3ca0ed0a073e1",
+    "blindB_cce44732dceff594",
+    "blindB_cd184c6a5ba92613",
+    "blindB_c74d6890021c2349",
+    "blindB_4b6edc380dbf6922",
+    "blindB_4c416b60f8b6a62c",
+    "blindB_2bb3036cd27dbaab",
+    "blindB_9f39c4ce3cade4f8",
+    "blindB_7984b949dd6cbfc0",
+    "blindB_9f78121d6c81e7b2"
+  ],
+  "fine_resolutions": [
+    20,
+    30,
+    40
+  ],
+  "conditional_res60_ids": [
+    "blindB_26486d65abaefaba",
+    "blindB_6e088fec4b5d6166",
+    "blindB_4b6edc380dbf6922"
+  ],
+  "conditional_reverse_geometry_ids": [
+    "blindB_26486d65abaefaba",
+    "blindB_238b1e833b3d8d8f",
+    "blindB_f5d3834c5e28f9d1",
+    "blindB_a2a0b228f3695ac5",
+    "blindB_2b2ef636d15aa1f2",
+    "blindB_28ff26cc9a698d1d",
+    "blindB_6e088fec4b5d6166",
+    "blindB_bfce7a9a866a0be1",
+    "blindB_44d55de27ed2a911",
+    "blindB_a0cd08d1b5ba02eb",
+    "blindB_dee10677863624d6",
+    "blindB_a01c064446f7720a",
+    "blindB_4b6edc380dbf6922",
+    "blindB_4c416b60f8b6a62c",
+    "blindB_3769463a279dd2d2",
+    "blindB_9506d0704b53f56f",
+    "blindB_d29dcaa4cd6d97d8",
+    "blindB_688af77a92eb4c6f",
+    "blindB_382a38da27cfe4b5",
+    "blindB_f56044ec2ed89685"
+  ],
+  "phase_gate": 0.05,
+  "sensitivity_gates": [
+    0.01,
+    0.1
+  ],
+  "spatial_angle_edges_deg": [
+    0,
+    10,
+    20,
+    35,
+    90
+  ],
+  "normal_eta_edges": [
+    -3,
+    -1,
+    -0.5,
+    0,
+    0.5,
+    1,
+    3
+  ],
+  "normal_pair_eta": [
+    0.5,
+    1.0
+  ],
+  "main": "LT minus ArcOnly; each seed separately; geometry-paired bootstrap10000; no truth phase fitting",
+  "fine_comparison": "coarse resolution20 physical grid and fixed normal pairs; complex linear interpolation; cubic sensitivity; no refitting of models",
+  "input_reference": "raw primary; additionally divide truth by physical incoming Ez profile at fixed input monitor x=+/-11.5 and source center y; prediction divided by SAME res20 scalar; no fitted alignment",
+  "grid_gate": {
+    "normal_truth_30_40_wmae_max_mean_deg": 0.25,
+    "input_normalized_bend_truth_30_40_wmae_max_mean_deg": 0.5,
+    "interpolation_pair_metric_difference_max_mean_deg": 0.1,
+    "LT_phase_deltas_negative_all_seeds_at_res20_30_40": true
+  },
+  "decision": "reverse20 only if both primary blind phase CIs below zero in all three seeds, grid gate passes, and at least20min remain; otherwise skip; no coherent application",
+  "conditional_refine": "if grid gate fails, run exactly preselected3 res60 only if >=20min remain; no additional geometries or tuning",
+  "no_training": true,
+  "no_test_calibration": true,
+  "no_global_phase_alignment": true
+}

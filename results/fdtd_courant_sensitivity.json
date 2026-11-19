@@ -1,0 +1,26 @@
+[
+  {
+    "width_um": 0.4,
+    "beta_Courant05": 7.476946089351732,
+    "beta_Courant025": 7.477638573423805,
+    "delta_beta": 0.0006924840720730074,
+    "phase23_change_deg": 0.9125575383257781,
+    "analytic_beta": 7.468511643202145
+  },
+  {
+    "width_um": 0.5,
+    "beta_Courant05": 8.854897904312867,
+    "beta_Courant025": 8.855705907389597,
+    "delta_beta": 0.0008080030767292357,
+    "phase23_change_deg": 1.0647888209939198,
+    "analytic_beta": 8.839810662888457
+  },
+  {
+    "width_um": 0.575,
+    "beta_Courant05": 9.386221408555997,
+    "beta_Courant025": 9.387062331474613,
+    "delta_beta": 0.0008409229186163714,
+    "phase23_change_deg": 1.1081706850484496,
+    "analytic_beta": 9.363360690549163
+  }
+]

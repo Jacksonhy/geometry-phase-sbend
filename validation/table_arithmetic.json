@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "scope": "Arithmetic on archived geometry metrics only; not independent field verification",
+  "numerical_comparisons": 232,
+  "max_absolute_difference": 4.263256414560601e-14,
+  "euler_72_whole_field_means": {
+    "linear": 0.3636291474167241,
+    "arc_only": 0.16101620608258743,
+    "local_tangent": 0.14718370364244446,
+    "path_v2": 0.1473508557618381
+  },
+  "sine_seed_endpoint_comparisons": 60,
+  "local_tangent_timing": [
+    {
+      "mode": "cold_single",
+      "seconds": 4.725091783333331,
+      "break_even_queries": 376,
+      "full_72_batches_queries": 432
+    },
+    {
+      "mode": "resident_single",
+      "seconds": 2.4540461075000146,
+      "break_even_queries": 244,
+      "full_72_batches_queries": 288
+    },
+    {
+      "mode": "batch72_b1",
+      "seconds": 1.592685827621528,
+      "break_even_queries": 215,
+      "full_72_batches_queries": 216
+    },
+    {
+      "mode": "batch72_b2",
+      "seconds": 1.591298842792824,
+      "break_even_queries": 215,
+      "full_72_batches_queries": 216
+    }
+  ],
+  "FDTD_runs": 0,
+  "training_runs": 0,
+  "inference_runs": 0
+}

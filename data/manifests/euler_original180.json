@@ -1,0 +1,3215 @@
+{
+  "seed": 2026,
+  "rng": "NumPy PCG64",
+  "records": [
+    {
+      "geometry_id": "sbend_formal_c4f161205c8da175",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.925000000000001,
+        "R_min_um": 6.175000000000001
+      },
+      "parameter_key": [
+        16,
+        197,
+        247
+      ],
+      "split": "train",
+      "draw": 6,
+      "centerline_equivalence_sha256": "09ca52b92d43f067db459a4818795ecda3bbc88e01f88b9d259c3af332891f90",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_24090067944b1bfa",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.4750000000000005,
+        "R_min_um": 6.625
+      },
+      "parameter_key": [
+        16,
+        179,
+        265
+      ],
+      "split": "train",
+      "draw": 7,
+      "centerline_equivalence_sha256": "3eede3005161fa8cae8352c93f0a0264748ec15ae33ea50cd08ab840032a4c10",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_88694f2bdf2a3447",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.2750000000000004,
+        "R_min_um": 4.875
+      },
+      "parameter_key": [
+        16,
+        131,
+        195
+      ],
+      "split": "train",
+      "draw": 3,
+      "centerline_equivalence_sha256": "00e561e6b7b7cf2558f5a5e0ff6c214541e2fb072155edcf6613e2bf3963ac36",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_d4c2f9966f384308",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.075,
+        "R_min_um": 5.575
+      },
+      "parameter_key": [
+        16,
+        83,
+        223
+      ],
+      "split": "train",
+      "draw": 2,
+      "centerline_equivalence_sha256": "39c35b255ff3448933c7d2e06de1ec35e183fe0777f4b9c87fc5910dc037d466",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_da460879b766cad0",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.275,
+        "R_min_um": 4.4750000000000005
+      },
+      "parameter_key": [
+        16,
+        91,
+        179
+      ],
+      "split": "train",
+      "draw": 4,
+      "centerline_equivalence_sha256": "94ffeb6c1ff2d3fbe2e582544ac856dc3af43c94eda97f4089269e980cd7a9d0",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_3eb41f7c36f7c7d5",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.525,
+        "R_min_um": 3.7
+      },
+      "parameter_key": [
+        16,
+        181,
+        148
+      ],
+      "split": "train",
+      "draw": 8,
+      "centerline_equivalence_sha256": "44a12e9971ff5bc1a83b8171517e19412e38debd18c8870574a26278884b33ba",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_e37b97432c083fec",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.25,
+        "R_min_um": 4.425
+      },
+      "parameter_key": [
+        16,
+        170,
+        177
+      ],
+      "split": "train",
+      "draw": 5,
+      "centerline_equivalence_sha256": "05232d2a38c37c72e7ecaa236757d59d5e1553eaf9f97132530ae7a2377ff3d7",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_3597409e64788a5a",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 5.0,
+        "R_min_um": 3.7
+      },
+      "parameter_key": [
+        16,
+        200,
+        148
+      ],
+      "split": "train",
+      "draw": 1,
+      "centerline_equivalence_sha256": "0a5f769c4145c5d6e24c0aa222ae30bf3ab98d13b360ffa02ad326341925039b",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_4e7b881a425665e8",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.9,
+        "R_min_um": 5.625
+      },
+      "parameter_key": [
+        16,
+        196,
+        225
+      ],
+      "split": "val",
+      "draw": 9,
+      "centerline_equivalence_sha256": "3b02718fe849caae24716f74ca019a02f9b8278dda237c426a885f15d3fa2a6f",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_151775f789e418e7",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.575,
+        "R_min_um": 4.8500000000000005
+      },
+      "parameter_key": [
+        16,
+        143,
+        194
+      ],
+      "split": "val",
+      "draw": 10,
+      "centerline_equivalence_sha256": "11bd924b6266fa7e4e50d32b7e27b598ae1eface7dbf94abc0e329454c617e37",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_feb3abc4a792693b",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.0500000000000003,
+        "R_min_um": 6.875
+      },
+      "parameter_key": [
+        16,
+        122,
+        275
+      ],
+      "split": "test",
+      "draw": 22,
+      "centerline_equivalence_sha256": "6e4bbabae01fa479e85bbf4e857346def7a469814ce863289327e8751ab8ea5e",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_102860092dd608bf",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.7750000000000004,
+        "R_min_um": 6.425000000000001
+      },
+      "parameter_key": [
+        16,
+        111,
+        257
+      ],
+      "split": "test",
+      "draw": 12,
+      "centerline_equivalence_sha256": "06ba10b8e0e088cd9d8eb5deebc87fbc5e6878f279706813f06642c4cb7f567e",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a4346e30fb3fce8b",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.075,
+        "R_min_um": 4.3
+      },
+      "parameter_key": [
+        16,
+        163,
+        172
+      ],
+      "split": "test",
+      "draw": 20,
+      "centerline_equivalence_sha256": "262c455d58f34abb4f4d9b7758bb2e2df13c89c216f2eeab1ffa61881699850e",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_d3e877d0f2ab722e",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.5,
+        "R_min_um": 4.075
+      },
+      "parameter_key": [
+        16,
+        140,
+        163
+      ],
+      "split": "test",
+      "draw": 14,
+      "centerline_equivalence_sha256": "2adf87fa7a6184f79b96d5d92d2b327fb4241d80d756f7006cc9c7ff11e18f23",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_2645b7e1d2b77e18",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.5250000000000004,
+        "R_min_um": 5.65
+      },
+      "parameter_key": [
+        16,
+        141,
+        226
+      ],
+      "split": "test",
+      "draw": 21,
+      "centerline_equivalence_sha256": "1ce07d5adca25a7481c4a646c4fabc03db1423b8ff42293d5eee8a1b4a5d93f1",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_7aed7b4daca85d40",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.575,
+        "R_min_um": 6.9750000000000005
+      },
+      "parameter_key": [
+        16,
+        143,
+        279
+      ],
+      "split": "test",
+      "draw": 17,
+      "centerline_equivalence_sha256": "0881af4d88db422caba58cb61781214a1ed88567a74cbef87a768305707a9072",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_43312c0023271381",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.6750000000000003,
+        "R_min_um": 4.9
+      },
+      "parameter_key": [
+        16,
+        107,
+        196
+      ],
+      "split": "test",
+      "draw": 19,
+      "centerline_equivalence_sha256": "98558894d5204c5f6f35aa25427c3ce21d4eb016c660e5bfd6ede7bfd258dd1f",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_83a983c948a7dcde",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.725,
+        "R_min_um": 6.75
+      },
+      "parameter_key": [
+        16,
+        109,
+        270
+      ],
+      "split": "test",
+      "draw": 23,
+      "centerline_equivalence_sha256": "335b6b8bc6d5b0f53becf663be2e571d5f47d5eb4eb6362a3af12b3e5b64c56d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_0a73cc56618f6d50",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.325,
+        "R_min_um": 6.325
+      },
+      "parameter_key": [
+        16,
+        173,
+        253
+      ],
+      "split": "test",
+      "draw": 15,
+      "centerline_equivalence_sha256": "172bc6a998f464de4d5912871f671d1a450b44319ba4cda74d48398d5663e80d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_edcea732832498d5",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.85,
+        "R_min_um": 3.35
+      },
+      "parameter_key": [
+        16,
+        154,
+        134
+      ],
+      "split": "test",
+      "draw": 13,
+      "centerline_equivalence_sha256": "3bcb5946e3ade861d1e7a31755006ab99c3300a8bfb242d66e31a61e2989d961",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_e373629a623a71ee",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.025,
+        "R_min_um": 4.8500000000000005
+      },
+      "parameter_key": [
+        16,
+        81,
+        194
+      ],
+      "split": "test",
+      "draw": 16,
+      "centerline_equivalence_sha256": "52af9cfb2be2e765b8a3bcad2b3e5008b85d95655de404393841a4d624717d13",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_fd86eb06ce0ecdc4",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.2750000000000004,
+        "R_min_um": 3.6500000000000004
+      },
+      "parameter_key": [
+        16,
+        131,
+        146
+      ],
+      "split": "test",
+      "draw": 18,
+      "centerline_equivalence_sha256": "65d047604e83976b7b6efc639846d5a44f95dca909a42f50aac5023a932b4633",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_de8951bac44314b6",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.975,
+        "R_min_um": 3.575
+      },
+      "parameter_key": [
+        16,
+        119,
+        143
+      ],
+      "split": "test",
+      "draw": 11,
+      "centerline_equivalence_sha256": "19b9487c7dd75a384c4a71462ce4fb6d28876ba9fd27ca479eff5695d580a0c7",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_fff5749dbaa814aa",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.3000000000000003,
+        "R_min_um": 4.425
+      },
+      "parameter_key": [
+        17,
+        132,
+        177
+      ],
+      "split": "train",
+      "draw": 29,
+      "centerline_equivalence_sha256": "0f65d4a340d2bb32747544a151f4d2765e00e497a4d53e6f6c2afe7772465b98",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a1c323516b45a6d4",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.575,
+        "R_min_um": 6.9
+      },
+      "parameter_key": [
+        17,
+        183,
+        276
+      ],
+      "split": "train",
+      "draw": 26,
+      "centerline_equivalence_sha256": "06b6f9fce14962823476dc1c0243450fe700828017bec2288189ce5b8a9cd791",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f6d4f7b3a2116672",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.175,
+        "R_min_um": 3.125
+      },
+      "parameter_key": [
+        17,
+        167,
+        125
+      ],
+      "split": "train",
+      "draw": 28,
+      "centerline_equivalence_sha256": "70985ce5f0d512a86efab41d94f13d5b2d978e01864769b6d229e5a6daf78d5b",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_2ee88fb9e82fa00b",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.475,
+        "R_min_um": 5.9750000000000005
+      },
+      "parameter_key": [
+        17,
+        139,
+        239
+      ],
+      "split": "train",
+      "draw": 30,
+      "centerline_equivalence_sha256": "034424f0a8e86bee32f56099d743d850af974e9ecdbe8125377879195c4b8060",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_d0451814d625960f",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.9250000000000003,
+        "R_min_um": 4.800000000000001
+      },
+      "parameter_key": [
+        17,
+        157,
+        192
+      ],
+      "split": "train",
+      "draw": 27,
+      "centerline_equivalence_sha256": "5a4b69bbbf99823a8fd568138a890f2ff317141695707019c43d7d67e1f521b4",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_e4b0fbe8cafadb39",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.725,
+        "R_min_um": 6.425000000000001
+      },
+      "parameter_key": [
+        17,
+        149,
+        257
+      ],
+      "split": "train",
+      "draw": 31,
+      "centerline_equivalence_sha256": "2ca116ed02443e18caa9a9cf6c21394745cfbb48cd2a09f209f08b0b27626f5d",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_512fb2bbf306ffe7",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.025,
+        "R_min_um": 5.5
+      },
+      "parameter_key": [
+        17,
+        161,
+        220
+      ],
+      "split": "train",
+      "draw": 24,
+      "centerline_equivalence_sha256": "45cb42d8c634dbc1c883ba0501b77d16921fabc70d83e309d2ed39ffcd87085a",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_eaf4d23a605ba88b",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 3.6
+      },
+      "parameter_key": [
+        17,
+        106,
+        144
+      ],
+      "split": "train",
+      "draw": 25,
+      "centerline_equivalence_sha256": "3377958ca64c5785974700395186db00f6bf439d9765be7e8d5b683921451bc1",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_d77acfef5908fd46",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.0500000000000003,
+        "R_min_um": 3.375
+      },
+      "parameter_key": [
+        17,
+        122,
+        135
+      ],
+      "split": "val",
+      "draw": 32,
+      "centerline_equivalence_sha256": "15cebc462976de6ab29721a6ada6c7f0abea01b40cfa563180c6a30bd2683c03",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_dbdc0755f0b36cbd",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.6,
+        "R_min_um": 6.625
+      },
+      "parameter_key": [
+        17,
+        104,
+        265
+      ],
+      "split": "val",
+      "draw": 33,
+      "centerline_equivalence_sha256": "414c4bdacadbc7d9a7cfb52ef6b54c72fdb90fcfd0b154bf1a4bea1470ef30bd",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_d10c7a7784c665a8",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.95,
+        "R_min_um": 3.075
+      },
+      "parameter_key": [
+        17,
+        118,
+        123
+      ],
+      "split": "test",
+      "draw": 46,
+      "centerline_equivalence_sha256": "6d06b4a9a9104e5daaf6d4a3c6408c5233092fd4fcf719ed213eb239cafa10d8",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_a9a6b0f518627540",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.125,
+        "R_min_um": 4.675
+      },
+      "parameter_key": [
+        17,
+        165,
+        187
+      ],
+      "split": "test",
+      "draw": 39,
+      "centerline_equivalence_sha256": "1548fd90810a7c80e0506afce611f8e341cec52b0e2c72b7dadaff37b4e6876d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_8e260266a383fdc1",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.325,
+        "R_min_um": 6.575
+      },
+      "parameter_key": [
+        17,
+        213,
+        263
+      ],
+      "split": "test",
+      "draw": 42,
+      "centerline_equivalence_sha256": "055eb786461b9d6d9a3a96ae573434258b8cbd3da6984425426755453ea4e112",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_1cf3b4fe522ba0bd",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.45,
+        "R_min_um": 5.925000000000001
+      },
+      "parameter_key": [
+        17,
+        178,
+        237
+      ],
+      "split": "test",
+      "draw": 36,
+      "centerline_equivalence_sha256": "4c3353c5b5183e3b4889b122fa120baf00dea6c3e7e7e8a2058b7af264ac030f",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_dd16fb8379e513e9",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.225,
+        "R_min_um": 3.225
+      },
+      "parameter_key": [
+        17,
+        129,
+        129
+      ],
+      "split": "test",
+      "draw": 34,
+      "centerline_equivalence_sha256": "33a43ad3a219268eb3f2d93bdfb33fb8fe597fa55681a1994b3060ab3b9f0f07",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a7789a081e04af8e",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.375,
+        "R_min_um": 5.4750000000000005
+      },
+      "parameter_key": [
+        17,
+        215,
+        219
+      ],
+      "split": "test",
+      "draw": 43,
+      "centerline_equivalence_sha256": "179702f7fc92f671e29c14d6b6ca9fb167df92502116fb2a34c0e94e288c06dd",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_930461c77f8fb12d",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 5.275
+      },
+      "parameter_key": [
+        17,
+        133,
+        211
+      ],
+      "split": "test",
+      "draw": 38,
+      "centerline_equivalence_sha256": "729b5e462a173334db7645ac8085ea3a74aa8353144cf6e8753d46636365b1d1",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a534f7a6c121ee05",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.825,
+        "R_min_um": 6.8500000000000005
+      },
+      "parameter_key": [
+        17,
+        153,
+        274
+      ],
+      "split": "test",
+      "draw": 41,
+      "centerline_equivalence_sha256": "175ae2e508c8e5defeca807e1f4cf47ad07ce305b89bd33ffe087ecbb6117e7f",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_44d0df9fe294ff3a",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.0500000000000003,
+        "R_min_um": 3.625
+      },
+      "parameter_key": [
+        17,
+        122,
+        145
+      ],
+      "split": "test",
+      "draw": 44,
+      "centerline_equivalence_sha256": "1a8a7dd001592370326416665e9ebf371456f59fe1d85414e7fda5cf23758b7c",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_40233960b5587889",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.575,
+        "R_min_um": 4.25
+      },
+      "parameter_key": [
+        17,
+        183,
+        170
+      ],
+      "split": "test",
+      "draw": 37,
+      "centerline_equivalence_sha256": "2c6abca88fa437d9f2a4f936d40f65ced5ab7eed5cbbe67a6e621897e06e48b3",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_bdfbb9c7ba0f5ad2",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.9000000000000004,
+        "R_min_um": 4.425
+      },
+      "parameter_key": [
+        17,
+        116,
+        177
+      ],
+      "split": "test",
+      "draw": 35,
+      "centerline_equivalence_sha256": "1f002b28fe11224de4dc207423e5ad671dd12d9d780b0aeaab6c8cce4c8f2546",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_38e5ac459f961115",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 6.1000000000000005
+      },
+      "parameter_key": [
+        17,
+        106,
+        244
+      ],
+      "split": "test",
+      "draw": 40,
+      "centerline_equivalence_sha256": "1cd16aaafbc31795ac5383704bd6a44793a3a8c9e4ee4bd39de7f3a8e61c7c6c",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_0ef05642d3277923",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.35,
+        "R_min_um": 6.800000000000001
+      },
+      "parameter_key": [
+        17,
+        94,
+        272
+      ],
+      "split": "test",
+      "draw": 45,
+      "centerline_equivalence_sha256": "5de7d933a88258e5324ce0033ef655d91a7875b7292ced357f7039a95735a558",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_144ad82c602adb75",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.7,
+        "R_min_um": 5.4
+      },
+      "parameter_key": [
+        18,
+        188,
+        216
+      ],
+      "split": "train",
+      "draw": 53,
+      "centerline_equivalence_sha256": "0e430fc8daf325b27de471142b8486aedef04d44973eda2849a6203277fa3b76",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_bfd67856e6163b23",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 2.225,
+        "R_min_um": 5.175000000000001
+      },
+      "parameter_key": [
+        18,
+        89,
+        207
+      ],
+      "split": "train",
+      "draw": 50,
+      "centerline_equivalence_sha256": "24819e7bf3ee3eb676ad56e73332ce95655e4d50387762841c9aca938f82b542",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_b550d955c1a21610",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.4750000000000005,
+        "R_min_um": 3.9250000000000003
+      },
+      "parameter_key": [
+        18,
+        219,
+        157
+      ],
+      "split": "train",
+      "draw": 52,
+      "centerline_equivalence_sha256": "4d2b1197c1769bd0231f00a0d962b7f2574ed8322d42e54490dbfb18b60de489",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_3145e31cef19137f",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 2.85,
+        "R_min_um": 6.15
+      },
+      "parameter_key": [
+        18,
+        114,
+        246
+      ],
+      "split": "train",
+      "draw": 47,
+      "centerline_equivalence_sha256": "106784f7314511fff8b7f755396f0dc60510fc7057ef2102e829484ae1db2cdf",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f10ef44d9cb4f1ee",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.575,
+        "R_min_um": 6.275
+      },
+      "parameter_key": [
+        18,
+        183,
+        251
+      ],
+      "split": "train",
+      "draw": 54,
+      "centerline_equivalence_sha256": "06db2921b9c015686ea203770504aaf382adcad401ec058f8302737e4b13dc87",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_761fc538d4ca619e",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 2.25,
+        "R_min_um": 5.65
+      },
+      "parameter_key": [
+        18,
+        90,
+        226
+      ],
+      "split": "train",
+      "draw": 49,
+      "centerline_equivalence_sha256": "439da14d2c3f49bbbfea2a850b5a63dd132da0ba370e028356e550e0ba89ca4a",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_eca802b8f6cd3d49",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.75,
+        "R_min_um": 6.675000000000001
+      },
+      "parameter_key": [
+        18,
+        190,
+        267
+      ],
+      "split": "train",
+      "draw": 51,
+      "centerline_equivalence_sha256": "947e6f0710cdc433f3d91463e69a5564709df00e06aff0d419b363ebb59fd7bb",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_7ef14843c579585c",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.05,
+        "R_min_um": 5.550000000000001
+      },
+      "parameter_key": [
+        18,
+        162,
+        222
+      ],
+      "split": "train",
+      "draw": 48,
+      "centerline_equivalence_sha256": "50e016ffbdb259b0cbff9478d05c932d682e04c47fa2124c19be922dae2fec9f",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f70da585b24adcbe",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.1000000000000005,
+        "R_min_um": 4.3500000000000005
+      },
+      "parameter_key": [
+        18,
+        164,
+        174
+      ],
+      "split": "val",
+      "draw": 56,
+      "centerline_equivalence_sha256": "2add8104ba7f0717de290f295ec16cb6c6990950dadebaa9936d05045dd1066a",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_31e7a1a7a180e805",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 2.1,
+        "R_min_um": 5.625
+      },
+      "parameter_key": [
+        18,
+        84,
+        225
+      ],
+      "split": "val",
+      "draw": 55,
+      "centerline_equivalence_sha256": "350a657f51f7c681f3a6fd010190b3b772db50b6829b30ff1d6d85c2dd8524b8",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_c2e90e0559919df0",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.6000000000000005,
+        "R_min_um": 4.425
+      },
+      "parameter_key": [
+        18,
+        184,
+        177
+      ],
+      "split": "test",
+      "draw": 66,
+      "centerline_equivalence_sha256": "2f8bddf6f39d9f7f6b482b70d3748246104b78af49a1d250dda12d0525e16010",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_188e28c61d0d6cad",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.475,
+        "R_min_um": 3.325
+      },
+      "parameter_key": [
+        18,
+        139,
+        133
+      ],
+      "split": "test",
+      "draw": 60,
+      "centerline_equivalence_sha256": "2f6b076b1fdef556f6111b177acc968d2a6c3a269bae1f9fe8bbe4c6f0d84d40",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f5266bec8a979c31",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.875,
+        "R_min_um": 3.5
+      },
+      "parameter_key": [
+        18,
+        195,
+        140
+      ],
+      "split": "test",
+      "draw": 57,
+      "centerline_equivalence_sha256": "0e89a5c2a960bf1a28f5f20216e36a6a99fc8fb002ca39b36517f2cddf8282cf",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_d00c451ca7eec022",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.300000000000001,
+        "R_min_um": 5.075
+      },
+      "parameter_key": [
+        18,
+        212,
+        203
+      ],
+      "split": "test",
+      "draw": 63,
+      "centerline_equivalence_sha256": "068703d94021c969d608a6d63351224d95a00923856ecdc20e46ddb0c077060d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_4d649d7491b3658f",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.4750000000000005,
+        "R_min_um": 5.65
+      },
+      "parameter_key": [
+        18,
+        219,
+        226
+      ],
+      "split": "test",
+      "draw": 64,
+      "centerline_equivalence_sha256": "2d900ce5148605976c5655f130a5a061c95b10eb5953432ed079d1685699d44e",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_efe57cb37e1905a3",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.025,
+        "R_min_um": 4.25
+      },
+      "parameter_key": [
+        18,
+        201,
+        170
+      ],
+      "split": "test",
+      "draw": 68,
+      "centerline_equivalence_sha256": "49702eda331f57630d274cff936233b3aae55be017af180e45d85fcca8a26505",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_d91b394793f0b164",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.7250000000000005,
+        "R_min_um": 4.275
+      },
+      "parameter_key": [
+        18,
+        189,
+        171
+      ],
+      "split": "test",
+      "draw": 67,
+      "centerline_equivalence_sha256": "11846a49baa2a293fe5ae1f1b7e2154cfe0d8dacc4d97dfe0768f2b5663243a1",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_6047214103aaf8f0",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.5,
+        "R_min_um": 6.525
+      },
+      "parameter_key": [
+        18,
+        220,
+        261
+      ],
+      "split": "test",
+      "draw": 65,
+      "centerline_equivalence_sha256": "3e6823d056697e2d46f9b51e6ddcb4703f921968022eed08dfb68fb2dabc3f49",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_0f92b7e675fe676a",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 2.25,
+        "R_min_um": 3.45
+      },
+      "parameter_key": [
+        18,
+        90,
+        138
+      ],
+      "split": "test",
+      "draw": 69,
+      "centerline_equivalence_sha256": "2b53671694843a7493722d6728e31fd1c77ae99a5c491c066c93d72491fad96b",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a92d2f3a4d18b78f",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.6500000000000004,
+        "R_min_um": 4.125
+      },
+      "parameter_key": [
+        18,
+        146,
+        165
+      ],
+      "split": "test",
+      "draw": 58,
+      "centerline_equivalence_sha256": "127a6c2ba560e93bc9434f53edaa6ae9cc251f4ea21a3c12199aead2d2a610a7",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_8bf972741e60a736",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.475,
+        "R_min_um": 3.9250000000000003
+      },
+      "parameter_key": [
+        18,
+        139,
+        157
+      ],
+      "split": "test",
+      "draw": 62,
+      "centerline_equivalence_sha256": "04a667f3ce6d4a1af515ecbb72cdeeff16d31ec6f2776294e022b5f912954309",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_3c8f4d0cf5bc44af",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.25,
+        "R_min_um": 5.2250000000000005
+      },
+      "parameter_key": [
+        18,
+        210,
+        209
+      ],
+      "split": "test",
+      "draw": 61,
+      "centerline_equivalence_sha256": "7e266b31a111f4d0ab12e40a6c6e899db43cee343096d91f3c69f5e88b5c8bbf",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_d6f6660233404741",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.1750000000000003,
+        "R_min_um": 3.125
+      },
+      "parameter_key": [
+        18,
+        127,
+        125
+      ],
+      "split": "test",
+      "draw": 59,
+      "centerline_equivalence_sha256": "669939f0b1b89bd7f7a57b22ffdcb796424cdf423495a2d4fe1fc10f6546b5f7",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_e6eabce6d687565d",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.15,
+        "R_min_um": 3.45
+      },
+      "parameter_key": [
+        19,
+        86,
+        138
+      ],
+      "split": "train",
+      "draw": 74,
+      "centerline_equivalence_sha256": "0932e1111bd21aef16641a7b06b051d808737b1b439ff48574bded7c6be858f0",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_84a03614c61af41b",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.3,
+        "R_min_um": 4.4750000000000005
+      },
+      "parameter_key": [
+        19,
+        172,
+        179
+      ],
+      "split": "train",
+      "draw": 75,
+      "centerline_equivalence_sha256": "09c7b8f8b8531ff2b3685609c6542dda182b335a2f878bc28c6ce70e9b5a8a87",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_34fb48432b569ef7",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.85,
+        "R_min_um": 3.85
+      },
+      "parameter_key": [
+        19,
+        114,
+        154
+      ],
+      "split": "train",
+      "draw": 73,
+      "centerline_equivalence_sha256": "2ee83b0b2b4513d3022625ea693c463ece1d8a2a6bcba70ffef28e85078a8c23",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_7bd6f45869dc8efc",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.475,
+        "R_min_um": 3.4000000000000004
+      },
+      "parameter_key": [
+        19,
+        99,
+        136
+      ],
+      "split": "train",
+      "draw": 70,
+      "centerline_equivalence_sha256": "19ba8612f63b7e27d65209ca4363cd7571ddb75ccdb727e7c079f9d9ba94a66a",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_ffb16b4aaf5dc2c1",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.675,
+        "R_min_um": 4.075
+      },
+      "parameter_key": [
+        19,
+        187,
+        163
+      ],
+      "split": "train",
+      "draw": 77,
+      "centerline_equivalence_sha256": "31282b6db2b648a1e62ffe2c230cfb2b957d40bc7a1c7db83c1d3a2f8ff95d59",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_7e7a30ae2503ebdb",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.175,
+        "R_min_um": 3.4000000000000004
+      },
+      "parameter_key": [
+        19,
+        167,
+        136
+      ],
+      "split": "train",
+      "draw": 76,
+      "centerline_equivalence_sha256": "24a75875012507e8d23d6a1fcae43bbebcfae89b17a1edc6127eadd5077616aa",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_9c51852c026c02f9",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.3000000000000003,
+        "R_min_um": 6.875
+      },
+      "parameter_key": [
+        19,
+        132,
+        275
+      ],
+      "split": "train",
+      "draw": 72,
+      "centerline_equivalence_sha256": "0fb8d40eba5a9979ea03b05f3572a5e2c36f43fea4181e7f11ba6db033c13a9f",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_4c1b16ba870e3b8d",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.0,
+        "R_min_um": 4.4
+      },
+      "parameter_key": [
+        19,
+        80,
+        176
+      ],
+      "split": "train",
+      "draw": 71,
+      "centerline_equivalence_sha256": "179114beeb342f3d8ab98f63a4af80bb79c019efa3b6a70b74ba9d627586bbd1",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_3fa5366102a208d2",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.975,
+        "R_min_um": 4.75
+      },
+      "parameter_key": [
+        19,
+        119,
+        190
+      ],
+      "split": "val",
+      "draw": 79,
+      "centerline_equivalence_sha256": "c7a71f8e1c31ceec1ab9115b3dc0886b12c30655f959db9541b9f9765fcd5b31",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_dc4aa3d428a3787d",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 5.050000000000001,
+        "R_min_um": 5.2250000000000005
+      },
+      "parameter_key": [
+        19,
+        202,
+        209
+      ],
+      "split": "val",
+      "draw": 78,
+      "centerline_equivalence_sha256": "43e09a63c4e1d7ca2b24c282f2d670859c8113d542948134b5b0e31042eaabaa",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_617fc269af231f57",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.1,
+        "R_min_um": 6.75
+      },
+      "parameter_key": [
+        19,
+        84,
+        270
+      ],
+      "split": "test",
+      "draw": 91,
+      "centerline_equivalence_sha256": "331fd9a2853a59a1b2254247cc8909e2c59d31304291eadbef36ff857ec4e217",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_6256dae31005fc5c",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.9000000000000004,
+        "R_min_um": 4.45
+      },
+      "parameter_key": [
+        19,
+        116,
+        178
+      ],
+      "split": "test",
+      "draw": 81,
+      "centerline_equivalence_sha256": "58d82c2f87d9b8976f8d9345363624e235aca2fb2b233e4bcf512d01d30cd04d",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_472da2bfb3d11df2",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.425,
+        "R_min_um": 4.8500000000000005
+      },
+      "parameter_key": [
+        19,
+        177,
+        194
+      ],
+      "split": "test",
+      "draw": 86,
+      "centerline_equivalence_sha256": "0a04ca364235e9158c88714c16db636bf10c00abd428a57940e7371e92961f42",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_a28d589ddd9a07c3",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.125,
+        "R_min_um": 3.1500000000000004
+      },
+      "parameter_key": [
+        19,
+        85,
+        126
+      ],
+      "split": "test",
+      "draw": 82,
+      "centerline_equivalence_sha256": "a7676dcdf37acc31f2c568dffe4ad310d91d15c7b46917c6bb1eb024192b8200",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_9d2793a999396e46",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.425,
+        "R_min_um": 6.8500000000000005
+      },
+      "parameter_key": [
+        19,
+        177,
+        274
+      ],
+      "split": "test",
+      "draw": 90,
+      "centerline_equivalence_sha256": "0158dab61811435d7b7474c6e26ee3ea75b2175ae5206cdd6ac1118cd92f8a34",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_ef0590c70fab5284",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.6750000000000003,
+        "R_min_um": 6.125
+      },
+      "parameter_key": [
+        19,
+        147,
+        245
+      ],
+      "split": "test",
+      "draw": 80,
+      "centerline_equivalence_sha256": "5f9c072011d06305db0dc1746193ff077ebecf475b07ef765348f4e4c960a9a9",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_dc9983cb48513a2b",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.9250000000000003,
+        "R_min_um": 6.875
+      },
+      "parameter_key": [
+        19,
+        157,
+        275
+      ],
+      "split": "test",
+      "draw": 83,
+      "centerline_equivalence_sha256": "327de32aa24a4c4ed8e140c9cd30d76fd4fb64ee3792adc5ef9633ff8421efb3",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_2b0533b3a3656ec3",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.025,
+        "R_min_um": 3.1
+      },
+      "parameter_key": [
+        19,
+        161,
+        124
+      ],
+      "split": "test",
+      "draw": 84,
+      "centerline_equivalence_sha256": "08c514132a0d879681d889d3162cdb1fbe67d486430dbbc5ce81d5bd1bc4d01e",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_c83c398aa1a9dbba",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.6,
+        "R_min_um": 4.325
+      },
+      "parameter_key": [
+        19,
+        104,
+        173
+      ],
+      "split": "test",
+      "draw": 88,
+      "centerline_equivalence_sha256": "12c0fb0ab72c22aedd095cfd05f0b5d3dc3e84373020dfc0b72273811e005811",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_12d557a1f7089632",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.575,
+        "R_min_um": 5.275
+      },
+      "parameter_key": [
+        19,
+        143,
+        211
+      ],
+      "split": "test",
+      "draw": 89,
+      "centerline_equivalence_sha256": "469f17e5565e21adc9b712846dc386ce0d7dc02697eafec2beab79b50d9a09cf",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_ad03d1e57963a056",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.0,
+        "R_min_um": 3.475
+      },
+      "parameter_key": [
+        19,
+        160,
+        139
+      ],
+      "split": "test",
+      "draw": 85,
+      "centerline_equivalence_sha256": "2bb86194b2e85080869b29c3bca4764adb0015a50e4a374d468d7b747beedff5",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_bda7f89697890c33",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.975,
+        "R_min_um": 3.2750000000000004
+      },
+      "parameter_key": [
+        19,
+        159,
+        131
+      ],
+      "split": "test",
+      "draw": 92,
+      "centerline_equivalence_sha256": "05f18696d59bfbf74bed89a781b85fff89082d86d425381e54b31f81950a6a81",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f1250ea07746244c",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.2750000000000004,
+        "R_min_um": 3.825
+      },
+      "parameter_key": [
+        19,
+        131,
+        153
+      ],
+      "split": "test",
+      "draw": 87,
+      "centerline_equivalence_sha256": "72d8de265fda17264d01941bd6f7391a8e374ac56cca2e89ecbe4bede8c75b5b",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_ad76ad7ae509896f",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 5.0,
+        "R_min_um": 4.15
+      },
+      "parameter_key": [
+        20,
+        200,
+        166
+      ],
+      "split": "train",
+      "draw": 100,
+      "centerline_equivalence_sha256": "166005004a5660ac09cdd7fc099bf232e744e93f8477301023f329edc1465bb5",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_04522f3ca5477659",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.6000000000000005,
+        "R_min_um": 5.300000000000001
+      },
+      "parameter_key": [
+        20,
+        184,
+        212
+      ],
+      "split": "train",
+      "draw": 95,
+      "centerline_equivalence_sha256": "082bd69e40b17c4145d485f87905a4aead3ba0bb79f3ba645da29f60bbdebdcb",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_fa7444b28d560fe2",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 5.45,
+        "R_min_um": 5.2
+      },
+      "parameter_key": [
+        20,
+        218,
+        208
+      ],
+      "split": "train",
+      "draw": 93,
+      "centerline_equivalence_sha256": "03179c818469c4d0b93e659c6ee3f60069ccffb519790cd9754cc3fb838f62c0",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_507dcead458c7fbc",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.7750000000000004,
+        "R_min_um": 5.575
+      },
+      "parameter_key": [
+        20,
+        151,
+        223
+      ],
+      "split": "train",
+      "draw": 96,
+      "centerline_equivalence_sha256": "19746af72aa8f96091e1b66d4f8c3c3aec88ecff0f37ffb54fcb73c732065294",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_91d8a6de49bbe552",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.05,
+        "R_min_um": 3.7
+      },
+      "parameter_key": [
+        20,
+        162,
+        148
+      ],
+      "split": "train",
+      "draw": 99,
+      "centerline_equivalence_sha256": "19fa86fb25ce5903b7c479e243f63d56542890931d6f90e49bed7460b9e08a20",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_d8caea0df5e029fb",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.0,
+        "R_min_um": 4.8500000000000005
+      },
+      "parameter_key": [
+        20,
+        80,
+        194
+      ],
+      "split": "train",
+      "draw": 94,
+      "centerline_equivalence_sha256": "5b9f18deff5f185aaab529768cd558ddd0f5cde1738e615c5e4fd0448776888c",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_16e1942398e89fb4",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.4000000000000004,
+        "R_min_um": 6.625
+      },
+      "parameter_key": [
+        20,
+        136,
+        265
+      ],
+      "split": "train",
+      "draw": 98,
+      "centerline_equivalence_sha256": "2809c4f390d719541fd89f0e663a5309040efde8f647c2b0284c9048b6ed462a",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_b5478de9b11a8a77",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.075,
+        "R_min_um": 5.0
+      },
+      "parameter_key": [
+        20,
+        83,
+        200
+      ],
+      "split": "train",
+      "draw": 97,
+      "centerline_equivalence_sha256": "39aac13c909b8ee92503783fb290d5861bbb9f9cc4950f1c620daae0131c3a36",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_e311762bb97d429a",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.725,
+        "R_min_um": 6.45
+      },
+      "parameter_key": [
+        20,
+        109,
+        258
+      ],
+      "split": "val",
+      "draw": 102,
+      "centerline_equivalence_sha256": "06353cf97ca3a66337f7237ff6024ff356807780d0d2abb33aca428cc7205cfc",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_857db7e02792cf40",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.275,
+        "R_min_um": 4.625
+      },
+      "parameter_key": [
+        20,
+        91,
+        185
+      ],
+      "split": "val",
+      "draw": 101,
+      "centerline_equivalence_sha256": "20c63186507a9f3c53642fe9f0b378967b525695d00065dff7c271d76af9d354",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_c3a88ca664cf4b20",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 5.2250000000000005,
+        "R_min_um": 4.8500000000000005
+      },
+      "parameter_key": [
+        20,
+        209,
+        194
+      ],
+      "split": "test",
+      "draw": 111,
+      "centerline_equivalence_sha256": "07c86dcbee1d869c2c7a7ab5ed599f376aace7c5d79db96b5e7732f49d9094c5",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_c1fa13035b84997c",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.45,
+        "R_min_um": 5.800000000000001
+      },
+      "parameter_key": [
+        20,
+        138,
+        232
+      ],
+      "split": "test",
+      "draw": 107,
+      "centerline_equivalence_sha256": "10165f208a03e3bb423b218e0b6abb9b61443e6e84b67c408c6d8a48529c9569",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_452673513342d2c6",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.9250000000000003,
+        "R_min_um": 3.95
+      },
+      "parameter_key": [
+        20,
+        157,
+        158
+      ],
+      "split": "test",
+      "draw": 105,
+      "centerline_equivalence_sha256": "5eafd848a570a04754ee4106e2bdcb09e62ae60c06e0d7448a8fc4a30c714c5e",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_05ae16187e0c2b22",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 5.075,
+        "R_min_um": 4.325
+      },
+      "parameter_key": [
+        20,
+        203,
+        173
+      ],
+      "split": "test",
+      "draw": 103,
+      "centerline_equivalence_sha256": "83ff255c113abb447d85b44e65caf0c13eb9aab5441f7d264fd903a3adbb89e0",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_ce333fbe01abb0d2",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.975,
+        "R_min_um": 4.45
+      },
+      "parameter_key": [
+        20,
+        119,
+        178
+      ],
+      "split": "test",
+      "draw": 109,
+      "centerline_equivalence_sha256": "17a1a23c572dce002c0748ced3f6f74846c34260eb793aeec1b97dda9e1c085f",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_85114cafcbc01304",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.0500000000000003,
+        "R_min_um": 3.375
+      },
+      "parameter_key": [
+        20,
+        82,
+        135
+      ],
+      "split": "test",
+      "draw": 108,
+      "centerline_equivalence_sha256": "28faa78d1c7b9df3c598fdaed4ad86a329b0c8b7711a6e826c2f488fac1d6feb",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_252d7c424deac4e8",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.95,
+        "R_min_um": 4.575
+      },
+      "parameter_key": [
+        20,
+        118,
+        183
+      ],
+      "split": "test",
+      "draw": 110,
+      "centerline_equivalence_sha256": "3133cdee0c381aaddae6b47a224271dd138e6cee4c47e345c6ad9ff92d1d4a94",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_1161b915967e431e",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.9250000000000003,
+        "R_min_um": 5.800000000000001
+      },
+      "parameter_key": [
+        20,
+        117,
+        232
+      ],
+      "split": "test",
+      "draw": 106,
+      "centerline_equivalence_sha256": "596b112704d446319ebd5916e1ecc6f5a7fe8f80f57820c0a2445d334d06120d",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_374a8b3397dcf4e6",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.05,
+        "R_min_um": 6.175000000000001
+      },
+      "parameter_key": [
+        20,
+        162,
+        247
+      ],
+      "split": "test",
+      "draw": 112,
+      "centerline_equivalence_sha256": "0d370f4f4ab0680dfcb33ec92d897243832515cf636d007b17b9ad54de08ced4",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_ce3d6a6245684a0e",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.625,
+        "R_min_um": 3.575
+      },
+      "parameter_key": [
+        20,
+        105,
+        143
+      ],
+      "split": "test",
+      "draw": 113,
+      "centerline_equivalence_sha256": "44cf4cf69e880e18c745949c01e706a8d275c5888c4b0ba7b60c5cb230d2d969",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_83bc24ae472b1535",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.7,
+        "R_min_um": 4.075
+      },
+      "parameter_key": [
+        20,
+        108,
+        163
+      ],
+      "split": "test",
+      "draw": 104,
+      "centerline_equivalence_sha256": "3653fae3c09120c77c9d8b8dcb7e58273169ade4f4770f21a9d2bf4bc10b18c7",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_729d3e0f49032af3",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.5,
+        "R_min_um": 5.5
+      },
+      "parameter_key": [
+        20,
+        140,
+        220
+      ],
+      "split": "test",
+      "draw": 114,
+      "centerline_equivalence_sha256": "3c47a4ffbe97cefb48699aa77ae079f470738e091e8c096e36c19d682b526d14",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_611db374d8183b86",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.525,
+        "R_min_um": 4.45
+      },
+      "parameter_key": [
+        21,
+        181,
+        178
+      ],
+      "split": "train",
+      "draw": 118,
+      "centerline_equivalence_sha256": "537889c0c53c53bfa8611f48b29094f27e5feb3856450a93a4f7d0c6fe4ccea1",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_e3f047cc0b710887",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.8000000000000003,
+        "R_min_um": 4.4750000000000005
+      },
+      "parameter_key": [
+        21,
+        152,
+        179
+      ],
+      "split": "train",
+      "draw": 115,
+      "centerline_equivalence_sha256": "255a092b807878032452c5f59b033c48461c6f782389c959a7f9a49e51e2fb9f",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_d93f8c198d2a7608",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.025,
+        "R_min_um": 6.800000000000001
+      },
+      "parameter_key": [
+        21,
+        81,
+        272
+      ],
+      "split": "train",
+      "draw": 121,
+      "centerline_equivalence_sha256": "01615168f06b580a6c2e715096dd2a39d11cdfd6046ee051a6882456e8f819bf",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_6868aef75701c526",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.625,
+        "R_min_um": 5.7250000000000005
+      },
+      "parameter_key": [
+        21,
+        185,
+        229
+      ],
+      "split": "train",
+      "draw": 117,
+      "centerline_equivalence_sha256": "b02f08b256243740b644e3d4b1734a4bfbb3af20c5aca0dfd68dabc06efd6613",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f5650856b9273682",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.725,
+        "R_min_um": 4.175
+      },
+      "parameter_key": [
+        21,
+        149,
+        167
+      ],
+      "split": "train",
+      "draw": 116,
+      "centerline_equivalence_sha256": "211202aee7286352da5821b422799d70cbaf9fa401c44538354b3003152b4024",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a47f25f60371a112",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.375,
+        "R_min_um": 4.75
+      },
+      "parameter_key": [
+        21,
+        135,
+        190
+      ],
+      "split": "train",
+      "draw": 119,
+      "centerline_equivalence_sha256": "1fc4b6b1835c72df6e9cdbfe0e3838f67bf5cf31f2e216d895cc73337ad36d60",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_bc38eaffab052902",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 5.025,
+        "R_min_um": 6.9750000000000005
+      },
+      "parameter_key": [
+        21,
+        201,
+        279
+      ],
+      "split": "train",
+      "draw": 122,
+      "centerline_equivalence_sha256": "80824808c22ac6ecdbf1174df4325afaeb60c1c34adb695ab9e9916058155d4d",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_87bb0d7d2df39c12",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.1000000000000005,
+        "R_min_um": 6.125
+      },
+      "parameter_key": [
+        21,
+        164,
+        245
+      ],
+      "split": "train",
+      "draw": 120,
+      "centerline_equivalence_sha256": "10efa97eace05ce6e5b209337080204bbe24e440567fc427dcaa5a2cda446e67",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_fb605cc29e62371b",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 5.2250000000000005,
+        "R_min_um": 3.9000000000000004
+      },
+      "parameter_key": [
+        21,
+        209,
+        156
+      ],
+      "split": "val",
+      "draw": 124,
+      "centerline_equivalence_sha256": "14f6188c5a52e8fe6fab07797082ab4fe58e96c08a72e3abc958e1df925c7b80",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f554081fea1500f2",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.375,
+        "R_min_um": 3.0250000000000004
+      },
+      "parameter_key": [
+        21,
+        95,
+        121
+      ],
+      "split": "val",
+      "draw": 123,
+      "centerline_equivalence_sha256": "3e68f74a70977498354e25a222a1d8bb878bb2cd58bf9e5b3508fdc0b71b3152",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_cf5098fd26cd2672",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.7750000000000004,
+        "R_min_um": 3.9250000000000003
+      },
+      "parameter_key": [
+        21,
+        151,
+        157
+      ],
+      "split": "test",
+      "draw": 131,
+      "centerline_equivalence_sha256": "21b4649e58ebe212680d7f48ade2b6816e09c4a13fc4b17454660f66d1513564",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_493c8fd5c2b77cc2",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.25,
+        "R_min_um": 6.25
+      },
+      "parameter_key": [
+        21,
+        170,
+        250
+      ],
+      "split": "test",
+      "draw": 134,
+      "centerline_equivalence_sha256": "1ce7694a43f7c7fe5bf59e74777b512be21b400a351a6b5b94141cd4989ee712",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_dd48ece99c3021ee",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 5.275,
+        "R_min_um": 4.8500000000000005
+      },
+      "parameter_key": [
+        21,
+        211,
+        194
+      ],
+      "split": "test",
+      "draw": 127,
+      "centerline_equivalence_sha256": "06bae2175de68966fbc65b1c3ee8fd0cf80c8d82a92d99df6eb1ef3a48dbc868",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_afbd24d3220fd074",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 5.425000000000001,
+        "R_min_um": 4.6000000000000005
+      },
+      "parameter_key": [
+        21,
+        217,
+        184
+      ],
+      "split": "test",
+      "draw": 128,
+      "centerline_equivalence_sha256": "00c74c3771435850a159c233418b6b554a853075449b39cd68d508d051a5e17d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_4b64cc5239527eec",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.6000000000000005,
+        "R_min_um": 3.1500000000000004
+      },
+      "parameter_key": [
+        21,
+        184,
+        126
+      ],
+      "split": "test",
+      "draw": 125,
+      "centerline_equivalence_sha256": "0e5f8324ebd57503e10f28ed74e0ca662e1466281a071e8eb8456f6173eec2a5",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_95a51a030604d5ae",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.8000000000000003,
+        "R_min_um": 3.8000000000000003
+      },
+      "parameter_key": [
+        21,
+        152,
+        152
+      ],
+      "split": "test",
+      "draw": 136,
+      "centerline_equivalence_sha256": "53905b2355a4becb93ed026460458c76cf788bcdf6bfa71ebdcd5297e3a944ee",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_b7585ed72c85aa71",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.95,
+        "R_min_um": 3.25
+      },
+      "parameter_key": [
+        21,
+        158,
+        130
+      ],
+      "split": "test",
+      "draw": 129,
+      "centerline_equivalence_sha256": "005ef9e1e13c9298617a408f1d6d96c5995a27e5118383b571085e9e084f365f",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_157f99e349c69b9d",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.5500000000000003,
+        "R_min_um": 4.75
+      },
+      "parameter_key": [
+        21,
+        142,
+        190
+      ],
+      "split": "test",
+      "draw": 132,
+      "centerline_equivalence_sha256": "52136f79fe23bacc37d66bd4f65a4c50ae0dccc41ce642150579de5d8860a2c7",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_4b938db8952eaeb3",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 3.25,
+        "R_min_um": 3.2
+      },
+      "parameter_key": [
+        21,
+        130,
+        128
+      ],
+      "split": "test",
+      "draw": 126,
+      "centerline_equivalence_sha256": "04a513db08697a144be3dae4deb546c01e24f2ab927e0c46d675adec2c80c4f7",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_a0362856742b3681",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 5.4750000000000005,
+        "R_min_um": 6.45
+      },
+      "parameter_key": [
+        21,
+        219,
+        258
+      ],
+      "split": "test",
+      "draw": 130,
+      "centerline_equivalence_sha256": "1352ef96e8fce63cc46978df06819334c4d6d287d102c77b112e2a6d60b88057",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_7ab82de5e4e8fbee",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.75,
+        "R_min_um": 4.175
+      },
+      "parameter_key": [
+        21,
+        190,
+        167
+      ],
+      "split": "test",
+      "draw": 133,
+      "centerline_equivalence_sha256": "06681e94728c4835de43c857159c10a93296e066921011732f9c3335a76a65b2",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_4577e3f19b509844",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.7,
+        "R_min_um": 6.125
+      },
+      "parameter_key": [
+        21,
+        108,
+        245
+      ],
+      "split": "test",
+      "draw": 135,
+      "centerline_equivalence_sha256": "369bbdb82a2415d117c9d9b72cfa1bfa2f28214a0f98a656ddb440b2a44007cf",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_1304bb99296598f3",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 4.6000000000000005,
+        "R_min_um": 4.1000000000000005
+      },
+      "parameter_key": [
+        22,
+        184,
+        164
+      ],
+      "split": "train",
+      "draw": 141,
+      "centerline_equivalence_sha256": "9f194fda576ad788e0a10f521ddf7b550314752c987afd758d27a79fd0ca25b9",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_0dd86788b5131757",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 5.45,
+        "R_min_um": 4.2250000000000005
+      },
+      "parameter_key": [
+        22,
+        218,
+        169
+      ],
+      "split": "train",
+      "draw": 142,
+      "centerline_equivalence_sha256": "034f78fd3e7c300d0919607a2baac64752b91d1151070444c6819aa2d1b5d70f",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_28a174bf728b2a10",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 4.45,
+        "R_min_um": 3.5500000000000003
+      },
+      "parameter_key": [
+        22,
+        178,
+        142
+      ],
+      "split": "train",
+      "draw": 138,
+      "centerline_equivalence_sha256": "7b3056c1984ac37690fbe5ee5435bc781af361fde68e0e2d67dafad810d078cd",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_218bbabb9c89f183",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.825,
+        "R_min_um": 5.825
+      },
+      "parameter_key": [
+        22,
+        153,
+        233
+      ],
+      "split": "train",
+      "draw": 143,
+      "centerline_equivalence_sha256": "04c9118b506b5af2cbb98ea9bf99ebc9f263d4b745e597a00f3c315d449fe96f",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_faf1a7ae1f358953",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 2.4000000000000004,
+        "R_min_um": 5.800000000000001
+      },
+      "parameter_key": [
+        22,
+        96,
+        232
+      ],
+      "split": "train",
+      "draw": 137,
+      "centerline_equivalence_sha256": "2fcd5545c846cb8fa0a8929bac5d8d79e2db22fe508eac0a5c480bb96bf58a0e",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_ea3ff32c8fed5651",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 5.125,
+        "R_min_um": 6.925000000000001
+      },
+      "parameter_key": [
+        22,
+        205,
+        277
+      ],
+      "split": "train",
+      "draw": 139,
+      "centerline_equivalence_sha256": "323f62bd4c96238ef6216fe98f330864f64400cea457c644d4e685988896c491",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_72b28718e06d6f3b",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 4.7250000000000005,
+        "R_min_um": 4.3
+      },
+      "parameter_key": [
+        22,
+        189,
+        172
+      ],
+      "split": "train",
+      "draw": 144,
+      "centerline_equivalence_sha256": "a33dc4010adbee5a650ad98bc29fb393be40795fa45de8b3f49bee57baec9206",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_913aa7e117c8aa88",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 5.1000000000000005,
+        "R_min_um": 6.2250000000000005
+      },
+      "parameter_key": [
+        22,
+        204,
+        249
+      ],
+      "split": "train",
+      "draw": 140,
+      "centerline_equivalence_sha256": "663c7cabb8f9aa38e3d63049d38bb1ecf2469e4673a08488f56b75a84f8d6197",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_9b4c189716765155",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 4.4750000000000005,
+        "R_min_um": 6.75
+      },
+      "parameter_key": [
+        22,
+        179,
+        270
+      ],
+      "split": "val",
+      "draw": 146,
+      "centerline_equivalence_sha256": "05e67f530f9158127beddf8d3280901b01be0429eae561aa5a5077574154ce97",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_8234da11ad95c9b7",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.7750000000000004,
+        "R_min_um": 5.3500000000000005
+      },
+      "parameter_key": [
+        22,
+        151,
+        214
+      ],
+      "split": "val",
+      "draw": 145,
+      "centerline_equivalence_sha256": "27f30d67a7fb8114ab1d5d22abae935602070c01d3a39686249d535d3794cba8",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_8f4134519710a6da",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 2.025,
+        "R_min_um": 5.925000000000001
+      },
+      "parameter_key": [
+        22,
+        81,
+        237
+      ],
+      "split": "test",
+      "draw": 148,
+      "centerline_equivalence_sha256": "303b752fa2d9ed0733d5b77eb24d1c9b3251a9890b39d0c9253379e6de83fe95",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_95389e2a6c626e83",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.8000000000000003,
+        "R_min_um": 4.95
+      },
+      "parameter_key": [
+        22,
+        152,
+        198
+      ],
+      "split": "test",
+      "draw": 158,
+      "centerline_equivalence_sha256": "036775b9664326e8d1575f081c3d145555f6c9b392182b4694cc4f4f1e69ac95",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_c924354eed01be8f",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.375,
+        "R_min_um": 6.625
+      },
+      "parameter_key": [
+        22,
+        135,
+        265
+      ],
+      "split": "test",
+      "draw": 153,
+      "centerline_equivalence_sha256": "1c54d32d1aba04d401785530516be9c874b56a68d3c33a977c67ea7c6fec17c2",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_85a0e3364b52f84e",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 4.95,
+        "R_min_um": 6.875
+      },
+      "parameter_key": [
+        22,
+        198,
+        275
+      ],
+      "split": "test",
+      "draw": 157,
+      "centerline_equivalence_sha256": "29adca15dabc5aaeb178867e9ad9185401e4cd62dcc3f1d4e2286b8e89238c6a",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_3e47e7625bb47e45",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.125,
+        "R_min_um": 3.1500000000000004
+      },
+      "parameter_key": [
+        22,
+        125,
+        126
+      ],
+      "split": "test",
+      "draw": 151,
+      "centerline_equivalence_sha256": "1c0fcb642e97f19a95ed1babe4ec7aa7e50a1bee968970a34692eb7d57e15d4b",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_241ed73960e09b4b",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.975,
+        "R_min_um": 5.275
+      },
+      "parameter_key": [
+        22,
+        159,
+        211
+      ],
+      "split": "test",
+      "draw": 152,
+      "centerline_equivalence_sha256": "0642cac08a710f342983cf5058a76506648b6ea90efd7d5d11ebbe1a55096d5d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_8f0c368f23347bbc",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.875,
+        "R_min_um": 4.9750000000000005
+      },
+      "parameter_key": [
+        22,
+        155,
+        199
+      ],
+      "split": "test",
+      "draw": 149,
+      "centerline_equivalence_sha256": "5aaea70e897972bc59030f1f12f36a386730bb65f2382da37be3fa5260b556ba",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_a273405f0593bc45",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.6,
+        "R_min_um": 3.2750000000000004
+      },
+      "parameter_key": [
+        22,
+        144,
+        131
+      ],
+      "split": "test",
+      "draw": 154,
+      "centerline_equivalence_sha256": "5d95d8704e84517c929ae87d0b43952f7f80c32717bfe9938ce4c5b8bd730ffc",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_7050fc4283274840",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 2.625,
+        "R_min_um": 6.45
+      },
+      "parameter_key": [
+        22,
+        105,
+        258
+      ],
+      "split": "test",
+      "draw": 156,
+      "centerline_equivalence_sha256": "74fbd242f7eb40fa8a8a9435daf5d5f8b9fdc991dc1624ba658fd68c60c45631",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_a15767d62a14caef",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.1750000000000003,
+        "R_min_um": 6.5
+      },
+      "parameter_key": [
+        22,
+        127,
+        260
+      ],
+      "split": "test",
+      "draw": 147,
+      "centerline_equivalence_sha256": "21a4347d0f0fe18ceca52011410c17503409b17757da258c29499dec9b95d270",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_27f0d894d35ec6ca",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 2.1750000000000003,
+        "R_min_um": 4.4750000000000005
+      },
+      "parameter_key": [
+        22,
+        87,
+        179
+      ],
+      "split": "test",
+      "draw": 155,
+      "centerline_equivalence_sha256": "1618ff896b057ec2402b83d3eb0ac7d644006780f418768d7143bc0d208c7a6e",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_dc2f828ad74f43a5",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 4.125
+      },
+      "parameter_key": [
+        22,
+        106,
+        165
+      ],
+      "split": "test",
+      "draw": 150,
+      "centerline_equivalence_sha256": "8ae6ecc0735ebfd23154fc366d625bcf24f037ecd72d84cd135e3f0b3a7b8d8a",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_796976fd51d4ed75",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.1,
+        "R_min_um": 4.6000000000000005
+      },
+      "parameter_key": [
+        23,
+        124,
+        184
+      ],
+      "split": "train",
+      "draw": 165,
+      "centerline_equivalence_sha256": "02ca6fcb59ec71a4023517a886e0723b367c5ec3c18c0a5dc85604e35eb6e129",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_e6349fd1205a5da7",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.375,
+        "R_min_um": 6.275
+      },
+      "parameter_key": [
+        23,
+        135,
+        251
+      ],
+      "split": "train",
+      "draw": 162,
+      "centerline_equivalence_sha256": "18cc3804cd887ed629d0da49e11500ee970e8e5cae788b1a066c08d3a6639fc2",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_e782e9ba99b18532",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.9250000000000003,
+        "R_min_um": 5.7250000000000005
+      },
+      "parameter_key": [
+        23,
+        157,
+        229
+      ],
+      "split": "train",
+      "draw": 166,
+      "centerline_equivalence_sha256": "1f328299819f529b1d185c9030191c2d52217a7ecb0309f26cedc7714ff1c744",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_1c1263a6e7e00946",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.55,
+        "R_min_um": 4.9
+      },
+      "parameter_key": [
+        23,
+        182,
+        196
+      ],
+      "split": "train",
+      "draw": 160,
+      "centerline_equivalence_sha256": "138080c03c8d9f5befa1b50db9b678a342554da624c6d5f85d6404e0f9580175",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_25309c1b3cbd1a37",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.825,
+        "R_min_um": 6.525
+      },
+      "parameter_key": [
+        23,
+        193,
+        261
+      ],
+      "split": "train",
+      "draw": 164,
+      "centerline_equivalence_sha256": "22048a001c56651540d1d35f12325fc2901cf761dcf9592f5d8dd404f1d4e116",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f8d3c1cc6eb5f3fe",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.575,
+        "R_min_um": 6.575
+      },
+      "parameter_key": [
+        23,
+        103,
+        263
+      ],
+      "split": "train",
+      "draw": 161,
+      "centerline_equivalence_sha256": "264149025d372b6a46122e4108ba01a6206f753cebe50b0ae8aa1e3aca50e52d",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_dcea1b587a89c188",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.4250000000000003,
+        "R_min_um": 4.2250000000000005
+      },
+      "parameter_key": [
+        23,
+        137,
+        169
+      ],
+      "split": "train",
+      "draw": 163,
+      "centerline_equivalence_sha256": "73d6b792ad9da9554457ea0349a1e4e3b6c796be9a9b0bbabf402dff5308326d",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_c1bb2c7d168d3dd0",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.3000000000000003,
+        "R_min_um": 4.25
+      },
+      "parameter_key": [
+        23,
+        132,
+        170
+      ],
+      "split": "train",
+      "draw": 159,
+      "centerline_equivalence_sha256": "07ff6f88d460cba1f2d6b8522a7739d8acb2624347b049eee37616ac98b9254a",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_aad08ac813ebb216",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.5,
+        "R_min_um": 3.5
+      },
+      "parameter_key": [
+        23,
+        100,
+        140
+      ],
+      "split": "val",
+      "draw": 168,
+      "centerline_equivalence_sha256": "75a0931b10325956ba9f6de7f4676b1987862687ef881b5adb1129916c8f4ed0",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_4dbd79bb24231754",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 5.2,
+        "R_min_um": 6.25
+      },
+      "parameter_key": [
+        23,
+        208,
+        250
+      ],
+      "split": "val",
+      "draw": 167,
+      "centerline_equivalence_sha256": "7cf29af84b5d1728d1cefe1d849c2065541de918c32ea59dee22d4f768279a54",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_ec4b9b5df385c7ad",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.85,
+        "R_min_um": 6.125
+      },
+      "parameter_key": [
+        23,
+        154,
+        245
+      ],
+      "split": "test",
+      "draw": 170,
+      "centerline_equivalence_sha256": "72c0d797b5081cb6eaa99b750157a96c82ade7d0f148a258ade09db01bbf4574",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_6f034e04be36e1e5",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.5250000000000004,
+        "R_min_um": 6.175000000000001
+      },
+      "parameter_key": [
+        23,
+        101,
+        247
+      ],
+      "split": "test",
+      "draw": 175,
+      "centerline_equivalence_sha256": "0e768b2d0f627d64f047264094550d7a5518f1204afb5f0b6c143f3aa66508d1",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_1c92ed3139e37dd8",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.25,
+        "R_min_um": 5.6000000000000005
+      },
+      "parameter_key": [
+        23,
+        90,
+        224
+      ],
+      "split": "test",
+      "draw": 177,
+      "centerline_equivalence_sha256": "af672a272e1bd6898b98832d0cb85c3e42abcc110f2a3395110c92d008fbefed",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_f2c3af9e69e413db",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.325,
+        "R_min_um": 5.525
+      },
+      "parameter_key": [
+        23,
+        173,
+        221
+      ],
+      "split": "test",
+      "draw": 180,
+      "centerline_equivalence_sha256": "2b50cd4b5538b9b431974d48cb8c8f2781b7bc3c5877af12ee3aed1141f2da31",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_772c0377a3771952",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.5500000000000003,
+        "R_min_um": 5.4750000000000005
+      },
+      "parameter_key": [
+        23,
+        102,
+        219
+      ],
+      "split": "test",
+      "draw": 173,
+      "centerline_equivalence_sha256": "05a3d7e1883c47def44806eb51d6efba462c744aad1ab27170c857c817374136",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_892f2f685907e125",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.075,
+        "R_min_um": 3.95
+      },
+      "parameter_key": [
+        23,
+        83,
+        158
+      ],
+      "split": "test",
+      "draw": 179,
+      "centerline_equivalence_sha256": "3adacd3089bc3065337849b78ef1e5235f4f836cf59d2d6341ac69e2780e4168",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_7c1caeaa718f5310",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.6000000000000005,
+        "R_min_um": 6.125
+      },
+      "parameter_key": [
+        23,
+        184,
+        245
+      ],
+      "split": "test",
+      "draw": 169,
+      "centerline_equivalence_sha256": "6e569d0a31dce77991fc0d92bac2d0266231ed9aaea5973fa753e82a9d5c098c",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_153d783d8187f16c",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.55,
+        "R_min_um": 3.575
+      },
+      "parameter_key": [
+        23,
+        182,
+        143
+      ],
+      "split": "test",
+      "draw": 176,
+      "centerline_equivalence_sha256": "139cada60d6e59aeef9c88c5ade786acad1c89e7d40997a2f7f5b9ed78cd81b6",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_0089dbb9ea28fbbb",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.45,
+        "R_min_um": 5.0
+      },
+      "parameter_key": [
+        23,
+        138,
+        200
+      ],
+      "split": "test",
+      "draw": 178,
+      "centerline_equivalence_sha256": "31ada9d8e401033b2c93bb86e3e7937829eac0c581b7c01e0273b734caa339f7",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_58e433f459098a7e",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.85,
+        "R_min_um": 5.275
+      },
+      "parameter_key": [
+        23,
+        154,
+        211
+      ],
+      "split": "test",
+      "draw": 171,
+      "centerline_equivalence_sha256": "0763aeabb93fb87a899e630f29d9f219af00cc804c5d3a0430af47f1fe0e3065",
+      "input_port": 1
+    },
+    {
+      "geometry_id": "sbend_formal_1a6f1430fb918e50",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.75,
+        "R_min_um": 6.075
+      },
+      "parameter_key": [
+        23,
+        190,
+        243
+      ],
+      "split": "test",
+      "draw": 174,
+      "centerline_equivalence_sha256": "773a847ecca6afcaee3a1c4c8b814bfd8e39247818464628e0d2ecf7678589da",
+      "input_port": 2
+    },
+    {
+      "geometry_id": "sbend_formal_b95c047d73faaee5",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.7,
+        "R_min_um": 5.3500000000000005
+      },
+      "parameter_key": [
+        23,
+        108,
+        214
+      ],
+      "split": "test",
+      "draw": 172,
+      "centerline_equivalence_sha256": "5b3a0d70bad8d209858c158eafad0e08dd08603df99f799789dd857ea239a856",
+      "input_port": 1
+    }
+  ],
+  "development_exclusions": [
+    {
+      "geometry_id": "sbend_0e704744a97e",
+      "parameter_key": [
+        16,
+        99,
+        147
+      ],
+      "centerline_equivalence_sha256": "33de90aab757a10a542b3cda645d372c5b9e14cab639fb9e1d6a88391e4dccf7"
+    },
+    {
+      "geometry_id": "sbend_87e2059c224d",
+      "parameter_key": [
+        21,
+        147,
+        165
+      ],
+      "centerline_equivalence_sha256": "042b1fff84fa6f509d498e4d0f0664c6ebe2b9be0f7381b2a9fc5532e5aa9d61"
+    },
+    {
+      "geometry_id": "sbend_e8c25cd9d12a",
+      "parameter_key": [
+        18,
+        92,
+        253
+      ],
+      "centerline_equivalence_sha256": "1144711ae0d8b6bb084c89446dab1ab10de1b27f8d9d1b1dbd0b5a228085c3f2"
+    },
+    {
+      "geometry_id": "sbend_e4b5c2d116fe",
+      "parameter_key": [
+        23,
+        179,
+        228
+      ],
+      "centerline_equivalence_sha256": "75f84ba0956b699630bfe9d12cd414fdee7525d3a65819b6429740fb54d9a8e3"
+    },
+    {
+      "geometry_id": "sbend_929112034289",
+      "parameter_key": [
+        17,
+        209,
+        239
+      ],
+      "centerline_equivalence_sha256": "3ed7f5c32224b9c5d5baac9a64f1a2b450c23fa60f5d38286a00550c4a5c0832"
+    },
+    {
+      "geometry_id": "sbend_061b0b035103",
+      "parameter_key": [
+        19,
+        200,
+        185
+      ],
+      "centerline_equivalence_sha256": "01d8ad63f34be3cfc577242689d6159154a3d9cf84faf8769f1688c1ad303636"
+    },
+    {
+      "geometry_id": "sbend_14617ebac928",
+      "parameter_key": [
+        17,
+        189,
+        173
+      ],
+      "centerline_equivalence_sha256": "2b81b6b3f8a859b9371d5c117d011e6656e42c6e4c8dd4d2f2483e853be39857"
+    },
+    {
+      "geometry_id": "sbend_d7f14feba45b",
+      "parameter_key": [
+        17,
+        128,
+        272
+      ],
+      "centerline_equivalence_sha256": "8df3edb636a754a20d65274953f0aa85a63a350e992cbbd37c64a23e3a557df6"
+    },
+    {
+      "geometry_id": "sbend_f4098f1a5fd4",
+      "parameter_key": [
+        21,
+        175,
+        202
+      ],
+      "centerline_equivalence_sha256": "2f11e911ccce51ca83e50d1750cc53cfd2e844df440c101a0fe5775f34266d1b"
+    },
+    {
+      "geometry_id": "sbend_e5675321b865",
+      "parameter_key": [
+        19,
+        134,
+        213
+      ],
+      "centerline_equivalence_sha256": "725b181035a2f521c6099db8380c6a7310832e6ca87fa77f9089cba9c1032cc3"
+    },
+    {
+      "geometry_id": "sbend_131384a21641",
+      "parameter_key": [
+        22,
+        122,
+        262
+      ],
+      "centerline_equivalence_sha256": "3a74e45f4c3f2df2db930ebca7e98fc750641e0ec77b1dcc4f3ba187fb863afa"
+    },
+    {
+      "geometry_id": "sbend_1ae1ed6a6858",
+      "parameter_key": [
+        19,
+        153,
+        249
+      ],
+      "centerline_equivalence_sha256": "663bdd8c9c7b1993e5af893ee56783d32ada037a33bbdb26260f73213829d38c"
+    },
+    {
+      "geometry_id": "sbend_6fa082f8f3cf",
+      "parameter_key": [
+        22,
+        115,
+        159
+      ],
+      "centerline_equivalence_sha256": "21666a8206295ebdbb65e65cf584d18a7c23f2313675756204067dd85f423a5f"
+    },
+    {
+      "geometry_id": "sbend_205bfec3371b",
+      "parameter_key": [
+        20,
+        216,
+        190
+      ],
+      "centerline_equivalence_sha256": "2906ce046367bff7e2eaf905de3395eb114e99cbf77f9dac966971a44625525e"
+    },
+    {
+      "geometry_id": "sbend_89c3ecd7b309",
+      "parameter_key": [
+        20,
+        86,
+        138
+      ],
+      "centerline_equivalence_sha256": "0932e1111bd21aef16641a7b06b051d808737b1b439ff48574bded7c6be858f0"
+    },
+    {
+      "geometry_id": "sbend_9c27ab26b0a7",
+      "parameter_key": [
+        20,
+        163,
+        125
+      ],
+      "centerline_equivalence_sha256": "2b6b9d3e2004705c033e1a627bed8154e37a0f779cb7471cf5ae90114e398e61"
+    }
+  ],
+  "rejections": [],
+  "eps_duplicate_check": "post-FDTD float32 exact / axis flips / 180 rotation before training",
+  "test_fields_read_for_selection": false
+}

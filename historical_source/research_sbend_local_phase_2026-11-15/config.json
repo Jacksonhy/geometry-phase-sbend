@@ -1,0 +1,57 @@
+{
+  "seeds": [
+    42,
+    2026,
+    2027
+  ],
+  "methods": [
+    "linear",
+    "arc_only",
+    "local_tangent",
+    "path_v2"
+  ],
+  "checkpoint": "best",
+  "evaluation": "historical100_retrospective",
+  "main_comparison": "local_tangent_minus_arc_only",
+  "phase_amplitude_gates": [
+    0.05,
+    0.01,
+    0.1
+  ],
+  "primary_gate": 0.05,
+  "angle_edges_deg": [
+    0,
+    10,
+    20,
+    35,
+    90
+  ],
+  "normal_coordinate": "2*nearest_centerline_signed_normal_offset/width",
+  "normal_edges": [
+    -3,
+    -1,
+    -0.5,
+    0,
+    0.5,
+    1,
+    3
+  ],
+  "normal_pair_eta": [
+    0.5,
+    1.0
+  ],
+  "primary_pair_eta": 0.5,
+  "min_roi_pixels": 10,
+  "min_pairs": 8,
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 20261115,
+  "statistics": "geometry-paired conditional-on-fixed-model percentile CI, separate seeds; no pixel or pooled300 bootstrap",
+  "no_phase_alignment": true,
+  "no_amplitude_fit": true,
+  "no_FDTD": true,
+  "no_inference": true,
+  "no_training": true,
+  "coherence_metric": "E_plus*conj(E_minus) at normal pairs; transverse coherence diagnostic, NOT bidirectional port interference",
+  "bidirectional_requirement": "same geometry, both source directions with shared coherent source convention; no reflection/conjugation surrogate",
+  "decision": "descriptive consistent local phase advantage requires smaller bend-core absolute phase WMAE and normal-pair relative phase WMAE in all three seeds; complex error separately; CI crossing zero weakens evidence; no complex application simulation follows automatically"
+}

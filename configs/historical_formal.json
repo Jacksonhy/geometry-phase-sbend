@@ -1,0 +1,13 @@
+{
+  "seed":2026,"methods":["direct","linear","local_tangent","path_v1","path_v2"],
+  "train":64,"val":16,"test":100,"steps":2400,"batch":2,"lr":0.002,"weight_decay":0.0001,
+  "eta_min":0.0001,"clip_grad":5.0,"validate_every":50,"checkpoint_every":200,
+  "wavelength_um":1.55,"dx_um":0.05,"shape":[160,480],"bootstrap_replicates":10000,
+  "max_fdtd_seconds":900,"max_fdtd_rss_MiB":4096,"v2_max_axis_gradient":5.0,
+  "beta_max_relative_rmse":0.01,"beta_min_roi_count":20,
+  "real_features":["normalized_eps","corrected_src_mask","x_normalized","y_normalized","true_source_x_normalized","true_source_y_normalized","direction","beta_rad_per_pixel","path_v1_over24","linear_over24","local_tangent_over24","path_v2_over24"],
+  "complex_channels":7,"model_in_channels_real_slots":14,"padding_slots":["channel0_imag","channel6_imag"],
+  "regions":{"core":"distance<=w/2","bend_core":"core and official bend x interval","halo":"w/2<distance<=w/2+0.5","far":"distance>w/2+0.5"},
+  "test_policy":"QC only before all checkpoints frozen; one evaluation event including best and last",
+  "source_commit":"fb752f74fdb3c1cee4db8e6fd6a0bb6cac616f34"
+}

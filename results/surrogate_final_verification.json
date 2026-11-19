@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "geometries_exact": 72,
+  "model_replays_bitwise_exact": 12,
+  "final_CLI_matches_benchmarked_prediction": true,
+  "prepared_input_mismatch_rejected": true,
+  "offline_ledger_and_break_even_arithmetic_checked": true,
+  "predict_initial_version_preserved": true,
+  "final_input_contract_seconds": 0.006729802000000618,
+  "training_runs": 0,
+  "FDTD_runs": 0,
+  "deployed_calibration_changes": 0,
+  "historical_files_unchanged": 577
+}

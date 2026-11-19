@@ -1,0 +1,9 @@
+{
+  "time_utc": "2026-11-12T12:18:36.035495+00:00",
+  "meep": "1.35.1",
+  "mpb_available": true,
+  "numpy": "2.4.6",
+  "python": "3.11.18 (main, Oct 26 2026, 11:35:17) [GCC 15.3.0]",
+  "worker_output": "/mnt/d/game/research_sbend_formal",
+  "no_simulation": true
+}

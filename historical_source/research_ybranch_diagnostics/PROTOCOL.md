@@ -1,0 +1,19 @@
+# Y-branch frozen-weight diagnostic protocol
+
+Purpose: locate the excess error of BranchTangent vs historical Branch Path, seed 2026, without training/FDTD.
+
+Order: freeze definitions and protected hashes; infer train64/val8 from best/last frozen models; analyze DEV; lock development results; only then apply to E2/M4 as retrospective confirmation. Historical test8 excluded. No phase alignment, calibration refit, new inputs or model selection.
+
+Primary disjoint exhaustive pixel partition (priority): junction rectangle centered at historical geometry_features junction column (x halfwidth 1um, y halfheight 1.25um); boundary band within .2um of both adjacent endpoints of branch-label edges after junction and routing-q edges in either grid axis, excluding junction; branch material core x>junction; trunk material core; remaining near cladding <=.5um from core; far cladding. Junction is a fixed geometry heuristic, not a measured optical interaction region. Sensitivity: boundary .1/.4um and junction x halfwidth .5/1.5um, one at a time, before outcomes. No thresholds tuned on test results.
+
+C_R uses whole-field truth energy; sums to per-geometry e^2 to 2e-15. Aggregate uses mean e^2 (not square of mean e). Report signed delta_C; signed percentages may exceed 100% when other regions improve. Regional RelL2 cannot be added. Pixel grid .05um inherited from original model; retained full field includes source and outer strips.
+
+Boundary diagnostics on branch, routing, union edge sets, in both axes: average endpoint truth energy w; J=sum w|c_j-c_i|^2/sum w, B=sum w|c_j-c_i|^2/sum field energy, boundary edge energy fraction, and actual demodulated target adjacent jumps/sum field energy. B is discrete burden, not a physical optical flux. No universal seam attribution from max jumps.
+
+Smooth phase diagnostics exclude seam dilation2 pixels, material boundary dilation2 and outer2 pixels; truth intensity >=1% per-geometry core maximum, sensitivity .1%/5%. Full gradients of d used, with finite-difference k_eff=Im(E*conj times gradE)/|E|^2. D is intensity-weighted squared gradient mismatch (rad^2/pixel^2); central-difference sampling bias acknowledged. Q uses energy-weighted squared principal-angle residual across smooth adjacent edges and exact complex carrier, no phase unwrapping; Q is primary robust phase indicator. Q near-pi fractions flag wrapping; neither local phase represents unique ray in interference fields. Provide energy coverage and region metrics.
+
+Per-port absolute delta_e, relative mean delta and ratio of means; raw geometry distributions and actual scalar parameters from original shards/manifests. Controls: additive OLS port dummies + five geometry params + epsmax + baseline e_Path; standardize continuous covariates, pseudoinverse rank check; HC3 intervals, no inference for n<25. Fixed-model observational associations, no causality; train fits are in-sample and val n8 is small. Partial residual Pearson for mechanism metrics controlling same covariates and ports; do not use regional errors to prove cause of the total by correlation. Geometry bootstrap 2000 (paired), not independent training uncertainty. E2/M4 same trained pair, do not pool as independent seeds.
+
+Figures: per-port geometry nearest median delta_e (DEV validation if available else train); plus maximum degradation adverse example, selected by fixed transparent rule, not representative of population causal effects. Plot truth/material/seams, disjoint regions, signed extra error, phase mismatch change. Training/validation rules are fixed first; E2/M4 figures are retrospective.
+
+Intervention selection: regional signed excess plus matching boundary/phase evidence. If neither dominates, report mixed/undetermined and propose one minimally targeted experiment only. No intervention runs in this task. Preserve historical files, hashes and prediction/metric replay; publish per-geometry tables and sensitivity including negative results.

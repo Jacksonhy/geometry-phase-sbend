@@ -1,0 +1,76 @@
+{
+  "methods": [
+    "linear",
+    "arc_only",
+    "local_tangent",
+    "path_v2"
+  ],
+  "seeds": [
+    42,
+    2026,
+    2027
+  ],
+  "count": 36,
+  "selection": "geometry-only from all72 archived Euler geometries; sine angle tertiles, six widths, two directions; lexicographic newID tie-break; no field/prediction selection",
+  "angle_edges_deg": [
+    30.19339359635354,
+    34.38096957786437
+  ],
+  "widths_um": [
+    0.4,
+    0.425,
+    0.475,
+    0.5,
+    0.55,
+    0.575
+  ],
+  "fine_geometry_ids": [
+    "sine_6907f6153730761e",
+    "sine_3dcc1a5e3cbd054b",
+    "sine_901a7c945c35e8c5",
+    "sine_de8d948b70b41567",
+    "sine_5e5a9fdc9c9ca2dd",
+    "sine_491b398f26aa0a3d"
+  ],
+  "fine_resolutions": [
+    20,
+    30,
+    40
+  ],
+  "centerline": "y=l*(t-sin(2*pi*t)/(2*pi)-0.5), x=L*(t-0.5), t in [0,1]",
+  "length_offset": "actual endpoint span of matched archived Euler polyline; NOT nominal Euler offset parameter",
+  "n_points": 256,
+  "geometry": "original rotated Blocks,1.05 segment overlap, original leads/source/PML/material",
+  "physical_model": "2D effective index,1.55um,cell26x10,PML1,decay1e-6,original Gaussian eigenmode source",
+  "prediction_before_truth": true,
+  "training_runs": 0,
+  "test_calibration": false,
+  "phase_alignment": false,
+  "primary": "LT minus ArcOnly, per seed geometry-paired10000 bootstrap; bend phase and normal pair phase; no pooled108 independence",
+  "secondary": "whole and bend complex RelL2, transverse coherence RelL2; local angle/normal position; matched Euler descriptive comparison",
+  "phase_gate": 0.05,
+  "normal_pair_eta": 0.5,
+  "sensitivity_gates": [
+    0.01,
+    0.1
+  ],
+  "spatial_angle_edges_deg": [
+    0,
+    10,
+    20,
+    35,
+    90
+  ],
+  "normal_eta_edges": [
+    -3,
+    -1,
+    -0.5,
+    0,
+    0.5,
+    1,
+    3
+  ],
+  "mesh": "common physical coarse coordinates, complex linear interpolation; cubic pair sensitivity; raw plus incident-normalized diagnostic; no fitted phase alignment",
+  "decision": "report all signs/CIs and adverse cases; no training or application automatically follows; no continuum claim",
+  "max_hours": 4
+}

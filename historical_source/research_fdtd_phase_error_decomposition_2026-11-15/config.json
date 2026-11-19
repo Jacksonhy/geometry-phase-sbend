@@ -1,0 +1,173 @@
+{
+  "wavelength_um": 1.55,
+  "widths_um": [
+    0.4,
+    0.5,
+    0.575
+  ],
+  "resolutions": [
+    20,
+    30,
+    40,
+    60
+  ],
+  "diagnostic_records": [
+    {
+      "geometry_id": "blindB_26486d65abaefaba",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.5,
+        "R_min_um": 5.8500000000000005
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 31.335512101558468,
+      "min_same_width_centerline_rms_distance_um": 0.05966929266392512
+    },
+    {
+      "geometry_id": "blindB_6053592015355db4",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.0,
+        "R_min_um": 4.3
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.628765317754954,
+      "min_same_width_centerline_rms_distance_um": 0.15807377025712552
+    },
+    {
+      "geometry_id": "blindB_738b71feab60d0c3",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.0500000000000003,
+        "R_min_um": 6.300000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 28.187746192469493,
+      "min_same_width_centerline_rms_distance_um": 0.18557057614875339
+    },
+    {
+      "geometry_id": "blindB_6e088fec4b5d6166",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.625,
+        "R_min_um": 4.025
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 32.71616719320761,
+      "min_same_width_centerline_rms_distance_um": 0.12440083833137316
+    },
+    {
+      "geometry_id": "blindB_cce44732dceff594",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.075,
+        "R_min_um": 4.375
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 33.963640774931804,
+      "min_same_width_centerline_rms_distance_um": 0.03634219277613928
+    },
+    {
+      "geometry_id": "blindB_c74d6890021c2349",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.475,
+        "R_min_um": 3.325
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.95203642077341,
+      "min_same_width_centerline_rms_distance_um": 0.07650216254212383
+    },
+    {
+      "geometry_id": "blindB_4b6edc380dbf6922",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.275,
+        "R_min_um": 4.3
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 40.393784032971844,
+      "min_same_width_centerline_rms_distance_um": 0.0506872806475779
+    },
+    {
+      "geometry_id": "blindB_9f39c4ce3cade4f8",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.7750000000000004,
+        "R_min_um": 3.725
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 40.782706780897314,
+      "min_same_width_centerline_rms_distance_um": 0.03900617341924334
+    },
+    {
+      "geometry_id": "blindB_9f78121d6c81e7b2",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.675,
+        "R_min_um": 5.175000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 38.50492997941974,
+      "min_same_width_centerline_rms_distance_um": 0.124764898162391
+    }
+  ],
+  "control_ids": [
+    "blindB_26486d65abaefaba",
+    "blindB_cce44732dceff594",
+    "blindB_9f78121d6c81e7b2"
+  ],
+  "new60_ids": [
+    "blindB_6053592015355db4",
+    "blindB_738b71feab60d0c3",
+    "blindB_cce44732dceff594",
+    "blindB_c74d6890021c2349",
+    "blindB_9f39c4ce3cade4f8",
+    "blindB_9f78121d6c81e7b2"
+  ],
+  "conditional80_ids": [
+    "blindB_26486d65abaefaba",
+    "blindB_cce44732dceff594",
+    "blindB_9f78121d6c81e7b2"
+  ],
+  "conditional80_rule": "after60, same fixed control3 only if any40to60 incident-normalized bend phase>0.5deg or normal phase>0.25deg and >=40min remain",
+  "base_settings": {
+    "cell_um": [
+      26,
+      10
+    ],
+    "PML_um": 1,
+    "decay_tol": 1e-06,
+    "Courant": 0.5,
+    "eps_averaging": true
+  },
+  "straight": "3 centered widths x4 resolutions plus nine geometry-matched input-y/input-direction references x4; same source, span and fixed x=+/-11.5 reference planes",
+  "beta": "MPB default and eig_resolution=4*res; FDTD projected forward-mode longitudinal unwrapped phase slopes with multiple fixed windows plus centerline; no network calibration",
+  "propagation_diagnostic": "Delta beta from matched straight references times signed centerline arclength from fixed input monitor; circular residual reported; no fitted correction",
+  "relative_reference": "physical modal Ez transmission and native t divided by same-width same-input-y straight t at each grid; diagnostic only",
+  "material": "initialize original Block geometry at20/30/40/60; sample actual Ez inverse-epsilon zz, trace-average epsilon, exact continuous union, fixed normal profiles and fractional widths; eps_averaging off and same-material Block order reversal at20/40 on fixed controls",
+  "sensitivity": "control3 atres40: baseline tol1e-6, continue+100, tighten tol1e-9 minimum100 maximum500; PML2 and cell28x12 keep source/ports/geometry/non-PML physical limits; eps-off and reversed-block-order; centered straight40 Courant0.25",
+  "no_network": true,
+  "no_training": true,
+  "no_phase_fit": true,
+  "no_smooth_geometry_replacement": true,
+  "finite_budget": "4h hard deadline; do not extend; preserve partial data and report missing tasks"
+}

@@ -1,0 +1,8 @@
+{
+  "rule": "geometry-only nearest median maximum angle within each stratum, ID tie-break; fixed seed2026; no error selection",
+  "geometry_ids": [
+    "sine_579ed848874ec0ca",
+    "sine_1f2b65558eec6130",
+    "sine_64dfe5e70098641b"
+  ]
+}

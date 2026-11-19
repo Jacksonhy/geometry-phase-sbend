@@ -1,0 +1,52 @@
+{
+  "smoke-euler": {
+    "passed": true,
+    "seed_method_pairs": 12,
+    "geometries": 2,
+    "rows": 24,
+    "metric_comparisons": 120,
+    "max_absolute_differences": {
+      "whole_complex_rel_l2": 5.551115123125783e-17,
+      "bend_core_complex_rel_l2": 0.0,
+      "bend_core_phase_wmae_deg": 0.0,
+      "normal_relative_phase_wmae_deg": 0.0,
+      "coherence_complex_rel_l2": 0.0
+    },
+    "batch_size": 2
+  },
+  "sinusoidal36": {
+    "passed": true,
+    "seed_method_pairs": 12,
+    "geometries": 36,
+    "rows": 432,
+    "metric_comparisons": 2160,
+    "max_absolute_differences": {
+      "whole_complex_rel_l2": 1.1102230246251565e-16,
+      "bend_core_complex_rel_l2": 0.0,
+      "bend_core_phase_wmae_deg": 0.0,
+      "normal_relative_phase_wmae_deg": 0.0,
+      "coherence_complex_rel_l2": 0.0
+    },
+    "batch_size": 2
+  },
+  "training_smoke": {
+    "passed": true,
+    "method": "local_tangent",
+    "seed": 2026,
+    "updates": 2,
+    "full_paper_budget": false,
+    "initial_state_sha256": "587c8cd7dd049d02dcfa3c75a2a6b2c0bb2a5bed606af357c33ebf06cc67dee8",
+    "split_counts": {
+      "train": 64,
+      "val": 16
+    },
+    "test_fields_read": 0,
+    "first_validation": {
+      "step": 1,
+      "loss": 2.692211389541626,
+      "val_rel_l2": 0.9671478234231472
+    },
+    "first_update_matches_historical_loss_and_validation": true
+  },
+  "scope": "Portable checkpoint inference/primary metrics and two-update training execution; not 12 full retrainings or new FDTD propagation"
+}

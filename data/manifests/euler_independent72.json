@@ -1,0 +1,958 @@
+{
+  "records": [
+    {
+      "geometry_id": "blindB_26486d65abaefaba",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.5,
+        "R_min_um": 5.8500000000000005
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 31.335512101558468,
+      "min_same_width_centerline_rms_distance_um": 0.05966929266392512
+    },
+    {
+      "geometry_id": "blindB_9083116844040fa7",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.5,
+        "R_min_um": 5.25
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.955744336145806,
+      "min_same_width_centerline_rms_distance_um": 0.06858759028292262
+    },
+    {
+      "geometry_id": "blindB_8ba5f7d099546262",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.1750000000000003,
+        "R_min_um": 4.2
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 29.153163807885367,
+      "min_same_width_centerline_rms_distance_um": 0.11848373187245667
+    },
+    {
+      "geometry_id": "blindB_238b1e833b3d8d8f",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.875,
+        "R_min_um": 4.75
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 31.517577334359142,
+      "min_same_width_centerline_rms_distance_um": 0.10485796421486422
+    },
+    {
+      "geometry_id": "blindB_d3eee903860d2af2",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.1,
+        "R_min_um": 6.075
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 28.939326071754262,
+      "min_same_width_centerline_rms_distance_um": 0.18603032924031185
+    },
+    {
+      "geometry_id": "blindB_6251e1dd1819b67b",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.7750000000000004,
+        "R_min_um": 6.675000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 26.1208055470194,
+      "min_same_width_centerline_rms_distance_um": 0.11836368971879292
+    },
+    {
+      "geometry_id": "blindB_f5d3834c5e28f9d1",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 2.125,
+        "R_min_um": 6.4
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 23.343726571921753,
+      "min_same_width_centerline_rms_distance_um": 0.10837130434996631
+    },
+    {
+      "geometry_id": "blindB_20176612bc8e7545",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.875,
+        "R_min_um": 6.675000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 30.866751518948384,
+      "min_same_width_centerline_rms_distance_um": 0.2781550308848496
+    },
+    {
+      "geometry_id": "blindB_81f8382eda8df965",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.2,
+        "R_min_um": 6.075
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 29.402384691301922,
+      "min_same_width_centerline_rms_distance_um": 0.1917102557023785
+    },
+    {
+      "geometry_id": "blindB_a2a0b228f3695ac5",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.1,
+        "R_min_um": 5.525
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 30.345577940308274,
+      "min_same_width_centerline_rms_distance_um": 0.09588869779581723
+    },
+    {
+      "geometry_id": "blindB_fe18bfd449581832",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.7750000000000004,
+        "R_min_um": 4.775
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 30.883428926179597,
+      "min_same_width_centerline_rms_distance_um": 0.07614089366378582
+    },
+    {
+      "geometry_id": "blindB_8fa32d3e6c9848b4",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.375,
+        "R_min_um": 4.425
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 29.679451932070936,
+      "min_same_width_centerline_rms_distance_um": 0.102652483506027
+    },
+    {
+      "geometry_id": "blindB_2b2ef636d15aa1f2",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.35,
+        "R_min_um": 4.15
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 30.48530821441074,
+      "min_same_width_centerline_rms_distance_um": 0.07867817623482577
+    },
+    {
+      "geometry_id": "blindB_6053592015355db4",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.0,
+        "R_min_um": 4.3
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.628765317754954,
+      "min_same_width_centerline_rms_distance_um": 0.15807377025712552
+    },
+    {
+      "geometry_id": "blindB_9d1fea1d0518b03a",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.95,
+        "R_min_um": 6.275
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.776968757772117,
+      "min_same_width_centerline_rms_distance_um": 0.10427224961984963
+    },
+    {
+      "geometry_id": "blindB_28ff26cc9a698d1d",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 5.800000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.3835435867272,
+      "min_same_width_centerline_rms_distance_um": 0.12168026984732533
+    },
+    {
+      "geometry_id": "blindB_dc4adf5ba842e55b",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.325,
+        "R_min_um": 4.95
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.764482722059974,
+      "min_same_width_centerline_rms_distance_um": 0.3314711541620839
+    },
+    {
+      "geometry_id": "blindB_a4b889af93742e97",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.3000000000000003,
+        "R_min_um": 6.375
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 24.333497247593435,
+      "min_same_width_centerline_rms_distance_um": 0.12256882108863318
+    },
+    {
+      "geometry_id": "blindB_c5fcebb1e20efab0",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.1500000000000004,
+        "R_min_um": 5.7
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 30.116087930578292,
+      "min_same_width_centerline_rms_distance_um": 0.1922663364280296
+    },
+    {
+      "geometry_id": "blindB_838e04d3fcc40e1e",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.1750000000000003,
+        "R_min_um": 7.0
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.28371800950191,
+      "min_same_width_centerline_rms_distance_um": 0.07384682305921132
+    },
+    {
+      "geometry_id": "blindB_382a38da27cfe4b5",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 2.85,
+        "R_min_um": 5.95
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 28.03784655208879,
+      "min_same_width_centerline_rms_distance_um": 0.08625125882896119
+    },
+    {
+      "geometry_id": "blindB_738b71feab60d0c3",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.0500000000000003,
+        "R_min_um": 6.300000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 28.187746192469493,
+      "min_same_width_centerline_rms_distance_um": 0.18557057614875339
+    },
+    {
+      "geometry_id": "blindB_2a0529dae3582d81",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 6.550000000000001
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 28.863957889327096,
+      "min_same_width_centerline_rms_distance_um": 0.0666430849674028
+    },
+    {
+      "geometry_id": "blindB_aaa648bc87cd3f08",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.225,
+        "R_min_um": 6.9
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "low",
+      "max_local_angle_deg": 27.69625324239099,
+      "min_same_width_centerline_rms_distance_um": 0.06856769793487563
+    },
+    {
+      "geometry_id": "blindB_6e088fec4b5d6166",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.625,
+        "R_min_um": 4.025
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 32.71616719320761,
+      "min_same_width_centerline_rms_distance_um": 0.12440083833137316
+    },
+    {
+      "geometry_id": "blindB_9f024b82681dc8c3",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.2,
+        "R_min_um": 3.075
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.266479499721186,
+      "min_same_width_centerline_rms_distance_um": 0.3396036997527168
+    },
+    {
+      "geometry_id": "blindB_1486d43890dd48db",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 4.175
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.15332891801533,
+      "min_same_width_centerline_rms_distance_um": 0.06187900840883822
+    },
+    {
+      "geometry_id": "blindB_bfce7a9a866a0be1",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 4.125
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.3717800232336,
+      "min_same_width_centerline_rms_distance_um": 0.11098472164292461
+    },
+    {
+      "geometry_id": "blindB_8150e8b94ed71772",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.475,
+        "R_min_um": 3.0500000000000003
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.493741327834385,
+      "min_same_width_centerline_rms_distance_um": 0.223847824481953
+    },
+    {
+      "geometry_id": "blindB_a4f2f18bcf834b08",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.9250000000000003,
+        "R_min_um": 3.6
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.51677303812886,
+      "min_same_width_centerline_rms_distance_um": 0.06626882952362927
+    },
+    {
+      "geometry_id": "blindB_44d55de27ed2a911",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.425,
+        "R_min_um": 6.025
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.718329399349564,
+      "min_same_width_centerline_rms_distance_um": 0.15830117124015297
+    },
+    {
+      "geometry_id": "blindB_3e9f75c2b089d23d",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.825,
+        "R_min_um": 5.800000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 32.898979780452265,
+      "min_same_width_centerline_rms_distance_um": 0.0792097647595868
+    },
+    {
+      "geometry_id": "blindB_202ef65ab45ea03c",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 3.9000000000000004,
+        "R_min_um": 5.8500000000000005
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 33.07768277771435,
+      "min_same_width_centerline_rms_distance_um": 0.05391536983873199
+    },
+    {
+      "geometry_id": "blindB_a0cd08d1b5ba02eb",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.575,
+        "R_min_um": 4.9750000000000005
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.341731466900825,
+      "min_same_width_centerline_rms_distance_um": 0.08949786478291197
+    },
+    {
+      "geometry_id": "blindB_e5f3ca0ed0a073e1",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 3.8000000000000003
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 33.83076715655477,
+      "min_same_width_centerline_rms_distance_um": 0.1148444751446993
+    },
+    {
+      "geometry_id": "blindB_effa9b40d02c7a63",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 5.025,
+        "R_min_um": 6.275
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.25282673577451,
+      "min_same_width_centerline_rms_distance_um": 0.20888803320083485
+    },
+    {
+      "geometry_id": "blindB_dee10677863624d6",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 3.9000000000000004
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 37.40625487936905,
+      "min_same_width_centerline_rms_distance_um": 0.11689852686268429
+    },
+    {
+      "geometry_id": "blindB_cce44732dceff594",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.075,
+        "R_min_um": 4.375
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 33.963640774931804,
+      "min_same_width_centerline_rms_distance_um": 0.03634219277613928
+    },
+    {
+      "geometry_id": "blindB_f54775823d3d730e",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.125,
+        "R_min_um": 5.65
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.61532870210123,
+      "min_same_width_centerline_rms_distance_um": 0.16442498018636179
+    },
+    {
+      "geometry_id": "blindB_a01c064446f7720a",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.825,
+        "R_min_um": 6.65
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.507901016083984,
+      "min_same_width_centerline_rms_distance_um": 0.20791995617552606
+    },
+    {
+      "geometry_id": "blindB_b9018b9ddf15a6a9",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 3.825
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 33.72002785073894,
+      "min_same_width_centerline_rms_distance_um": 0.21669687752451963
+    },
+    {
+      "geometry_id": "blindB_a262d604f84fe93d",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 5.5,
+        "R_min_um": 6.625
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.91213035371893,
+      "min_same_width_centerline_rms_distance_um": 0.08120904746604521
+    },
+    {
+      "geometry_id": "blindB_cd184c6a5ba92613",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.95,
+        "R_min_um": 5.65
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 33.87310679244253,
+      "min_same_width_centerline_rms_distance_um": 0.046957800886829375
+    },
+    {
+      "geometry_id": "blindB_18878c0011ee1319",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.85,
+        "R_min_um": 4.5
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 37.471822422904424,
+      "min_same_width_centerline_rms_distance_um": 0.16788219351117561
+    },
+    {
+      "geometry_id": "blindB_f56044ec2ed89685",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 4.8500000000000005,
+        "R_min_um": 5.875
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.808459452144966,
+      "min_same_width_centerline_rms_distance_um": 0.24052932278536618
+    },
+    {
+      "geometry_id": "blindB_c74d6890021c2349",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 2.475,
+        "R_min_um": 3.325
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.95203642077341,
+      "min_same_width_centerline_rms_distance_um": 0.07650216254212383
+    },
+    {
+      "geometry_id": "blindB_49795f6e3f2d4328",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.2,
+        "R_min_um": 5.75
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 34.623536897775004,
+      "min_same_width_centerline_rms_distance_um": 0.06225403912637354
+    },
+    {
+      "geometry_id": "blindB_1c171e0cc52cf2a0",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.075,
+        "R_min_um": 4.95
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "middle",
+      "max_local_angle_deg": 36.75715710195274,
+      "min_same_width_centerline_rms_distance_um": 0.09387247454115906
+    },
+    {
+      "geometry_id": "blindB_4b6edc380dbf6922",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.275,
+        "R_min_um": 4.3
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 40.393784032971844,
+      "min_same_width_centerline_rms_distance_um": 0.0506872806475779
+    },
+    {
+      "geometry_id": "blindB_c57b9a5dae79a01d",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 5.300000000000001,
+        "R_min_um": 5.25
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 40.70417816075453,
+      "min_same_width_centerline_rms_distance_um": 0.14458135794370633
+    },
+    {
+      "geometry_id": "blindB_c4eb13fb09c57e29",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 5.050000000000001,
+        "R_min_um": 4.825
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 41.44553381169825,
+      "min_same_width_centerline_rms_distance_um": 0.27830150245300456
+    },
+    {
+      "geometry_id": "blindB_4c416b60f8b6a62c",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.1000000000000005,
+        "R_min_um": 3.225
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 50.94492602943094,
+      "min_same_width_centerline_rms_distance_um": 0.36919844843786764
+    },
+    {
+      "geometry_id": "blindB_452212076f922b0f",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.075,
+        "R_min_um": 3.6500000000000004
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 47.769676310602684,
+      "min_same_width_centerline_rms_distance_um": 0.24562954770596718
+    },
+    {
+      "geometry_id": "blindB_5e6ee11811881b6b",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.325,
+        "R_min_um": 6.075
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 37.92864888912943,
+      "min_same_width_centerline_rms_distance_um": 0.08080266889908204
+    },
+    {
+      "geometry_id": "blindB_3769463a279dd2d2",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.2250000000000005,
+        "R_min_um": 5.925000000000001
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 38.04343099952902,
+      "min_same_width_centerline_rms_distance_um": 0.09738775030768872
+    },
+    {
+      "geometry_id": "blindB_78b0f9ac064364b0",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 4.575,
+        "R_min_um": 3.4000000000000004
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 46.99339247870135,
+      "min_same_width_centerline_rms_distance_um": 0.1493208717199375
+    },
+    {
+      "geometry_id": "blindB_7a8d363d3a8afc9d",
+      "params": {
+        "wg_width_um": 0.45,
+        "lateral_offset_um": 5.050000000000001,
+        "R_min_um": 5.4
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 39.17685025274198,
+      "min_same_width_centerline_rms_distance_um": 0.0712455411857814
+    },
+    {
+      "geometry_id": "blindB_9506d0704b53f56f",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.8000000000000003,
+        "R_min_um": 4.025
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 39.363124460254966,
+      "min_same_width_centerline_rms_distance_um": 0.2184504470149208
+    },
+    {
+      "geometry_id": "blindB_2bb3036cd27dbaab",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.4750000000000005,
+        "R_min_um": 4.1000000000000005
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 42.3238628992892,
+      "min_same_width_centerline_rms_distance_um": 0.07523270992229296
+    },
+    {
+      "geometry_id": "blindB_3b4324f5983164bf",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.6750000000000003,
+        "R_min_um": 3.5
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 41.512162425732384,
+      "min_same_width_centerline_rms_distance_um": 0.10638386384038787
+    },
+    {
+      "geometry_id": "blindB_d29dcaa4cd6d97d8",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.2250000000000005,
+        "R_min_um": 3.25
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 46.190470239964895,
+      "min_same_width_centerline_rms_distance_um": 0.10999512170029026
+    },
+    {
+      "geometry_id": "blindB_9f39c4ce3cade4f8",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.7750000000000004,
+        "R_min_um": 3.725
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 40.782706780897314,
+      "min_same_width_centerline_rms_distance_um": 0.03900617341924334
+    },
+    {
+      "geometry_id": "blindB_987136d3d168aac2",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.375,
+        "R_min_um": 3.7750000000000004
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 38.30532205285216,
+      "min_same_width_centerline_rms_distance_um": 0.0415393892501365
+    },
+    {
+      "geometry_id": "blindB_688af77a92eb4c6f",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.25,
+        "R_min_um": 3.0
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 48.21859426745145,
+      "min_same_width_centerline_rms_distance_um": 0.12199567880717566
+    },
+    {
+      "geometry_id": "blindB_6609582d41696eb4",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.45,
+        "R_min_um": 3.1500000000000004
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 48.151013863859276,
+      "min_same_width_centerline_rms_distance_um": 0.054963642672015305
+    },
+    {
+      "geometry_id": "blindB_af6a360ef48c9baf",
+      "params": {
+        "wg_width_um": 0.525,
+        "lateral_offset_um": 4.1000000000000005,
+        "R_min_um": 4.075
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 40.63580141211649,
+      "min_same_width_centerline_rms_distance_um": 0.134795234698325
+    },
+    {
+      "geometry_id": "blindB_7984b949dd6cbfc0",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.9000000000000004,
+        "R_min_um": 4.15
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 39.272537456922386,
+      "min_same_width_centerline_rms_distance_um": 0.1374458726226777
+    },
+    {
+      "geometry_id": "blindB_6060bd1c1ff9d3f4",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 5.3500000000000005,
+        "R_min_um": 5.7250000000000005
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 39.162449957024286,
+      "min_same_width_centerline_rms_distance_um": 0.16096798609303997
+    },
+    {
+      "geometry_id": "blindB_d393dc8dc750fd7e",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.75,
+        "R_min_um": 3.0250000000000004
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 45.10593106052033,
+      "min_same_width_centerline_rms_distance_um": 0.10416031800089771
+    },
+    {
+      "geometry_id": "blindB_9f78121d6c81e7b2",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.675,
+        "R_min_um": 5.175000000000001
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 38.50492997941974,
+      "min_same_width_centerline_rms_distance_um": 0.124764898162391
+    },
+    {
+      "geometry_id": "blindB_fce472740ce57c30",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 5.4750000000000005,
+        "R_min_um": 5.275
+      },
+      "input_port": 1,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 41.272572320424096,
+      "min_same_width_centerline_rms_distance_um": 0.27859349186316995
+    },
+    {
+      "geometry_id": "blindB_5664c2fe30fa3c6b",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.575,
+        "R_min_um": 3.975
+      },
+      "input_port": 2,
+      "split": "blind",
+      "angle_stratum": "high",
+      "max_local_angle_deg": 38.41936336259897,
+      "min_same_width_centerline_rms_distance_um": 0.07749913182374314
+    }
+  ],
+  "proposal_angle_range_deg": [
+    21.73218047451471,
+    54.728323157386235
+  ],
+  "historical_unique_geometries": 355,
+  "historical_manifests": [
+    "/mnt/d/game/research_sbend_formal/geometry_manifest.json",
+    "/mnt/d/game/research_meep_validation/sbend_index.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/development/geometry_manifest.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/formal/geometry_manifest.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/workflow/arc_only/geometry_manifest.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/workflow_v2/arc_only/geometry_manifest.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/workflow_v2/beta_dL/geometry_manifest.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/workflow_v2/local_tangent/geometry_manifest.json",
+    "/mnt/d/game/research_sbend_phase_selection_2026-11-15/workflow_v2/path_v2/geometry_manifest.json",
+    "/mnt/d/game/output/pdf/sbend_optical_audit_2026-11-14/data/geometry_manifest.json"
+  ],
+  "distribution": "prospective angle-stratified within original parameter support; not iid historical test"
+}

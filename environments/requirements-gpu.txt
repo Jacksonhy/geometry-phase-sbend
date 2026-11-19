@@ -1,0 +1,4 @@
+# Versions observed during publication validation. Install CUDA PyTorch separately.
+numpy==2.2.6
+scipy==1.18.1
+

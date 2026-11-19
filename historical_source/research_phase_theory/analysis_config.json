@@ -1,0 +1,94 @@
+{
+  "seed": 2026,
+  "datasets": [
+    "development16",
+    "train64"
+  ],
+  "formal_test_fields_allowed": false,
+  "shape": [
+    160,
+    480
+  ],
+  "dx_dy_um": 0.05,
+  "spectrum": "orthonormal complex fft2, equal geometry weights",
+  "fields": "original complex128 Ez / frozen common training RMS scale",
+  "carriers": "unchanged formal features.geometry; exp(i beta d) rounded to complex64 as formal cache",
+  "beta": "unchanged formal calibration.json; no fit",
+  "global_phase_alignment": false,
+  "rectangles_y_x_counts": [
+    [
+      10,
+      18
+    ],
+    [
+      20,
+      35
+    ],
+    [
+      40,
+      70
+    ],
+    [
+      60,
+      105
+    ]
+  ],
+  "retention_rule": "abs(my)<ny and abs(mx)<nx",
+  "radial_cutoffs_rad_um": [
+    4.0,
+    8.0,
+    12.0,
+    16.0,
+    24.0,
+    40.0
+  ],
+  "windows": [
+    "full",
+    "tukey",
+    "core_soft",
+    "bend_soft",
+    "halo_soft",
+    "far_soft"
+  ],
+  "tukey_alpha": 0.2,
+  "region_gaussian_sigma_um": 0.1,
+  "halo_width_um": 0.5,
+  "curvature_ds_um": 0.05,
+  "curvature_geometry_smoothing_um": 0.1,
+  "slope_windows_um": [
+    0.15,
+    0.3,
+    0.6
+  ],
+  "slope_amplitude_gates": [
+    0.01,
+    0.05
+  ],
+  "normal_samples_width_fraction": [
+    -0.25,
+    0.0,
+    0.25
+  ],
+  "bend_interior_margin_um": 0.3,
+  "bootstrap_geometry_replicates": 5000,
+  "modal_box_halfwidths_um": [
+    1.5,
+    2.0,
+    2.5
+  ],
+  "modal_mesh_um": [
+    0.01,
+    0.005
+  ],
+  "modal_kappa_per_um": [
+    0.0,
+    0.05,
+    0.1,
+    0.2,
+    0.25,
+    -0.2
+  ],
+  "modal_scope": "closed Dirichlet scalar Ez constant-curvature diagnostic only, not open bent Maxwell modes",
+  "counterexamples": "analytic periodic demodulation raises tail; geometry-dependent unitary can increase POD rank",
+  "example_rule": "save both extremal v2-minus-linear and v2-minus-v1 full spectra, never select algorithms"
+}

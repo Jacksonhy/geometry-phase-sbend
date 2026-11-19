@@ -1,0 +1,14 @@
+# Raised-sine S-bend frozen-model transfer, 2026-11-16
+
+Authorized first-stage experiment: no retraining, calibration or application simulation.
+The centerline is y=l*(t-sin(2*pi*t)/(2*pi)-0.5), x=L*(t-0.5). This is not PICwriter raised cosine. Analytic first/second derivatives vanish at endpoints. The same 256-point rotated-Block construction is retained; finite polyline endpoints do not inherit exact analytic derivatives.
+
+36 geometries selected before new predictions or FDTD. From the existing 72 Euler parameter records, use actual endpoint offset and x span, retaining width and input direction. Stratify by analytic sine maximum angle into proposal tertiles, select one per six widths [.4,.425,.475,.5,.55,.575] and direction, lexicographic geometryID tie break. Selection never reads old truth or errors. Store Euler/sine arc, angle, radius and shape difference; matched does not mean identical difficulty. Actual sine offset differs from nominal Euler constructor offset.
+
+Prepare geometry-only covariates and all four carriers using unchanged geometry coordinate algorithms. Adapt centerline interface only. Retain all shared inputs, training-only beta/amplitude, best weights for seeds42,2026,2027, source convention, material model and grid. Generate and freeze all predictions before any new truth. Preparation forbids time stepping and inference denies truth paths. Initialization eps must agree exactly with subsequent FDTD eps.
+
+36 resolution20 truth runs. Six prespecified checks: low-angle narrow, middle-angle medium, high-angle wide, both input directions. Resolution30 and40 for each. The width/angle mesh selection is intentionally small and confounded; it is not a full factorial numerical certification. No automatic60/80 expansion. Total4h includes preparation and analysis, enforce child timeouts and terminate own process groups. Preserve partial outputs on failure; never alter existing experiment data.
+
+Reuse frozen local metrics and geometry-paired10000 bootstrap per seed: primary bend-core phase WMAE and eta=.5 normal-pair relative-phase WMAE, primary gate .05, sensitivity .01/.1. Supplement whole/bend RelL2 and complex transverse coherence. Spatial angle and normal-position tables descriptive. No phase/amplitude fitting. Common physical coordinates, linear complex interpolation and cubic pair sensitivity for mesh comparisons. Raw phase primary; physical incoming-field normalization diagnostic only. Report all results regardless of sign. Zero-shot failure does not prove representation failure. Success does not prove continuous-solution or cross-topology accuracy. No training starts automatically.
+
+Sources: https://www.nature.com/articles/s41598-024-84274-7 ; https://raw.githubusercontent.com/DerekK44/PICwriter/master/picwriter/components/sbend.py . No download or new dependency required.

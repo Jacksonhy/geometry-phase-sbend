@@ -1,0 +1,26 @@
+{
+  "pages": 13,
+  "display_equations": 11,
+  "equations_match_chinese_source": true,
+  "main_figures": 4,
+  "characters_per_page": [
+    3883,
+    3621,
+    2524,
+    1989,
+    4058,
+    3500,
+    2323,
+    2136,
+    3897,
+    2819,
+    2604,
+    3840,
+    2232
+  ],
+  "rendered_all_pages": true,
+  "translation_note": "English translation; data availability updated for the published repository; reference titles retained in English.",
+  "visual_review": "All 13 rendered pages reviewed in contact sheets; equations and dense tables inspected at full resolution. No clipping or missing glyphs observed.",
+  "decimal_value_counts_match_chinese_source": true,
+  "markdown_table_line_counts_match": true
+}

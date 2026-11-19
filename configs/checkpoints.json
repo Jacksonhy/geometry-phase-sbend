@@ -1,0 +1,86 @@
+[
+  {
+    "seed": 42,
+    "method": "linear",
+    "path": "assets/checkpoints/seed42/linear/best.pt",
+    "bytes": 11877467,
+    "sha256": "fd60a56bafd8a6b256caab9c8c2f28e607f737c1ba8349f7c0558f61ff0416ca"
+  },
+  {
+    "seed": 42,
+    "method": "arc_only",
+    "path": "assets/checkpoints/seed42/arc_only/best.pt",
+    "bytes": 11877467,
+    "sha256": "a87b3ad115f12109e3ec5b5f9ac46533e16b2c7c60f5f8eb6a347c10eeb199ad"
+  },
+  {
+    "seed": 42,
+    "method": "local_tangent",
+    "path": "assets/checkpoints/seed42/local_tangent/best.pt",
+    "bytes": 11877467,
+    "sha256": "794199b59f7766b303426706060d6071af07c1d198c6e29fc084c61318a80eb6"
+  },
+  {
+    "seed": 42,
+    "method": "path_v2",
+    "path": "assets/checkpoints/seed42/path_v2/best.pt",
+    "bytes": 11877467,
+    "sha256": "c3de30a2c0cd72b9c6f48d09bd206284a04ba48c622dd9620fb4d63f656ccc76"
+  },
+  {
+    "seed": 2026,
+    "method": "linear",
+    "path": "assets/checkpoints/seed2026/linear/best.pt",
+    "bytes": 11877467,
+    "sha256": "e6f985cf27fda2fdb2b2cf5dd0bea569b7cc0b0e589ba6e0a3e28f749c628176"
+  },
+  {
+    "seed": 2026,
+    "method": "arc_only",
+    "path": "assets/checkpoints/seed2026/arc_only/best.pt",
+    "bytes": 11877467,
+    "sha256": "5a19ba7a7bbf198694e9b858afd63c4d0e5fc693b3fea68182c06a7b8cc2b884"
+  },
+  {
+    "seed": 2026,
+    "method": "local_tangent",
+    "path": "assets/checkpoints/seed2026/local_tangent/best.pt",
+    "bytes": 11877467,
+    "sha256": "c651ba9fdf2dc4a401ee156b0b9334e901aadda9d9b9262446c25acbddfec296"
+  },
+  {
+    "seed": 2026,
+    "method": "path_v2",
+    "path": "assets/checkpoints/seed2026/path_v2/best.pt",
+    "bytes": 11877467,
+    "sha256": "e0b0d94d213b83bcd0de9eab74920dbbc940aa56596dd3037974e9d58efea23a"
+  },
+  {
+    "seed": 2027,
+    "method": "linear",
+    "path": "assets/checkpoints/seed2027/linear/best.pt",
+    "bytes": 11877467,
+    "sha256": "e71eabce663a2ff71ce5e65e0da183c33496d69ceadad304523e9961cd3fbdb4"
+  },
+  {
+    "seed": 2027,
+    "method": "arc_only",
+    "path": "assets/checkpoints/seed2027/arc_only/best.pt",
+    "bytes": 11877467,
+    "sha256": "c519386021ec6319179e4056aa79cccb464e26c485c779a868c49ee760c21c4f"
+  },
+  {
+    "seed": 2027,
+    "method": "local_tangent",
+    "path": "assets/checkpoints/seed2027/local_tangent/best.pt",
+    "bytes": 11877467,
+    "sha256": "533c77bcbea93adc9d725eca12253235a0f23ce85dd0acfd7e0a2c096ba6a75e"
+  },
+  {
+    "seed": 2027,
+    "method": "path_v2",
+    "path": "assets/checkpoints/seed2027/path_v2/best.pt",
+    "bytes": 11877467,
+    "sha256": "d3a20d8719539c963dbc3e3d97ade45d92473d525efe517e461f685edf615d1e"
+  }
+]

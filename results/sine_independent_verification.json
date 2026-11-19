@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "protected_inputs": 24,
+  "all_protected_inputs_unchanged": true,
+  "geometry_ids_and_ports_checked": true,
+  "whole_field_recomputations": 432,
+  "max_whole_difference": 3.3306690738754696e-16,
+  "independent_phase_recomputations": 36,
+  "max_phase_difference_deg": 5.329070518200751e-15,
+  "independent_normal_checks": 36,
+  "max_normal_difference_deg": 8.881784197001252e-16,
+  "material_novelty_historical_grids": 252,
+  "new_unique_materials": 36,
+  "reflections_checked": true,
+  "predictions_before_new_truth": true,
+  "training_runs": 0,
+  "test_calibrations": 0
+}

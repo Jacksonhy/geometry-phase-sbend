@@ -1,0 +1,361 @@
+﻿component,split,geometry_id,seconds,source,scope
+FDTD_label,train,sbend_formal_c4f161205c8da175,9.793056902000018,/mnt/d/game/research_sbend_formal/logs/fdtd_000_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_c4f161205c8da175,1.3915883850002047,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_24090067944b1bfa,9.142402742000002,/mnt/d/game/research_sbend_formal/logs/fdtd_001_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_24090067944b1bfa,1.3429272710000077,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_88694f2bdf2a3447,9.544235368000017,/mnt/d/game/research_sbend_formal/logs/fdtd_002_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_88694f2bdf2a3447,1.2338046920001489,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_d4c2f9966f384308,9.023732961999997,/mnt/d/game/research_sbend_formal/logs/fdtd_003_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_d4c2f9966f384308,1.1300148079999417,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_da460879b766cad0,9.22495606299998,/mnt/d/game/research_sbend_formal/logs/fdtd_004_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_da460879b766cad0,1.0606412249999266,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_3eb41f7c36f7c7d5,9.545240244000013,/mnt/d/game/research_sbend_formal/logs/fdtd_005_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_3eb41f7c36f7c7d5,1.1622083400000065,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_e37b97432c083fec,9.049507844999994,/mnt/d/game/research_sbend_formal/logs/fdtd_006_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_e37b97432c083fec,1.2587529569998424,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_3597409e64788a5a,10.040559118000004,/mnt/d/game/research_sbend_formal/logs/fdtd_007_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_3597409e64788a5a,1.2045784440001626,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_4e7b881a425665e8,10.535154964000014,/mnt/d/game/research_sbend_formal/logs/fdtd_008_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_4e7b881a425665e8,1.334078092000027,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_151775f789e418e7,10.593086325000002,/mnt/d/game/research_sbend_formal/logs/fdtd_009_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_151775f789e418e7,1.1831991540000217,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_feb3abc4a792693b,10.031350253,/mnt/d/game/research_sbend_formal/logs/fdtd_010_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_feb3abc4a792693b,1.2664614249999886,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_102860092dd608bf,9.562692295999966,/mnt/d/game/research_sbend_formal/logs/fdtd_011_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_102860092dd608bf,1.2583189700001185,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a4346e30fb3fce8b,9.54726696900002,/mnt/d/game/research_sbend_formal/logs/fdtd_012_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a4346e30fb3fce8b,1.1950160910000704,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_d3e877d0f2ab722e,9.53793089100003,/mnt/d/game/research_sbend_formal/logs/fdtd_013_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_d3e877d0f2ab722e,1.2540348000002268,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_2645b7e1d2b77e18,10.059037208000007,/mnt/d/game/research_sbend_formal/logs/fdtd_014_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_2645b7e1d2b77e18,1.2150573899998562,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_7aed7b4daca85d40,9.551953849000029,/mnt/d/game/research_sbend_formal/logs/fdtd_015_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_7aed7b4daca85d40,1.2431862370003728,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_43312c0023271381,9.29469762399998,/mnt/d/game/research_sbend_formal/logs/fdtd_016_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_43312c0023271381,1.1251524909998807,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_83a983c948a7dcde,9.141266379000001,/mnt/d/game/research_sbend_formal/logs/fdtd_017_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_83a983c948a7dcde,1.17806782200023,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_0a73cc56618f6d50,9.52158830899998,/mnt/d/game/research_sbend_formal/logs/fdtd_018_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_0a73cc56618f6d50,1.3038528659999429,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_edcea732832498d5,9.040508611000007,/mnt/d/game/research_sbend_formal/logs/fdtd_019_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_edcea732832498d5,1.1532921890002399,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_e373629a623a71ee,9.01922104800002,/mnt/d/game/research_sbend_formal/logs/fdtd_020_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_e373629a623a71ee,1.0733832720002283,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_fd86eb06ce0ecdc4,9.023465660999989,/mnt/d/game/research_sbend_formal/logs/fdtd_021_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_fd86eb06ce0ecdc4,1.090276116000041,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_de8951bac44314b6,9.550353614000016,/mnt/d/game/research_sbend_formal/logs/fdtd_022_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_de8951bac44314b6,1.0814849990001676,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_fff5749dbaa814aa,8.555262432999996,/mnt/d/game/research_sbend_formal/logs/fdtd_023_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_fff5749dbaa814aa,1.18733148299998,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_a1c323516b45a6d4,9.687062543000025,/mnt/d/game/research_sbend_formal/logs/fdtd_024_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_a1c323516b45a6d4,1.290265332999752,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_f6d4f7b3a2116672,10.027605312999981,/mnt/d/game/research_sbend_formal/logs/fdtd_025_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_f6d4f7b3a2116672,1.168363982000301,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_2ee88fb9e82fa00b,9.556589742000028,/mnt/d/game/research_sbend_formal/logs/fdtd_026_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_2ee88fb9e82fa00b,1.186239187999945,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_d0451814d625960f,9.720993512000007,/mnt/d/game/research_sbend_formal/logs/fdtd_027_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_d0451814d625960f,1.220553867000035,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_e4b0fbe8cafadb39,9.544344217000003,/mnt/d/game/research_sbend_formal/logs/fdtd_028_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_e4b0fbe8cafadb39,1.2565723689999686,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_512fb2bbf306ffe7,10.535021825000001,/mnt/d/game/research_sbend_formal/logs/fdtd_029_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_512fb2bbf306ffe7,1.273319698999785,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_eaf4d23a605ba88b,9.167342606000034,/mnt/d/game/research_sbend_formal/logs/fdtd_030_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_eaf4d23a605ba88b,1.1546987079996143,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_d77acfef5908fd46,9.300299232999976,/mnt/d/game/research_sbend_formal/logs/fdtd_031_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_d77acfef5908fd46,1.1949066699999094,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_dbdc0755f0b36cbd,9.342217884999968,/mnt/d/game/research_sbend_formal/logs/fdtd_032_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_dbdc0755f0b36cbd,1.2455111849999412,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_d10c7a7784c665a8,9.80199268299998,/mnt/d/game/research_sbend_formal/logs/fdtd_033_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_d10c7a7784c665a8,1.1153800070001125,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a9a6b0f518627540,9.032507099000043,/mnt/d/game/research_sbend_formal/logs/fdtd_034_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a9a6b0f518627540,1.2224183399998765,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_8e260266a383fdc1,10.578003746000036,/mnt/d/game/research_sbend_formal/logs/fdtd_035_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_8e260266a383fdc1,1.3340130530000351,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_1cf3b4fe522ba0bd,9.530791112000088,/mnt/d/game/research_sbend_formal/logs/fdtd_036_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_1cf3b4fe522ba0bd,1.322443502999704,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_dd16fb8379e513e9,9.049077006999937,/mnt/d/game/research_sbend_formal/logs/fdtd_037_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_dd16fb8379e513e9,1.1212163139998665,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a7789a081e04af8e,9.581441440999924,/mnt/d/game/research_sbend_formal/logs/fdtd_038_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a7789a081e04af8e,1.3196596420002606,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_930461c77f8fb12d,9.019322331000012,/mnt/d/game/research_sbend_formal/logs/fdtd_039_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_930461c77f8fb12d,1.2110910900000817,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a534f7a6c121ee05,10.346779553000033,/mnt/d/game/research_sbend_formal/logs/fdtd_040_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a534f7a6c121ee05,1.2605132190001314,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_44d0df9fe294ff3a,10.336506738999901,/mnt/d/game/research_sbend_formal/logs/fdtd_041_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_44d0df9fe294ff3a,1.112914520999766,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_40233960b5587889,10.031453063999948,/mnt/d/game/research_sbend_formal/logs/fdtd_042_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_40233960b5587889,1.174402468000153,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_bdfbb9c7ba0f5ad2,9.053773829999955,/mnt/d/game/research_sbend_formal/logs/fdtd_043_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_bdfbb9c7ba0f5ad2,1.1160005729998375,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_38e5ac459f961115,9.263499590999913,/mnt/d/game/research_sbend_formal/logs/fdtd_044_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_38e5ac459f961115,1.1618908000000374,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_0ef05642d3277923,9.546908852000001,/mnt/d/game/research_sbend_formal/logs/fdtd_045_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_0ef05642d3277923,1.1513892069997382,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_144ad82c602adb75,9.530175815999996,/mnt/d/game/research_sbend_formal/logs/fdtd_046_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_144ad82c602adb75,1.2383690760002537,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_bfd67856e6163b23,9.789100270999938,/mnt/d/game/research_sbend_formal/logs/fdtd_047_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_bfd67856e6163b23,1.1030233800001952,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_b550d955c1a21610,9.038184218999959,/mnt/d/game/research_sbend_formal/logs/fdtd_048_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_b550d955c1a21610,1.210414321999906,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_3145e31cef19137f,9.556629025000007,/mnt/d/game/research_sbend_formal/logs/fdtd_049_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_3145e31cef19137f,1.1856027379999432,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_f10ef44d9cb4f1ee,9.6653492800001,/mnt/d/game/research_sbend_formal/logs/fdtd_050_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_f10ef44d9cb4f1ee,1.300006131000373,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_761fc538d4ca619e,9.230715830999998,/mnt/d/game/research_sbend_formal/logs/fdtd_051_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_761fc538d4ca619e,1.112594143000024,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_eca802b8f6cd3d49,9.686308259000043,/mnt/d/game/research_sbend_formal/logs/fdtd_052_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_eca802b8f6cd3d49,1.318980742000349,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_7ef14843c579585c,9.535349369999949,/mnt/d/game/research_sbend_formal/logs/fdtd_053_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_7ef14843c579585c,1.2325230289998217,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_f70da585b24adcbe,9.548292745000026,/mnt/d/game/research_sbend_formal/logs/fdtd_054_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_f70da585b24adcbe,1.186850883000261,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_31e7a1a7a180e805,9.572237473999962,/mnt/d/game/research_sbend_formal/logs/fdtd_055_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_31e7a1a7a180e805,1.1332488830003058,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_c2e90e0559919df0,10.037962253999922,/mnt/d/game/research_sbend_formal/logs/fdtd_056_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_c2e90e0559919df0,1.197513484999945,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_188e28c61d0d6cad,9.331934455999999,/mnt/d/game/research_sbend_formal/logs/fdtd_057_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_188e28c61d0d6cad,1.0937876220000362,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_f5266bec8a979c31,9.047761267999931,/mnt/d/game/research_sbend_formal/logs/fdtd_058_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_f5266bec8a979c31,1.1449964720000025,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_d00c451ca7eec022,10.06033155,/mnt/d/game/research_sbend_formal/logs/fdtd_059_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_d00c451ca7eec022,1.275679197000045,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_4d649d7491b3658f,10.048561942999982,/mnt/d/game/research_sbend_formal/logs/fdtd_060_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_4d649d7491b3658f,1.2977948820002894,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_efe57cb37e1905a3,9.887149074999911,/mnt/d/game/research_sbend_formal/logs/fdtd_061_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_efe57cb37e1905a3,1.2135993280003277,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_d91b394793f0b164,9.520471810999993,/mnt/d/game/research_sbend_formal/logs/fdtd_062_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_d91b394793f0b164,1.196278959999745,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_6047214103aaf8f0,10.565017149000028,/mnt/d/game/research_sbend_formal/logs/fdtd_063_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_6047214103aaf8f0,1.3730636730001606,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_0f92b7e675fe676a,9.926514213000019,/mnt/d/game/research_sbend_formal/logs/fdtd_064_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_0f92b7e675fe676a,1.0461307400000806,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a92d2f3a4d18b78f,9.552339414000016,/mnt/d/game/research_sbend_formal/logs/fdtd_065_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a92d2f3a4d18b78f,1.1428666289998546,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_8bf972741e60a736,9.527990551000016,/mnt/d/game/research_sbend_formal/logs/fdtd_066_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_8bf972741e60a736,1.1239494009996633,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_3c8f4d0cf5bc44af,9.015758784000013,/mnt/d/game/research_sbend_formal/logs/fdtd_067_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_3c8f4d0cf5bc44af,1.2684548249999352,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_d6f6660233404741,9.198551391000024,/mnt/d/game/research_sbend_formal/logs/fdtd_068_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_d6f6660233404741,1.0682567580001887,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_e6eabce6d687565d,10.061382663000018,/mnt/d/game/research_sbend_formal/logs/fdtd_069_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_e6eabce6d687565d,1.06414951700026,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_84a03614c61af41b,9.444333782000058,/mnt/d/game/research_sbend_formal/logs/fdtd_070_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_84a03614c61af41b,1.2694624329997168,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_34fb48432b569ef7,9.542966094999997,/mnt/d/game/research_sbend_formal/logs/fdtd_071_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_34fb48432b569ef7,1.0939302540000426,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_7bd6f45869dc8efc,9.055579233999993,/mnt/d/game/research_sbend_formal/logs/fdtd_072_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_7bd6f45869dc8efc,1.0570530750001126,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_ffb16b4aaf5dc2c1,9.558391759000074,/mnt/d/game/research_sbend_formal/logs/fdtd_073_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_ffb16b4aaf5dc2c1,1.1735833469997488,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_7e7a30ae2503ebdb,10.55067929400002,/mnt/d/game/research_sbend_formal/logs/fdtd_074_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_7e7a30ae2503ebdb,1.1232982380001886,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_9c51852c026c02f9,10.054473927999993,/mnt/d/game/research_sbend_formal/logs/fdtd_075_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_9c51852c026c02f9,1.253545918999862,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_4c1b16ba870e3b8d,9.671893280999939,/mnt/d/game/research_sbend_formal/logs/fdtd_076_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_4c1b16ba870e3b8d,1.068773518999933,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_3fa5366102a208d2,9.519109441000069,/mnt/d/game/research_sbend_formal/logs/fdtd_077_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_3fa5366102a208d2,1.1318618610002886,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_dc4aa3d428a3787d,10.036441982000042,/mnt/d/game/research_sbend_formal/logs/fdtd_078_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_dc4aa3d428a3787d,1.2743643660000998,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_617fc269af231f57,9.53433422899991,/mnt/d/game/research_sbend_formal/logs/fdtd_079_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_617fc269af231f57,1.2528555679996316,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_6256dae31005fc5c,9.028845845999967,/mnt/d/game/research_sbend_formal/logs/fdtd_080_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_6256dae31005fc5c,1.2049769720001677,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_472da2bfb3d11df2,10.314430447000063,/mnt/d/game/research_sbend_formal/logs/fdtd_081_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_472da2bfb3d11df2,1.3340436759999648,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a28d589ddd9a07c3,10.07386843900008,/mnt/d/game/research_sbend_formal/logs/fdtd_082_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a28d589ddd9a07c3,1.110565107000184,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_9d2793a999396e46,10.928752175999989,/mnt/d/game/research_sbend_formal/logs/fdtd_083_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_9d2793a999396e46,1.5376853050001955,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_ef0590c70fab5284,10.557490901000051,/mnt/d/game/research_sbend_formal/logs/fdtd_084_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_ef0590c70fab5284,1.2924270999997134,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_dc9983cb48513a2b,10.399677299000018,/mnt/d/game/research_sbend_formal/logs/fdtd_085_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_dc9983cb48513a2b,1.325900098999682,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_2b0533b3a3656ec3,9.539848035000091,/mnt/d/game/research_sbend_formal/logs/fdtd_086_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_2b0533b3a3656ec3,1.1289119729999584,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_c83c398aa1a9dbba,10.047306574999993,/mnt/d/game/research_sbend_formal/logs/fdtd_087_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_c83c398aa1a9dbba,1.1155193300000974,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_12d557a1f7089632,10.05189208999991,/mnt/d/game/research_sbend_formal/logs/fdtd_088_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_12d557a1f7089632,1.2496406549998937,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_ad03d1e57963a056,9.027948561999892,/mnt/d/game/research_sbend_formal/logs/fdtd_089_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_ad03d1e57963a056,1.19382696699995,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_bda7f89697890c33,10.078951880999966,/mnt/d/game/research_sbend_formal/logs/fdtd_090_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_bda7f89697890c33,1.2628916460002984,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_f1250ea07746244c,9.56358728500004,/mnt/d/game/research_sbend_formal/logs/fdtd_091_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_f1250ea07746244c,1.1226143499998216,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_ad76ad7ae509896f,10.429723813999999,/mnt/d/game/research_sbend_formal/logs/fdtd_092_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_ad76ad7ae509896f,1.2171358579998923,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_04522f3ca5477659,10.526006587999973,/mnt/d/game/research_sbend_formal/logs/fdtd_093_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_04522f3ca5477659,1.2978337780000402,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_fa7444b28d560fe2,11.04270843800009,/mnt/d/game/research_sbend_formal/logs/fdtd_094_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_fa7444b28d560fe2,1.3259457439999096,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_507dcead458c7fbc,10.539889450000146,/mnt/d/game/research_sbend_formal/logs/fdtd_095_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_507dcead458c7fbc,1.3359720180001204,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_91d8a6de49bbe552,10.567733137999994,/mnt/d/game/research_sbend_formal/logs/fdtd_096_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_91d8a6de49bbe552,1.1872944709998592,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_d8caea0df5e029fb,10.047971138999856,/mnt/d/game/research_sbend_formal/logs/fdtd_097_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_d8caea0df5e029fb,1.0773506310001721,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_16e1942398e89fb4,10.528480843999887,/mnt/d/game/research_sbend_formal/logs/fdtd_098_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_16e1942398e89fb4,1.258330410000326,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_b5478de9b11a8a77,10.257684832999985,/mnt/d/game/research_sbend_formal/logs/fdtd_099_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_b5478de9b11a8a77,1.1046408689999225,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_e311762bb97d429a,10.403494615,/mnt/d/game/research_sbend_formal/logs/fdtd_100_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_e311762bb97d429a,1.4030475730000944,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_857db7e02792cf40,9.562124234000066,/mnt/d/game/research_sbend_formal/logs/fdtd_101_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_857db7e02792cf40,1.1078955729999507,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_c3a88ca664cf4b20,9.860054792000028,/mnt/d/game/research_sbend_formal/logs/fdtd_102_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_c3a88ca664cf4b20,1.2385424919998513,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_c1fa13035b84997c,10.533884632000081,/mnt/d/game/research_sbend_formal/logs/fdtd_103_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_c1fa13035b84997c,1.3787206520000836,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_452673513342d2c6,10.444913748999852,/mnt/d/game/research_sbend_formal/logs/fdtd_104_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_452673513342d2c6,1.260088549000102,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_05ae16187e0c2b22,11.568084580999994,/mnt/d/game/research_sbend_formal/logs/fdtd_105_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_05ae16187e0c2b22,1.261613349000072,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_ce333fbe01abb0d2,10.355855412999972,/mnt/d/game/research_sbend_formal/logs/fdtd_106_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_ce333fbe01abb0d2,1.1349071409999851,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_85114cafcbc01304,10.46593259500014,/mnt/d/game/research_sbend_formal/logs/fdtd_107_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_85114cafcbc01304,1.0497634260000268,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_252d7c424deac4e8,9.846276422000074,/mnt/d/game/research_sbend_formal/logs/fdtd_108_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_252d7c424deac4e8,1.1592298870000377,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_1161b915967e431e,9.560225358000025,/mnt/d/game/research_sbend_formal/logs/fdtd_109_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_1161b915967e431e,1.191896560999794,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_374a8b3397dcf4e6,10.583869712000023,/mnt/d/game/research_sbend_formal/logs/fdtd_110_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_374a8b3397dcf4e6,1.299418064999827,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_ce3d6a6245684a0e,9.03264817299987,/mnt/d/game/research_sbend_formal/logs/fdtd_111_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_ce3d6a6245684a0e,1.108448758999657,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_83bc24ae472b1535,9.336522254000101,/mnt/d/game/research_sbend_formal/logs/fdtd_112_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_83bc24ae472b1535,1.1225047819998508,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_729d3e0f49032af3,10.041523311999981,/mnt/d/game/research_sbend_formal/logs/fdtd_113_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_729d3e0f49032af3,1.2233599159999358,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_611db374d8183b86,9.655811894999943,/mnt/d/game/research_sbend_formal/logs/fdtd_114_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_611db374d8183b86,1.2561033689999022,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_e3f047cc0b710887,9.518581070999971,/mnt/d/game/research_sbend_formal/logs/fdtd_115_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_e3f047cc0b710887,1.2301034920001257,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_d93f8c198d2a7608,9.558989991999852,/mnt/d/game/research_sbend_formal/logs/fdtd_116_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_d93f8c198d2a7608,1.1432062469998527,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_6868aef75701c526,9.570244192000018,/mnt/d/game/research_sbend_formal/logs/fdtd_117_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_6868aef75701c526,1.277216124000006,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_f5650856b9273682,10.384346052999945,/mnt/d/game/research_sbend_formal/logs/fdtd_118_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_f5650856b9273682,1.1583451980000063,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_a47f25f60371a112,9.760867278000205,/mnt/d/game/research_sbend_formal/logs/fdtd_119_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_a47f25f60371a112,1.1643365499999163,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_bc38eaffab052902,10.528138133000084,/mnt/d/game/research_sbend_formal/logs/fdtd_120_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_bc38eaffab052902,1.368001221999748,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_87bb0d7d2df39c12,10.548282613000083,/mnt/d/game/research_sbend_formal/logs/fdtd_121_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_87bb0d7d2df39c12,1.2675488599998062,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_fb605cc29e62371b,10.86111554199988,/mnt/d/game/research_sbend_formal/logs/fdtd_122_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_fb605cc29e62371b,1.2321506809998937,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_f554081fea1500f2,9.704257773000109,/mnt/d/game/research_sbend_formal/logs/fdtd_123_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_f554081fea1500f2,1.250211261000004,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_cf5098fd26cd2672,9.720100622000018,/mnt/d/game/research_sbend_formal/logs/fdtd_124_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_cf5098fd26cd2672,1.2371393610001178,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_493c8fd5c2b77cc2,10.390757828999995,/mnt/d/game/research_sbend_formal/logs/fdtd_125_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_493c8fd5c2b77cc2,1.298759033999886,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_dd48ece99c3021ee,11.564330364999932,/mnt/d/game/research_sbend_formal/logs/fdtd_126_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_dd48ece99c3021ee,1.3610995240001103,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_afbd24d3220fd074,10.549613681999972,/mnt/d/game/research_sbend_formal/logs/fdtd_127_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_afbd24d3220fd074,1.3805487810000159,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_4b64cc5239527eec,11.051697607999813,/mnt/d/game/research_sbend_formal/logs/fdtd_128_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_4b64cc5239527eec,1.1691554209996866,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_95a51a030604d5ae,9.649930103000088,/mnt/d/game/research_sbend_formal/logs/fdtd_129_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_95a51a030604d5ae,1.1671842870000546,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_b7585ed72c85aa71,10.617402354999967,/mnt/d/game/research_sbend_formal/logs/fdtd_130_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_b7585ed72c85aa71,1.1750871990002452,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_157f99e349c69b9d,9.52382934100001,/mnt/d/game/research_sbend_formal/logs/fdtd_131_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_157f99e349c69b9d,1.2969043880002573,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_4b938db8952eaeb3,10.029728709999972,/mnt/d/game/research_sbend_formal/logs/fdtd_132_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_4b938db8952eaeb3,1.1532630579999932,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a0362856742b3681,10.444656672000065,/mnt/d/game/research_sbend_formal/logs/fdtd_133_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a0362856742b3681,1.498769361000086,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_7ab82de5e4e8fbee,11.144675452000001,/mnt/d/game/research_sbend_formal/logs/fdtd_134_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_7ab82de5e4e8fbee,1.2740106169999308,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_4577e3f19b509844,10.048226806999992,/mnt/d/game/research_sbend_formal/logs/fdtd_135_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_4577e3f19b509844,1.274441261999982,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_1304bb99296598f3,11.567882203000181,/mnt/d/game/research_sbend_formal/logs/fdtd_136_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_1304bb99296598f3,1.2289541139998619,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_0dd86788b5131757,11.061385725000036,/mnt/d/game/research_sbend_formal/logs/fdtd_137_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_0dd86788b5131757,1.277677629000209,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_28a174bf728b2a10,10.05894281000019,/mnt/d/game/research_sbend_formal/logs/fdtd_138_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_28a174bf728b2a10,1.2397302240001409,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_218bbabb9c89f183,10.167708455000138,/mnt/d/game/research_sbend_formal/logs/fdtd_139_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_218bbabb9c89f183,1.2892125209996266,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_faf1a7ae1f358953,10.931161631000123,/mnt/d/game/research_sbend_formal/logs/fdtd_140_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_faf1a7ae1f358953,1.2005572319999374,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_ea3ff32c8fed5651,12.042581865000102,/mnt/d/game/research_sbend_formal/logs/fdtd_141_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_ea3ff32c8fed5651,1.4296936840000853,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_72b28718e06d6f3b,9.54221240400011,/mnt/d/game/research_sbend_formal/logs/fdtd_142_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_72b28718e06d6f3b,1.3543122279997988,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_913aa7e117c8aa88,9.814307546999999,/mnt/d/game/research_sbend_formal/logs/fdtd_143_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_913aa7e117c8aa88,1.3909495439997954,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_9b4c189716765155,10.393355028000087,/mnt/d/game/research_sbend_formal/logs/fdtd_144_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_9b4c189716765155,1.3577830849999373,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_8234da11ad95c9b7,10.35144169399996,/mnt/d/game/research_sbend_formal/logs/fdtd_145_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_8234da11ad95c9b7,1.1679449719999866,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_8f4134519710a6da,9.061039050999852,/mnt/d/game/research_sbend_formal/logs/fdtd_146_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_8f4134519710a6da,0.9755764880001152,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_95389e2a6c626e83,10.555472876000067,/mnt/d/game/research_sbend_formal/logs/fdtd_147_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_95389e2a6c626e83,1.01366501099983,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_c924354eed01be8f,10.365959610000118,/mnt/d/game/research_sbend_formal/logs/fdtd_148_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_c924354eed01be8f,1.1890836219999983,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_85a0e3364b52f84e,11.051791087000083,/mnt/d/game/research_sbend_formal/logs/fdtd_149_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_85a0e3364b52f84e,1.3842007909997847,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_3e47e7625bb47e45,9.546416283000099,/mnt/d/game/research_sbend_formal/logs/fdtd_150_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_3e47e7625bb47e45,1.0751344049999716,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_241ed73960e09b4b,10.557953520999945,/mnt/d/game/research_sbend_formal/logs/fdtd_151_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_241ed73960e09b4b,1.2420415390001835,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_8f0c368f23347bbc,9.867332769000086,/mnt/d/game/research_sbend_formal/logs/fdtd_152_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_8f0c368f23347bbc,1.2504570450000756,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a273405f0593bc45,10.089807465000149,/mnt/d/game/research_sbend_formal/logs/fdtd_153_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a273405f0593bc45,1.1625048949999837,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_7050fc4283274840,10.358871123999961,/mnt/d/game/research_sbend_formal/logs/fdtd_154_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_7050fc4283274840,1.1945468540002366,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_a15767d62a14caef,9.53592955299996,/mnt/d/game/research_sbend_formal/logs/fdtd_155_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_a15767d62a14caef,1.2703226479998193,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_27f0d894d35ec6ca,9.542301687999952,/mnt/d/game/research_sbend_formal/logs/fdtd_156_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_27f0d894d35ec6ca,1.084668431999944,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_dc2f828ad74f43a5,9.817047740999897,/mnt/d/game/research_sbend_formal/logs/fdtd_157_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_dc2f828ad74f43a5,1.1070779570000013,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_796976fd51d4ed75,10.452286547000085,/mnt/d/game/research_sbend_formal/logs/fdtd_158_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_796976fd51d4ed75,1.183303005000198,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_e6349fd1205a5da7,10.455938139999944,/mnt/d/game/research_sbend_formal/logs/fdtd_159_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_e6349fd1205a5da7,1.25532344200019,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_e782e9ba99b18532,10.543639118000101,/mnt/d/game/research_sbend_formal/logs/fdtd_160_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_e782e9ba99b18532,1.2676377590000811,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_1c1263a6e7e00946,10.538801810999985,/mnt/d/game/research_sbend_formal/logs/fdtd_161_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_1c1263a6e7e00946,1.246264414000052,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_25309c1b3cbd1a37,11.449961823000194,/mnt/d/game/research_sbend_formal/logs/fdtd_162_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_25309c1b3cbd1a37,1.3465180759999384,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_f8d3c1cc6eb5f3fe,9.869249884999817,/mnt/d/game/research_sbend_formal/logs/fdtd_163_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_f8d3c1cc6eb5f3fe,1.1928480010001294,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_dcea1b587a89c188,10.387224535999849,/mnt/d/game/research_sbend_formal/logs/fdtd_164_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_dcea1b587a89c188,1.2202538719998302,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,train,sbend_formal_c1bb2c7d168d3dd0,9.54910433300006,/mnt/d/game/research_sbend_formal/logs/fdtd_165_resource.json,subprocess_wall_with_startup
+common_feature_compute,train,sbend_formal_c1bb2c7d168d3dd0,1.1532845000001544,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_aad08ac813ebb216,10.044460916000162,/mnt/d/game/research_sbend_formal/logs/fdtd_166_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_aad08ac813ebb216,1.058202684999742,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,val,sbend_formal_4dbd79bb24231754,10.56540717200005,/mnt/d/game/research_sbend_formal/logs/fdtd_167_resource.json,subprocess_wall_with_startup
+common_feature_compute,val,sbend_formal_4dbd79bb24231754,1.3414196089997859,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_ec4b9b5df385c7ad,10.532886069999904,/mnt/d/game/research_sbend_formal/logs/fdtd_168_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_ec4b9b5df385c7ad,1.3003157319999445,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_6f034e04be36e1e5,9.561411327000087,/mnt/d/game/research_sbend_formal/logs/fdtd_169_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_6f034e04be36e1e5,1.2157948610001768,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_1c92ed3139e37dd8,10.41980743199997,/mnt/d/game/research_sbend_formal/logs/fdtd_170_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_1c92ed3139e37dd8,1.155572280999877,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_f2c3af9e69e413db,10.871968985999956,/mnt/d/game/research_sbend_formal/logs/fdtd_171_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_f2c3af9e69e413db,1.247363311999834,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_772c0377a3771952,10.556814093999947,/mnt/d/game/research_sbend_formal/logs/fdtd_172_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_772c0377a3771952,1.1474076620002052,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_892f2f685907e125,9.904838280999911,/mnt/d/game/research_sbend_formal/logs/fdtd_173_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_892f2f685907e125,1.0489997999998195,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_7c1caeaa718f5310,11.590231294999967,/mnt/d/game/research_sbend_formal/logs/fdtd_174_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_7c1caeaa718f5310,1.2914398439997967,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_153d783d8187f16c,10.053477955000062,/mnt/d/game/research_sbend_formal/logs/fdtd_175_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_153d783d8187f16c,1.170867946999806,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_0089dbb9ea28fbbb,9.56807996800012,/mnt/d/game/research_sbend_formal/logs/fdtd_176_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_0089dbb9ea28fbbb,1.1954775079998399,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_58e433f459098a7e,10.849987461999945,/mnt/d/game/research_sbend_formal/logs/fdtd_177_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_58e433f459098a7e,1.2332387090000339,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_1a6f1430fb918e50,11.336535552999976,/mnt/d/game/research_sbend_formal/logs/fdtd_178_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_1a6f1430fb918e50,1.3989544599999135,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression
+FDTD_label,test,sbend_formal_b95c047d73faaee5,9.699062827000034,/mnt/d/game/research_sbend_formal/logs/fdtd_179_resource.json,subprocess_wall_with_startup
+common_feature_compute,test,sbend_formal_b95c047d73faaee5,1.302522966000197,/mnt/d/game/research_sbend_formal/cache_complete.json,compute_only; excludes historical input read/cache compression

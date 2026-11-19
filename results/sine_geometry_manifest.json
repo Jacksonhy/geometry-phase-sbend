@@ -1,0 +1,1193 @@
+{
+  "records": [
+    {
+      "geometry_id": "sine_6907f6153730761e",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.4139295087570876,
+        "length_um": 12.121343666467396
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_26486d65abaefaba",
+      "matched_euler_params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 3.5,
+        "R_min_um": 5.8500000000000005
+      },
+      "max_local_angle_deg": 29.392224321015533,
+      "sine": {
+        "axial_length_um": 12.121343666467396,
+        "offset_um": 3.4139295087570876,
+        "bend_arc_length_um": 12.805433173118455,
+        "max_angle_deg": 29.390055173716974,
+        "discrete_min_radius_um": 7.529926274052084
+      },
+      "euler": {
+        "axial_length_um": 12.121343666467396,
+        "offset_um": 3.4139295087570876,
+        "bend_arc_length_um": 12.84882495345801,
+        "max_angle_deg": 31.335512101558468,
+        "discrete_min_radius_um": 5.9191530006876185
+      },
+      "same_fraction_centerline_rms_difference_um": 0.11170695360062138,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_3dcc1a5e3cbd054b",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.4548943542771346,
+        "length_um": 9.821925667257554
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_9083116844040fa7",
+      "matched_euler_params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.5,
+        "R_min_um": 5.25
+      },
+      "max_local_angle_deg": 26.55957154871603,
+      "sine": {
+        "axial_length_um": 9.821925667257554,
+        "offset_um": 2.4548943542771346,
+        "bend_arc_length_um": 10.263045804248907,
+        "max_angle_deg": 26.557542766389293,
+        "discrete_min_radius_um": 6.760614552323971
+      },
+      "euler": {
+        "axial_length_um": 9.821925667257554,
+        "offset_um": 2.4548943542771346,
+        "bend_arc_length_um": 10.287293091809836,
+        "max_angle_deg": 27.955744336145802,
+        "discrete_min_radius_um": 5.312214176250523
+      },
+      "same_fraction_centerline_rms_difference_um": 0.07180389993247333,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_579ed848874ec0ca",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.038389120470021,
+        "length_um": 11.725969566010257
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_d3eee903860d2af2",
+      "matched_euler_params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.1,
+        "R_min_um": 6.075
+      },
+      "max_local_angle_deg": 27.394657598459276,
+      "sine": {
+        "axial_length_um": 11.725969566010257,
+        "offset_um": 3.038389120470021,
+        "bend_arc_length_um": 12.290326118788546,
+        "max_angle_deg": 27.39258531021009,
+        "discrete_min_radius_um": 7.822809181074606
+      },
+      "euler": {
+        "axial_length_um": 11.725969566010257,
+        "offset_um": 3.038389120470021,
+        "bend_arc_length_um": 12.32268779314273,
+        "max_angle_deg": 28.939326071754262,
+        "discrete_min_radius_um": 6.146941817271533
+      },
+      "same_fraction_centerline_rms_difference_um": 0.09192741332931847,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_c466562292fae801",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.733965436215949,
+        "length_um": 11.737480982972397
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_6251e1dd1819b67b",
+      "matched_euler_params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.7750000000000004,
+        "R_min_um": 6.675000000000001
+      },
+      "max_local_angle_deg": 24.978559438999483,
+      "sine": {
+        "axial_length_um": 11.737480982972397,
+        "offset_um": 2.733965436215949,
+        "bend_arc_length_um": 12.197703471151565,
+        "max_angle_deg": 24.97661771287429,
+        "discrete_min_radius_um": 8.59405299866652
+      },
+      "euler": {
+        "axial_length_um": 11.737480982972397,
+        "offset_um": 2.733965436215949,
+        "bend_arc_length_um": 12.221051832625374,
+        "max_angle_deg": 26.1208055470194,
+        "discrete_min_radius_um": 6.754194397979459
+      },
+      "same_fraction_centerline_rms_difference_um": 0.0748618873321293,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_7f509f1733e96a23",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.7093040391798677,
+        "length_um": 9.767634006276154
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_fe18bfd449581832",
+      "matched_euler_params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.7750000000000004,
+        "R_min_um": 4.775
+      },
+      "max_local_angle_deg": 29.019381521806004,
+      "sine": {
+        "axial_length_um": 9.767634006276154,
+        "offset_um": 2.7093040391798677,
+        "bend_arc_length_um": 10.303077025395979,
+        "max_angle_deg": 29.017229666399484,
+        "discrete_min_radius_um": 6.146969012441592
+      },
+      "euler": {
+        "axial_length_um": 9.767634006276154,
+        "offset_um": 2.7093040391798677,
+        "bend_arc_length_um": 10.336407892500963,
+        "max_angle_deg": 30.88342892617959,
+        "discrete_min_radius_um": 4.831465422506515
+      },
+      "same_fraction_centerline_rms_difference_um": 0.0873863409734339,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_8476896ceb878d5c",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.029941895215774,
+        "length_um": 11.126923436932266
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_a2a0b228f3695ac5",
+      "matched_euler_params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.1,
+        "R_min_um": 5.525
+      },
+      "max_local_angle_deg": 28.57335171567288,
+      "sine": {
+        "axial_length_um": 11.126923436932266,
+        "offset_um": 3.029941895215774,
+        "bend_arc_length_um": 11.715797971095322,
+        "max_angle_deg": 28.571221024992354,
+        "discrete_min_radius_um": 7.113040456161073
+      },
+      "euler": {
+        "axial_length_um": 11.126923436932266,
+        "offset_um": 3.029941895215774,
+        "bend_arc_length_um": 11.751639096400258,
+        "max_angle_deg": 30.345577940308274,
+        "discrete_min_radius_um": 5.590361275063928
+      },
+      "same_fraction_centerline_rms_difference_um": 0.09604855654501372,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_7bdb024d75468605",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.2962393057869264,
+        "length_um": 8.391990330513782
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_2b2ef636d15aa1f2",
+      "matched_euler_params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.35,
+        "R_min_um": 4.15
+      },
+      "max_local_angle_deg": 28.689483150678047,
+      "sine": {
+        "axial_length_um": 8.391990330513782,
+        "offset_um": 2.2962393057869264,
+        "bend_arc_length_um": 8.84022648833663,
+        "max_angle_deg": 28.687346899464572,
+        "discrete_min_radius_um": 5.342713479605514
+      },
+      "euler": {
+        "axial_length_um": 8.391990330513782,
+        "offset_um": 2.2962393057869264,
+        "bend_arc_length_um": 8.86766824035947,
+        "max_angle_deg": 30.48530821441074,
+        "discrete_min_radius_um": 4.1990896865205185
+      },
+      "same_fraction_centerline_rms_difference_um": 0.07312080550082138,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_d45f77dc73b11cb6",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 1.9651067071967994,
+        "length_um": 7.959164722703164
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_6053592015355db4",
+      "matched_euler_params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.0,
+        "R_min_um": 4.3
+      },
+      "max_local_angle_deg": 26.28003186988893,
+      "sine": {
+        "axial_length_um": 7.959164722703164,
+        "offset_um": 1.9651067071967994,
+        "bend_arc_length_um": 8.30831069058189,
+        "max_angle_deg": 26.278018037822694,
+        "discrete_min_radius_um": 5.537070706178042
+      },
+      "euler": {
+        "axial_length_um": 7.959164722703164,
+        "offset_um": 1.9651067071967994,
+        "bend_arc_length_um": 8.327232354485934,
+        "max_angle_deg": 27.628765317754954,
+        "discrete_min_radius_um": 4.350967511747963
+      },
+      "same_fraction_centerline_rms_difference_um": 0.05682231064081321,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_0bf676761933d59d",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.080239263553057,
+        "length_um": 11.402016978920923
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_c5fcebb1e20efab0",
+      "matched_euler_params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.1500000000000004,
+        "R_min_um": 5.7
+      },
+      "max_local_angle_deg": 28.38223118113719,
+      "sine": {
+        "axial_length_um": 11.402016978920923,
+        "offset_um": 3.080239263553057,
+        "bend_arc_length_um": 11.996349747489203,
+        "max_angle_deg": 28.380109717748944,
+        "discrete_min_radius_um": 7.338596541838162
+      },
+      "euler": {
+        "axial_length_um": 11.402016978920923,
+        "offset_um": 3.080239263553057,
+        "bend_arc_length_um": 12.032175615677332,
+        "max_angle_deg": 30.116087930578292,
+        "discrete_min_radius_um": 5.767443188380393
+      },
+      "same_fraction_centerline_rms_difference_um": 0.0969153622725982,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_f4f3607ba73366c3",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.121579239237779,
+        "length_um": 12.809443718969362
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_838e04d3fcc40e1e",
+      "matched_euler_params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.1750000000000003,
+        "R_min_um": 7.0
+      },
+      "max_local_angle_deg": 25.984009862507303,
+      "sine": {
+        "axial_length_um": 12.809443718969362,
+        "offset_um": 3.121579239237779,
+        "bend_arc_length_um": 13.357409237897713,
+        "max_angle_deg": 25.98201207119272,
+        "discrete_min_radius_um": 9.013511679534918
+      },
+      "euler": {
+        "axial_length_um": 12.809443718969362,
+        "offset_um": 3.121579239237779,
+        "bend_arc_length_um": 13.38666335968421,
+        "max_angle_deg": 27.28371800950191,
+        "discrete_min_radius_um": 7.082989190189073
+      },
+      "same_fraction_centerline_rms_difference_um": 0.08916474993558354,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_f7e5eb27a187926c",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.2593913297134507,
+        "length_um": 12.61317336088133
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_2a0529dae3582d81",
+      "matched_euler_params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 6.550000000000001
+      },
+      "max_local_angle_deg": 27.33097716572449,
+      "sine": {
+        "axial_length_um": 12.61317336088133,
+        "offset_um": 3.2593913297134507,
+        "bend_arc_length_um": 13.217070633581866,
+        "max_angle_deg": 27.328908133517096,
+        "discrete_min_radius_um": 8.434567039709641
+      },
+      "euler": {
+        "axial_length_um": 12.61317336088133,
+        "offset_um": 3.2593913297134507,
+        "bend_arc_length_um": 13.251588219310953,
+        "max_angle_deg": 28.863957889327093,
+        "discrete_min_radius_um": 6.62757102434062
+      },
+      "same_fraction_centerline_rms_difference_um": 0.09836223271774967,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_13cb3a358101851d",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.1683398859563567,
+        "length_um": 12.800026522434258
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_aaa648bc87cd3f08",
+      "matched_euler_params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.225,
+        "R_min_um": 6.9
+      },
+      "max_local_angle_deg": 26.337806728967106,
+      "sine": {
+        "axial_length_um": 12.800026522434258,
+        "offset_um": 3.1683398859563567,
+        "bend_arc_length_um": 13.364274153562935,
+        "max_angle_deg": 26.335789791237172,
+        "discrete_min_radius_um": 8.885130640373115
+      },
+      "euler": {
+        "axial_length_um": 12.800026522434258,
+        "offset_um": 3.1683398859563567,
+        "bend_arc_length_um": 13.394942762064462,
+        "max_angle_deg": 27.69625324239099,
+        "discrete_min_radius_um": 6.9817814112266
+      },
+      "same_fraction_centerline_rms_difference_um": 0.09183264484764833,
+      "angle_stratum": "low"
+    },
+    {
+      "geometry_id": "sine_2a5060f2ead14fe7",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.5528872846282002,
+        "length_um": 8.661257873404088
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_6e088fec4b5d6166",
+      "matched_euler_params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.625,
+        "R_min_um": 4.025
+      },
+      "max_local_angle_deg": 30.519168251525844,
+      "sine": {
+        "axial_length_um": 8.661257873404088,
+        "offset_um": 2.5528872846282002,
+        "bend_arc_length_um": 9.194170354161875,
+        "max_angle_deg": 30.516949083351996,
+        "discrete_min_radius_um": 5.1776946513928275
+      },
+      "euler": {
+        "axial_length_um": 8.661257873404088,
+        "offset_um": 2.5528872846282002,
+        "bend_arc_length_um": 9.229943733372528,
+        "max_angle_deg": 32.71616719320761,
+        "discrete_min_radius_um": 4.072525850892973
+      },
+      "same_fraction_centerline_rms_difference_um": 0.08718352843580651,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_55862565b75b780b",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.1321403563449506,
+        "length_um": 6.887387739277985
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_9f024b82681dc8c3",
+      "matched_euler_params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 2.2,
+        "R_min_um": 3.075
+      },
+      "max_local_angle_deg": 31.76344766104464,
+      "sine": {
+        "axial_length_um": 6.887387739277985,
+        "offset_um": 2.1321403563449506,
+        "bend_arc_length_um": 7.352372666163511,
+        "max_angle_deg": 31.761177255103448,
+        "discrete_min_radius_um": 3.9523298256295307
+      },
+      "euler": {
+        "axial_length_um": 6.887387739277985,
+        "offset_um": 2.1321403563449506,
+        "bend_arc_length_um": 7.385592772009648,
+        "max_angle_deg": 34.266479499721186,
+        "discrete_min_radius_um": 3.1112592623909627
+      },
+      "same_fraction_centerline_rms_difference_um": 0.07625558425601597,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_f0f4be4c8e0bc8e6",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.3860260658838195,
+        "length_um": 7.206585869821294
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_8150e8b94ed71772",
+      "matched_euler_params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 2.475,
+        "R_min_um": 3.0500000000000003
+      },
+      "max_local_angle_deg": 33.51170221795111,
+      "sine": {
+        "axial_length_um": 7.206585869821294,
+        "offset_um": 2.3860260658838195,
+        "bend_arc_length_um": 7.758666646775833,
+        "max_angle_deg": 33.509367076694495,
+        "discrete_min_radius_um": 3.9134025554862615
+      },
+      "euler": {
+        "axial_length_um": 7.206585869821294,
+        "offset_um": 2.3860260658838195,
+        "bend_arc_length_um": 7.801695191296292,
+        "max_angle_deg": 36.493741327834385,
+        "discrete_min_radius_um": 3.0858880358659633
+      },
+      "same_fraction_centerline_rms_difference_um": 0.09090389300811422,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_2bae120018162350",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.2064245006896233,
+        "length_um": 9.719255937505892
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_bfce7a9a866a0be1",
+      "matched_euler_params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 3.325,
+        "R_min_um": 4.125
+      },
+      "max_local_angle_deg": 33.41717303541895,
+      "sine": {
+        "axial_length_um": 9.719255937505892,
+        "offset_um": 3.2064245006896233,
+        "bend_arc_length_um": 10.458837691823682,
+        "max_angle_deg": 33.414841174150524,
+        "discrete_min_radius_um": 5.293314225531718
+      },
+      "euler": {
+        "axial_length_um": 9.719255937505892,
+        "offset_um": 3.2064245006896233,
+        "bend_arc_length_um": 10.516210207049603,
+        "max_angle_deg": 36.3717800232336,
+        "discrete_min_radius_um": 4.173543023988703
+      },
+      "same_fraction_centerline_rms_difference_um": 0.121748574872886,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_c3b42d303cdea85c",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.5708121603713656,
+        "length_um": 8.418041813501848
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_e5f3ca0ed0a073e1",
+      "matched_euler_params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 2.6500000000000004,
+        "R_min_um": 3.8000000000000003
+      },
+      "max_local_angle_deg": 31.41601223474511,
+      "sine": {
+        "axial_length_um": 8.418041813501848,
+        "offset_um": 2.5708121603713656,
+        "bend_arc_length_um": 8.971966096320692,
+        "max_angle_deg": 31.413755708822894,
+        "discrete_min_radius_um": 4.885785503099295
+      },
+      "euler": {
+        "axial_length_um": 8.418041813501848,
+        "offset_um": 2.5708121603713656,
+        "bend_arc_length_um": 9.010858970772919,
+        "max_angle_deg": 33.83076715655478,
+        "discrete_min_radius_um": 3.844825749861102
+      },
+      "same_fraction_centerline_rms_difference_um": 0.0907763201030625,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_2b86abf3d92a1fe9",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.847202962895844,
+        "length_um": 14.744387723250341
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_effa9b40d02c7a63",
+      "matched_euler_params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 5.025,
+        "R_min_um": 6.275
+      },
+      "max_local_angle_deg": 33.324841076234776,
+      "sine": {
+        "axial_length_um": 14.744387723250341,
+        "offset_um": 4.847202962895844,
+        "bend_arc_length_um": 15.858997466825299,
+        "max_angle_deg": 33.32251244322475,
+        "discrete_min_radius_um": 8.053002988089629
+      },
+      "euler": {
+        "axial_length_um": 14.744387723250341,
+        "offset_um": 4.847202962895844,
+        "bend_arc_length_um": 15.945067256140366,
+        "max_angle_deg": 36.25282673577451,
+        "discrete_min_radius_um": 6.34885298318093
+      },
+      "same_fraction_centerline_rms_difference_um": 0.1834431863074206,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_901a7c945c35e8c5",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.9945479186676,
+        "length_um": 12.765218448113151
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_f54775823d3d730e",
+      "matched_euler_params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.125,
+        "R_min_um": 5.65
+      },
+      "max_local_angle_deg": 32.04033905355414,
+      "sine": {
+        "axial_length_um": 12.765218448113151,
+        "offset_um": 3.9945479186676,
+        "bend_arc_length_um": 13.644718913094058,
+        "max_angle_deg": 32.038057824824996,
+        "discrete_min_radius_um": 7.2600806559487765
+      },
+      "euler": {
+        "axial_length_um": 12.765218448113151,
+        "offset_um": 3.9945479186676,
+        "bend_arc_length_um": 13.708428072430493,
+        "max_angle_deg": 34.61532870210123,
+        "discrete_min_radius_um": 5.716601442260237
+      },
+      "same_fraction_centerline_rms_difference_um": 0.144319569845659,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_de8d948b70b41567",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 2.982212880053284,
+        "length_um": 9.724616365796344
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_cce44732dceff594",
+      "matched_euler_params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.075,
+        "R_min_um": 4.375
+      },
+      "max_local_angle_deg": 31.522153224743878,
+      "sine": {
+        "axial_length_um": 9.724616365796344,
+        "offset_um": 2.982212880053284,
+        "bend_arc_length_um": 10.36956541154494,
+        "max_angle_deg": 31.519892423195362,
+        "discrete_min_radius_um": 5.624519717186329
+      },
+      "euler": {
+        "axial_length_um": 9.724616365796344,
+        "offset_um": 2.982212880053284,
+        "bend_arc_length_um": 10.415090452594171,
+        "max_angle_deg": 33.963640774931804,
+        "discrete_min_radius_um": 4.426602471425683
+      },
+      "same_fraction_centerline_rms_difference_um": 0.10571610345639422,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_04993c3d04360fa0",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.8315976421482114,
+        "length_um": 12.529801577129952
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_cd184c6a5ba92613",
+      "matched_euler_params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.95,
+        "R_min_um": 5.65
+      },
+      "max_local_angle_deg": 31.44985153594565,
+      "sine": {
+        "axial_length_um": 12.529801577129952,
+        "offset_um": 3.8315976421482114,
+        "bend_arc_length_um": 13.356358323524773,
+        "max_angle_deg": 31.447593643525053,
+        "discrete_min_radius_um": 7.2641604001522815
+      },
+      "euler": {
+        "axial_length_um": 12.529801577129952,
+        "offset_um": 3.8315976421482114,
+        "bend_arc_length_um": 13.414491945175872,
+        "max_angle_deg": 33.87310679244253,
+        "discrete_min_radius_um": 5.716646298074825
+      },
+      "same_fraction_centerline_rms_difference_um": 0.13546420434426126,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_0cec436eede16781",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.7026019693992827,
+        "length_um": 10.869981954712891
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_18878c0011ee1319",
+      "matched_euler_params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.85,
+        "R_min_um": 4.5
+      },
+      "max_local_angle_deg": 34.2647512123203,
+      "sine": {
+        "axial_length_um": 10.869981954712891,
+        "offset_um": 3.7026019693992827,
+        "bend_arc_length_um": 11.74815602320832,
+        "max_angle_deg": 34.262390852541934,
+        "discrete_min_radius_um": 5.767608817961546
+      },
+      "euler": {
+        "axial_length_um": 10.869981954712891,
+        "offset_um": 3.7026019693992827,
+        "bend_arc_length_um": 11.819199925839897,
+        "max_angle_deg": 37.47182242290442,
+        "discrete_min_radius_um": 4.552896454544699
+      },
+      "same_fraction_centerline_rms_difference_um": 0.14487885994960495,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_1f2b65558eec6130",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.067098658679011,
+        "length_um": 12.993787129659301
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_49795f6e3f2d4328",
+      "matched_euler_params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.2,
+        "R_min_um": 5.75
+      },
+      "max_local_angle_deg": 32.0468404181774,
+      "sine": {
+        "axial_length_um": 12.993787129659301,
+        "offset_um": 4.067098658679011,
+        "bend_arc_length_um": 13.889461465193865,
+        "max_angle_deg": 32.04455893788751,
+        "discrete_min_radius_um": 7.388531460099467
+      },
+      "euler": {
+        "axial_length_um": 12.993787129659301,
+        "offset_um": 4.067098658679011,
+        "bend_arc_length_um": 13.954363276355858,
+        "max_angle_deg": 34.623536897775004,
+        "discrete_min_radius_um": 5.817779715525773
+      },
+      "same_fraction_centerline_rms_difference_um": 0.14697565205531954,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_21b507704f86c7a8",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 3.9259668139149158,
+        "length_um": 11.766627898672049
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_1c171e0cc52cf2a0",
+      "matched_euler_params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.075,
+        "R_min_um": 4.95
+      },
+      "max_local_angle_deg": 33.7153938632914,
+      "sine": {
+        "axial_length_um": 11.766627898672049,
+        "offset_um": 3.9259668139149158,
+        "bend_arc_length_um": 12.681160644241713,
+        "max_angle_deg": 33.71305174077137,
+        "discrete_min_radius_um": 6.349415209197554
+      },
+      "euler": {
+        "axial_length_um": 11.766627898672049,
+        "offset_um": 3.9259668139149158,
+        "bend_arc_length_um": 12.753161614331653,
+        "max_angle_deg": 36.75715710195274,
+        "discrete_min_radius_um": 5.008229027830267
+      },
+      "same_fraction_centerline_rms_difference_um": 0.15066146507829148,
+      "angle_stratum": "middle"
+    },
+    {
+      "geometry_id": "sine_471bf76aa1320267",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.080038484283896,
+        "length_um": 11.04333295109319
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_4b6edc380dbf6922",
+      "matched_euler_params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 4.275,
+        "R_min_um": 4.3
+      },
+      "max_local_angle_deg": 36.46122620257031,
+      "sine": {
+        "axial_length_um": 11.04333295109319,
+        "offset_um": 4.080038484283896,
+        "bend_arc_length_um": 12.081044783697184,
+        "max_angle_deg": 36.45880165982751,
+        "discrete_min_radius_um": 5.490400332604858
+      },
+      "euler": {
+        "axial_length_um": 11.04333295109319,
+        "offset_um": 4.080038484283896,
+        "bend_arc_length_um": 12.174573183092065,
+        "max_angle_deg": 40.393784032971844,
+        "discrete_min_radius_um": 4.3503805363922865
+      },
+      "same_fraction_centerline_rms_difference_um": 0.17229409635436782,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_06db25dcc546d7e0",
+      "params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 5.054014557565537,
+        "length_um": 13.565957380742349
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_c57b9a5dae79a01d",
+      "matched_euler_params": {
+        "wg_width_um": 0.4,
+        "lateral_offset_um": 5.300000000000001,
+        "R_min_um": 5.25
+      },
+      "max_local_angle_deg": 36.689888143212606,
+      "sine": {
+        "axial_length_um": 13.565957380742349,
+        "offset_um": 5.054014557565537,
+        "bend_arc_length_um": 14.860532939430216,
+        "max_angle_deg": 36.687457731719434,
+        "discrete_min_radius_um": 6.700243109475699
+      },
+      "euler": {
+        "axial_length_um": 13.565957380742349,
+        "offset_um": 5.054014557565537,
+        "bend_arc_length_um": 14.97852483432239,
+        "max_angle_deg": 40.70417816075453,
+        "discrete_min_radius_um": 5.311488215340438
+      },
+      "same_fraction_centerline_rms_difference_um": 0.21509736808800065,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_0796f7ee232fdc8f",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 4.73852983732079,
+        "length_um": 10.652817820998571
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_452212076f922b0f",
+      "matched_euler_params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.075,
+        "R_min_um": 3.6500000000000004
+      },
+      "max_local_angle_deg": 41.6572311163086,
+      "sine": {
+        "axial_length_um": 10.652817820998571,
+        "offset_um": 4.73852983732079,
+        "bend_arc_length_um": 12.058362026090585,
+        "max_angle_deg": 41.654711967509776,
+        "discrete_min_radius_um": 4.5885630016534975
+      },
+      "euler": {
+        "axial_length_um": 10.652817820998571,
+        "offset_um": 4.73852983732079,
+        "bend_arc_length_um": 12.221258009848851,
+        "max_angle_deg": 47.769676310602684,
+        "discrete_min_radius_um": 3.692324666886967
+      },
+      "same_fraction_centerline_rms_difference_um": 0.23788200590185274,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_003aa6ec6a0ac9c0",
+      "params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.115216162250281,
+        "length_um": 14.822434673451738
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_5e6ee11811881b6b",
+      "matched_euler_params": {
+        "wg_width_um": 0.42500000000000004,
+        "lateral_offset_um": 5.325,
+        "R_min_um": 6.075
+      },
+      "max_local_angle_deg": 34.61340630895251,
+      "sine": {
+        "axial_length_um": 14.822434673451738,
+        "offset_um": 5.115216162250281,
+        "bend_arc_length_um": 16.04945232412101,
+        "max_angle_deg": 34.611034824508046,
+        "discrete_min_radius_um": 7.78227638572369
+      },
+      "euler": {
+        "axial_length_um": 14.822434673451738,
+        "offset_um": 5.115216162250281,
+        "bend_arc_length_um": 16.150441704053627,
+        "max_angle_deg": 37.928648889129434,
+        "discrete_min_radius_um": 6.146375673309143
+      },
+      "same_fraction_centerline_rms_difference_um": 0.20262105426196836,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_eb49f875f99093ac",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.248042472229031,
+        "length_um": 10.926029661914502
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_2bb3036cd27dbaab",
+      "matched_euler_params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 4.4750000000000005,
+        "R_min_um": 4.1000000000000005
+      },
+      "max_local_angle_deg": 37.868650479622865,
+      "sine": {
+        "axial_length_um": 10.926029661914502,
+        "offset_um": 4.248042472229031,
+        "bend_arc_length_um": 12.054080100719203,
+        "max_angle_deg": 37.866192278682725,
+        "discrete_min_radius_um": 5.218405663615723
+      },
+      "euler": {
+        "axial_length_um": 10.926029661914502,
+        "offset_um": 4.248042472229031,
+        "bend_arc_length_um": 12.162977560040396,
+        "max_angle_deg": 42.3238628992892,
+        "discrete_min_radius_um": 4.147922138354416
+      },
+      "same_fraction_centerline_rms_difference_um": 0.18816183822499863,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_2a67de0c0d120fd6",
+      "params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.4966139473376487,
+        "length_um": 9.186262098707537
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_3b4324f5983164bf",
+      "matched_euler_params": {
+        "wg_width_um": 0.47500000000000003,
+        "lateral_offset_um": 3.6750000000000003,
+        "R_min_um": 3.5
+      },
+      "max_local_angle_deg": 37.280938511103265,
+      "sine": {
+        "axial_length_um": 9.186262098707537,
+        "offset_um": 3.4966139473376487,
+        "bend_arc_length_um": 10.098336938722253,
+        "max_angle_deg": 37.27849364817494,
+        "discrete_min_radius_um": 4.461312762701966
+      },
+      "euler": {
+        "axial_length_um": 9.186262098707537,
+        "offset_um": 3.4966139473376487,
+        "bend_arc_length_um": 10.183900587381162,
+        "max_angle_deg": 41.512162425732384,
+        "discrete_min_radius_um": 3.540951444361452
+      },
+      "same_fraction_centerline_rms_difference_um": 0.15183513505746046,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_460e82a5741200a5",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.9647109641693854,
+        "length_um": 9.256013680271458
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_d29dcaa4cd6d97d8",
+      "matched_euler_params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 4.2250000000000005,
+        "R_min_um": 3.25
+      },
+      "max_local_angle_deg": 40.5859323444854,
+      "sine": {
+        "axial_length_um": 9.256013680271458,
+        "offset_um": 3.9647109641693854,
+        "bend_arc_length_um": 10.396628309668948,
+        "max_angle_deg": 40.583426000808984,
+        "discrete_min_radius_um": 4.102488571304813
+      },
+      "euler": {
+        "axial_length_um": 9.256013680271458,
+        "offset_um": 3.9647109641693854,
+        "bend_arc_length_um": 10.522198596696732,
+        "max_angle_deg": 46.1904702399649,
+        "discrete_min_radius_um": 3.287780602714372
+      },
+      "same_fraction_centerline_rms_difference_um": 0.1921923497200156,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_64dfe5e70098641b",
+      "params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.599018958084991,
+        "length_um": 9.640184959473263
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_9f39c4ce3cade4f8",
+      "matched_euler_params": {
+        "wg_width_um": 0.5,
+        "lateral_offset_um": 3.7750000000000004,
+        "R_min_um": 3.725
+      },
+      "max_local_angle_deg": 36.74759743877573,
+      "sine": {
+        "axial_length_um": 9.640184959473263,
+        "offset_um": 3.599018958084991,
+        "bend_arc_length_um": 10.563712219584467,
+        "max_angle_deg": 36.74516557059247,
+        "discrete_min_radius_um": 4.753414459155651
+      },
+      "euler": {
+        "axial_length_um": 9.640184959473263,
+        "offset_um": 3.599018958084991,
+        "bend_arc_length_um": 10.648123359426396,
+        "max_angle_deg": 40.782706780897314,
+        "discrete_min_radius_um": 3.768623207345354
+      },
+      "same_fraction_centerline_rms_difference_um": 0.15347492764915205,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_5383b329504e30ed",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.7333289984318228,
+        "length_um": 10.41864289916538
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_7984b949dd6cbfc0",
+      "matched_euler_params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 3.9000000000000004,
+        "R_min_um": 4.15
+      },
+      "max_local_angle_deg": 35.62777619980884,
+      "sine": {
+        "axial_length_um": 10.41864289916538,
+        "offset_um": 3.7333289984318228,
+        "bend_arc_length_um": 11.343691484707346,
+        "max_angle_deg": 35.62537435269222,
+        "discrete_min_radius_um": 5.307778930599128
+      },
+      "euler": {
+        "axial_length_um": 10.41864289916538,
+        "offset_um": 3.7333289984318228,
+        "bend_arc_length_um": 11.423726821973162,
+        "max_angle_deg": 39.27253745692239,
+        "discrete_min_radius_um": 4.198686529860692
+      },
+      "same_fraction_centerline_rms_difference_um": 0.15319844898818988,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_88809a08c9333fe5",
+      "params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 5.122847049897439,
+        "length_um": 14.339929915413105
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_6060bd1c1ff9d3f4",
+      "matched_euler_params": {
+        "wg_width_um": 0.55,
+        "lateral_offset_um": 5.3500000000000005,
+        "R_min_um": 5.7250000000000005
+      },
+      "max_local_angle_deg": 35.54531523535561,
+      "sine": {
+        "axial_length_um": 14.339929915413105,
+        "offset_um": 5.122847049897439,
+        "bend_arc_length_um": 15.605967050996368,
+        "max_angle_deg": 35.542915744562194,
+        "discrete_min_radius_um": 7.323371288811123
+      },
+      "euler": {
+        "axial_length_um": 14.339929915413105,
+        "offset_um": 5.122847049897439,
+        "bend_arc_length_um": 15.715061821429027,
+        "max_angle_deg": 39.162449957024286,
+        "discrete_min_radius_um": 5.792172319410425
+      },
+      "same_fraction_centerline_rms_difference_um": 0.20961896189897802,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_5e5a9fdc9c9ca2dd",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 5.212717972784107,
+        "length_um": 13.78174524689759
+      },
+      "input_port": 1,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_fce472740ce57c30",
+      "matched_euler_params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 5.4750000000000005,
+        "R_min_um": 5.275
+      },
+      "max_local_angle_deg": 37.10630404317786,
+      "sine": {
+        "axial_length_um": 13.78174524689759,
+        "offset_um": 5.212717972784107,
+        "bend_arc_length_um": 15.13420672032682,
+        "max_angle_deg": 37.103863342096034,
+        "discrete_min_radius_um": 6.726310857456385
+      },
+      "euler": {
+        "axial_length_um": 13.78174524689759,
+        "offset_um": 5.212717972784107,
+        "bend_arc_length_um": 15.260007640010096,
+        "max_angle_deg": 41.272572320424096,
+        "discrete_min_radius_um": 5.33673808393932
+      },
+      "same_fraction_centerline_rms_difference_um": 0.22501781973464796,
+      "angle_stratum": "high"
+    },
+    {
+      "geometry_id": "sine_491b398f26aa0a3d",
+      "params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.484189244339721,
+        "length_um": 12.784199520739215
+      },
+      "input_port": 2,
+      "split": "transfer",
+      "matched_euler_geometry_id": "blindB_9f78121d6c81e7b2",
+      "matched_euler_params": {
+        "wg_width_um": 0.5750000000000001,
+        "lateral_offset_um": 4.675,
+        "R_min_um": 5.175000000000001
+      },
+      "max_local_angle_deg": 35.05044840287395,
+      "sine": {
+        "axial_length_um": 12.784199520739215,
+        "offset_um": 4.484189244339721,
+        "bend_arc_length_um": 13.87507690044879,
+        "max_angle_deg": 35.04806346984547,
+        "discrete_min_radius_um": 6.62501870381198
+      },
+      "euler": {
+        "axial_length_um": 12.784199520739215,
+        "offset_um": 4.484189244339721,
+        "bend_arc_length_um": 13.966816972075371,
+        "max_angle_deg": 38.50492997941974,
+        "discrete_min_radius_um": 5.235763547090452
+      },
+      "same_fraction_centerline_rms_difference_um": 0.1803595079622812,
+      "angle_stratum": "high"
+    }
+  ],
+  "distribution": "shape-family transfer with matched Euler interfaces; angle stratified, not iid or cross topology"
+}

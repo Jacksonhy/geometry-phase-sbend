@@ -1,0 +1,3257 @@
+[
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/__init__.py",
+    "source_sha256": "b7b7c04d4ede17150fa8ac79a8971612af764d82385bb8cf2aeaf35d62153a1a",
+    "target_sha256": "b7b7c04d4ede17150fa8ac79a8971612af764d82385bb8cf2aeaf35d62153a1a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/circular_bend/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/circular_bend/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/circular_bend/circular_bend.py",
+    "target": "third_party/PIC-Flow/FDTD/circular_bend/circular_bend.py",
+    "source_sha256": "b8ee458655b3cd3332272eeabb002f99c043c08fb5ed773279443ad7630027e4",
+    "target_sha256": "b8ee458655b3cd3332272eeabb002f99c043c08fb5ed773279443ad7630027e4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/circular_bend/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/circular_bend/device_sweep.py",
+    "source_sha256": "03dafd8377e539302a8a5e2aae6d891eabc9fe1c6d0e88cef1b070c3e80484ed",
+    "target_sha256": "03dafd8377e539302a8a5e2aae6d891eabc9fe1c6d0e88cef1b070c3e80484ed",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/conditioning_masks.py",
+    "target": "third_party/PIC-Flow/FDTD/conditioning_masks.py",
+    "source_sha256": "75877d7c309bc3a7376fa2340ccb5f17d3dbdb7e2aee9dabe0b3f3cdda8d764e",
+    "target_sha256": "75877d7c309bc3a7376fa2340ccb5f17d3dbdb7e2aee9dabe0b3f3cdda8d764e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/crossing/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/crossing/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/crossing/crossing.py",
+    "target": "third_party/PIC-Flow/FDTD/crossing/crossing.py",
+    "source_sha256": "a60ad45d7b0b6e4425cc010d087a29bfaa0c5983293da2d7bb3ceb3eef0d9822",
+    "target_sha256": "a60ad45d7b0b6e4425cc010d087a29bfaa0c5983293da2d7bb3ceb3eef0d9822",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/crossing/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/crossing/device_sweep.py",
+    "source_sha256": "551f3e8b7be5f9d9f448e942d81fed4dca93e4d7d1b7b79e4e5d0cdf2b02a4f4",
+    "target_sha256": "551f3e8b7be5f9d9f448e942d81fed4dca93e4d7d1b7b79e4e5d0cdf2b02a4f4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/devices_base.py",
+    "target": "third_party/PIC-Flow/FDTD/devices_base.py",
+    "source_sha256": "546a4d86efa8601ff61fc242e70903fe08c71b78003699d1af2fe83267571086",
+    "target_sha256": "546a4d86efa8601ff61fc242e70903fe08c71b78003699d1af2fe83267571086",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/directional_coupler/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/directional_coupler/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/directional_coupler/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/directional_coupler/device_sweep.py",
+    "source_sha256": "befe78afeed0db965099b67416f56f9562770307d13f31ac877211aeaa30c6ed",
+    "target_sha256": "befe78afeed0db965099b67416f56f9562770307d13f31ac877211aeaa30c6ed",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/directional_coupler/directional_coupler.py",
+    "target": "third_party/PIC-Flow/FDTD/directional_coupler/directional_coupler.py",
+    "source_sha256": "a8ec9876543168c1dd30769024a6efbc375f4458b9c4a38ca373e1801c7006d4",
+    "target_sha256": "a8ec9876543168c1dd30769024a6efbc375f4458b9c4a38ca373e1801c7006d4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/euler_bend/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/euler_bend/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/euler_bend/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/euler_bend/device_sweep.py",
+    "source_sha256": "ce4558565fb85c99c65942cde6c2522637694d605a6c453db386b1a8fe56dbe2",
+    "target_sha256": "ce4558565fb85c99c65942cde6c2522637694d605a6c453db386b1a8fe56dbe2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/euler_bend/euler_bend.py",
+    "target": "third_party/PIC-Flow/FDTD/euler_bend/euler_bend.py",
+    "source_sha256": "1612bd06303734f70668352ac0cd4c0ea5d2273de906cfaf727df2de8ceb59cb",
+    "target_sha256": "1612bd06303734f70668352ac0cd4c0ea5d2273de906cfaf727df2de8ceb59cb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/mmi/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/mmi/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/mmi/mmi.py",
+    "target": "third_party/PIC-Flow/FDTD/mmi/mmi.py",
+    "source_sha256": "c98dc9eb5e07dc5521ad96fbf80d7028e2d311d30bb495793a567f6f7ec841ed",
+    "target_sha256": "c98dc9eb5e07dc5521ad96fbf80d7028e2d311d30bb495793a567f6f7ec841ed",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_extract.py",
+    "target": "third_party/PIC-Flow/FDTD/neff_extract.py",
+    "source_sha256": "52c99afa89ee9524d1c7300a9c866431e05905f565f3db1f50d01888e5cee9ac",
+    "target_sha256": "52c99afa89ee9524d1c7300a9c866431e05905f565f3db1f50d01888e5cee9ac",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w038_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w038_t0220.csv",
+    "source_sha256": "d3e658818b5294687a7ee2b1815a4f525b16788c733268e8fe02edac126f3f43",
+    "target_sha256": "d3e658818b5294687a7ee2b1815a4f525b16788c733268e8fe02edac126f3f43",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w039_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w039_t0220.csv",
+    "source_sha256": "5000d97e08ab754c7cfe8383c02456a54dbe4c807816af38d3ce76d8254b9088",
+    "target_sha256": "5000d97e08ab754c7cfe8383c02456a54dbe4c807816af38d3ce76d8254b9088",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w040_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w040_t0220.csv",
+    "source_sha256": "9360db3b7476683b9e621de67362872e547bd095f7443b1a27ea86fdff760e19",
+    "target_sha256": "9360db3b7476683b9e621de67362872e547bd095f7443b1a27ea86fdff760e19",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w041_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w041_t0220.csv",
+    "source_sha256": "ee51009355dcf6bdb7425f19057144c0df2233fb8564c3109bbacb24a7573035",
+    "target_sha256": "ee51009355dcf6bdb7425f19057144c0df2233fb8564c3109bbacb24a7573035",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w042_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w042_t0220.csv",
+    "source_sha256": "0ca6d2f0ee287d95e8cc2f3e7dac9ef1f186b72be60e55e3e6f69663dc8432fd",
+    "target_sha256": "0ca6d2f0ee287d95e8cc2f3e7dac9ef1f186b72be60e55e3e6f69663dc8432fd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w043_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w043_t0220.csv",
+    "source_sha256": "59124eaac53c359cf48cb6ff047a193d8cb227539f6601ffec9cbf8b666d736c",
+    "target_sha256": "59124eaac53c359cf48cb6ff047a193d8cb227539f6601ffec9cbf8b666d736c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w044_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w044_t0220.csv",
+    "source_sha256": "14e2641c91bb8286e556296d569e2dc8bd5d7a464071aa7d24a8b934b90b7296",
+    "target_sha256": "14e2641c91bb8286e556296d569e2dc8bd5d7a464071aa7d24a8b934b90b7296",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w045_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w045_t0220.csv",
+    "source_sha256": "fecc87750412a2b39e98f5e3d54c3a5e406aaa6d6a576edb7f36dc341b53f9e8",
+    "target_sha256": "fecc87750412a2b39e98f5e3d54c3a5e406aaa6d6a576edb7f36dc341b53f9e8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w046_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w046_t0220.csv",
+    "source_sha256": "f621e2ed093a8cf20f31bdb1738a9a0a002757ff963ad723aa9c21522b7f52ca",
+    "target_sha256": "f621e2ed093a8cf20f31bdb1738a9a0a002757ff963ad723aa9c21522b7f52ca",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w047_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w047_t0220.csv",
+    "source_sha256": "ca8d406984914190ce0b704e146c3d2090d10043f47324b259444826e1534c31",
+    "target_sha256": "ca8d406984914190ce0b704e146c3d2090d10043f47324b259444826e1534c31",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w048_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w048_t0220.csv",
+    "source_sha256": "3802623c709c455463d466d9471dc021d5c6bbba3c001cb1efb4bafb2dbeae8b",
+    "target_sha256": "3802623c709c455463d466d9471dc021d5c6bbba3c001cb1efb4bafb2dbeae8b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w049_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w049_t0220.csv",
+    "source_sha256": "0da0a15430f17bfc7507b2de268d704c203ef19952c3dea8c43d20430416e92a",
+    "target_sha256": "0da0a15430f17bfc7507b2de268d704c203ef19952c3dea8c43d20430416e92a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w050_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w050_t0220.csv",
+    "source_sha256": "f3bd534446abf78e6c4f79aa12a903ab673e0c6153fbc460e1783cafacea3c4e",
+    "target_sha256": "f3bd534446abf78e6c4f79aa12a903ab673e0c6153fbc460e1783cafacea3c4e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w051_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w051_t0220.csv",
+    "source_sha256": "d433daa4c023689793ff6cdec941eb2c9658c47c64cf0cc57ec83bc970c929d7",
+    "target_sha256": "d433daa4c023689793ff6cdec941eb2c9658c47c64cf0cc57ec83bc970c929d7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w052_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w052_t0220.csv",
+    "source_sha256": "580553edf4001202de0f5453e06ac22bbac7cf68961f2eb31cd7a57729bad5f9",
+    "target_sha256": "580553edf4001202de0f5453e06ac22bbac7cf68961f2eb31cd7a57729bad5f9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w053_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w053_t0220.csv",
+    "source_sha256": "ebd91c17e597219a18b4aed9f126f5f8f3838e9c39971eadb65f37ff4c4430f4",
+    "target_sha256": "ebd91c17e597219a18b4aed9f126f5f8f3838e9c39971eadb65f37ff4c4430f4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w054_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w054_t0220.csv",
+    "source_sha256": "cf37ea36a3eca8db962fce0115af71e571de941a2aa2ffe23f242d59977d5422",
+    "target_sha256": "cf37ea36a3eca8db962fce0115af71e571de941a2aa2ffe23f242d59977d5422",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w055_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w055_t0220.csv",
+    "source_sha256": "b837715bfdb18d06eee00c9aa79a869ff15548683a280e270cafe3b4f6853d06",
+    "target_sha256": "b837715bfdb18d06eee00c9aa79a869ff15548683a280e270cafe3b4f6853d06",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w056_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w056_t0220.csv",
+    "source_sha256": "d8fed3ef806a180934e6423b2630577e106387dbbb26d740e581a4dd7563e3a2",
+    "target_sha256": "d8fed3ef806a180934e6423b2630577e106387dbbb26d740e581a4dd7563e3a2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w057_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w057_t0220.csv",
+    "source_sha256": "c6c9994dde258ec566be3ca9030cb88d799f631de4756c8672ae21b96dda0ea9",
+    "target_sha256": "c6c9994dde258ec566be3ca9030cb88d799f631de4756c8672ae21b96dda0ea9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w058_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w058_t0220.csv",
+    "source_sha256": "70befd09abfe068a5973739bca673b449df4d2815295933df30480b3b7238a59",
+    "target_sha256": "70befd09abfe068a5973739bca673b449df4d2815295933df30480b3b7238a59",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w059_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w059_t0220.csv",
+    "source_sha256": "3f498fb769849a9a6c16badcfc2c79bfa5864d0e11da1034a98708c4ee401bd8",
+    "target_sha256": "3f498fb769849a9a6c16badcfc2c79bfa5864d0e11da1034a98708c4ee401bd8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w060_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w060_t0220.csv",
+    "source_sha256": "420be2144b1038c147ba5ba89e049d5bc9c10e49c9788e0f10e2b2537955cfb9",
+    "target_sha256": "420be2144b1038c147ba5ba89e049d5bc9c10e49c9788e0f10e2b2537955cfb9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w061_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w061_t0220.csv",
+    "source_sha256": "c638f00cef4e701b50714e5c6a64ef7cfdb9b163288d427adf41292aa81ee085",
+    "target_sha256": "c638f00cef4e701b50714e5c6a64ef7cfdb9b163288d427adf41292aa81ee085",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w062_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w062_t0220.csv",
+    "source_sha256": "f51185f128b001387d8c9886e4ebe819ab933d006c9bcbecbf37ef45d4a5bd6e",
+    "target_sha256": "f51185f128b001387d8c9886e4ebe819ab933d006c9bcbecbf37ef45d4a5bd6e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w063_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w063_t0220.csv",
+    "source_sha256": "7fc58c949ba7cd994ae8b827ab0d007625eec19cdca3b1a8df283d95445165a5",
+    "target_sha256": "7fc58c949ba7cd994ae8b827ab0d007625eec19cdca3b1a8df283d95445165a5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w064_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w064_t0220.csv",
+    "source_sha256": "ca3b835b8a65de3a30609fe4a768293a1cd17bd6eb19caf731bc9cf340e5b3e1",
+    "target_sha256": "ca3b835b8a65de3a30609fe4a768293a1cd17bd6eb19caf731bc9cf340e5b3e1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w065_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w065_t0220.csv",
+    "source_sha256": "b3b53c3659d425956fc11c042056ba2be327bc0635a343860e387122f6a464c3",
+    "target_sha256": "b3b53c3659d425956fc11c042056ba2be327bc0635a343860e387122f6a464c3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w066_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w066_t0220.csv",
+    "source_sha256": "b3b53c3659d425956fc11c042056ba2be327bc0635a343860e387122f6a464c3",
+    "target_sha256": "b3b53c3659d425956fc11c042056ba2be327bc0635a343860e387122f6a464c3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w067_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w067_t0220.csv",
+    "source_sha256": "3bc1070f14b304f93a586423562da553d372f4a2bfdc947c4261186d77484606",
+    "target_sha256": "3bc1070f14b304f93a586423562da553d372f4a2bfdc947c4261186d77484606",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w068_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w068_t0220.csv",
+    "source_sha256": "8c5a681e8ac300eafdb7850869cd5b7e03f2191963a5a365b4db86cf52a21e5a",
+    "target_sha256": "8c5a681e8ac300eafdb7850869cd5b7e03f2191963a5a365b4db86cf52a21e5a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w069_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w069_t0220.csv",
+    "source_sha256": "2317702e2aa2a5444f2ad3b293809f72acd332a2a603a266e665e215c3f6fe8e",
+    "target_sha256": "2317702e2aa2a5444f2ad3b293809f72acd332a2a603a266e665e215c3f6fe8e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w070_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w070_t0220.csv",
+    "source_sha256": "2317702e2aa2a5444f2ad3b293809f72acd332a2a603a266e665e215c3f6fe8e",
+    "target_sha256": "2317702e2aa2a5444f2ad3b293809f72acd332a2a603a266e665e215c3f6fe8e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w071_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w071_t0220.csv",
+    "source_sha256": "c47eed5c86c64f00e8d1412e5f06849bbd4b60b210df8aa15f2b0466020997a7",
+    "target_sha256": "c47eed5c86c64f00e8d1412e5f06849bbd4b60b210df8aa15f2b0466020997a7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w072_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w072_t0220.csv",
+    "source_sha256": "7714deda21544be1587f5ecdc42e2b1b89c92a08b0b404f46e005fda21b83fab",
+    "target_sha256": "7714deda21544be1587f5ecdc42e2b1b89c92a08b0b404f46e005fda21b83fab",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w073_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w073_t0220.csv",
+    "source_sha256": "bb2caef0910634eab711a962821135d3739fe3d5a8181765c7b784b382358657",
+    "target_sha256": "bb2caef0910634eab711a962821135d3739fe3d5a8181765c7b784b382358657",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w074_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w074_t0220.csv",
+    "source_sha256": "bb2caef0910634eab711a962821135d3739fe3d5a8181765c7b784b382358657",
+    "target_sha256": "bb2caef0910634eab711a962821135d3739fe3d5a8181765c7b784b382358657",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w075_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w075_t0220.csv",
+    "source_sha256": "95b0ab3d2a7c3c45bbca04dbeb74ca3b0c49a5e9f7ba26c1d6809cda4e466df6",
+    "target_sha256": "95b0ab3d2a7c3c45bbca04dbeb74ca3b0c49a5e9f7ba26c1d6809cda4e466df6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w076_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w076_t0220.csv",
+    "source_sha256": "84bcdd303f5f73ee5711bb765819c0d199eebbdd64c11cf28f4337f91318faeb",
+    "target_sha256": "84bcdd303f5f73ee5711bb765819c0d199eebbdd64c11cf28f4337f91318faeb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w077_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w077_t0220.csv",
+    "source_sha256": "661212d3acb75cb363e71d182678c3b330f0d09ab9449b8b18679607649ce3a6",
+    "target_sha256": "661212d3acb75cb363e71d182678c3b330f0d09ab9449b8b18679607649ce3a6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w078_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w078_t0220.csv",
+    "source_sha256": "661212d3acb75cb363e71d182678c3b330f0d09ab9449b8b18679607649ce3a6",
+    "target_sha256": "661212d3acb75cb363e71d182678c3b330f0d09ab9449b8b18679607649ce3a6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w079_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w079_t0220.csv",
+    "source_sha256": "6a1f63828ea56379b3c1aa329187ff506182f87e42ebfa70aca2408d098ecc73",
+    "target_sha256": "6a1f63828ea56379b3c1aa329187ff506182f87e42ebfa70aca2408d098ecc73",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w080_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w080_t0220.csv",
+    "source_sha256": "7a3e227c3a58b5d9469441188d912b65c0817a43a7766cc80bf1ea5c0fc2c80a",
+    "target_sha256": "7a3e227c3a58b5d9469441188d912b65c0817a43a7766cc80bf1ea5c0fc2c80a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w081_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w081_t0220.csv",
+    "source_sha256": "0afabee9b9a182c788909c76293a092bb8a6f70e82764d086af01b5dba26abbf",
+    "target_sha256": "0afabee9b9a182c788909c76293a092bb8a6f70e82764d086af01b5dba26abbf",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w082_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w082_t0220.csv",
+    "source_sha256": "0afabee9b9a182c788909c76293a092bb8a6f70e82764d086af01b5dba26abbf",
+    "target_sha256": "0afabee9b9a182c788909c76293a092bb8a6f70e82764d086af01b5dba26abbf",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w083_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w083_t0220.csv",
+    "source_sha256": "dc1a8e37cf2eb08988b300aaa39babc0833830c0eb31cbd40566d217842528ab",
+    "target_sha256": "dc1a8e37cf2eb08988b300aaa39babc0833830c0eb31cbd40566d217842528ab",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w084_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w084_t0220.csv",
+    "source_sha256": "71371ff9474868982d3755aed80e13ca90de67b64c3f44fef4a60fe8189197df",
+    "target_sha256": "71371ff9474868982d3755aed80e13ca90de67b64c3f44fef4a60fe8189197df",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w085_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w085_t0220.csv",
+    "source_sha256": "71371ff9474868982d3755aed80e13ca90de67b64c3f44fef4a60fe8189197df",
+    "target_sha256": "71371ff9474868982d3755aed80e13ca90de67b64c3f44fef4a60fe8189197df",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w086_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w086_t0220.csv",
+    "source_sha256": "0e201856345df81fde45c578d675b52811ce701649dc7e27fee6e921ee63f66c",
+    "target_sha256": "0e201856345df81fde45c578d675b52811ce701649dc7e27fee6e921ee63f66c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w087_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w087_t0220.csv",
+    "source_sha256": "a1d93e78856cfd546c32fb6661c0024efb4b39710a337e181789e15b03250a29",
+    "target_sha256": "a1d93e78856cfd546c32fb6661c0024efb4b39710a337e181789e15b03250a29",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w088_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w088_t0220.csv",
+    "source_sha256": "ed526d43dccb9f294b89aa4e4d0258af720be87a0b339845128a498af0cf8526",
+    "target_sha256": "ed526d43dccb9f294b89aa4e4d0258af720be87a0b339845128a498af0cf8526",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w089_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w089_t0220.csv",
+    "source_sha256": "ed526d43dccb9f294b89aa4e4d0258af720be87a0b339845128a498af0cf8526",
+    "target_sha256": "ed526d43dccb9f294b89aa4e4d0258af720be87a0b339845128a498af0cf8526",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w090_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w090_t0220.csv",
+    "source_sha256": "ad83c88de655a9f4adf0def196c7749c5c7dec31287652f3d92f00dbab019ebb",
+    "target_sha256": "ad83c88de655a9f4adf0def196c7749c5c7dec31287652f3d92f00dbab019ebb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w091_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w091_t0220.csv",
+    "source_sha256": "851a592c8986533d62294c88ce1a7c8db60e96b4c8138ee83766097d06e3e306",
+    "target_sha256": "851a592c8986533d62294c88ce1a7c8db60e96b4c8138ee83766097d06e3e306",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w092_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w092_t0220.csv",
+    "source_sha256": "4aa1ee21554289931ab89bcf2cf8edc1ae05ec8ce5cca7c3a19e1bf73dac7e2c",
+    "target_sha256": "4aa1ee21554289931ab89bcf2cf8edc1ae05ec8ce5cca7c3a19e1bf73dac7e2c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w093_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w093_t0220.csv",
+    "source_sha256": "b75be4f8ab149ba8c177e61b2090fc6f40882be2837d07239c9ff8429c8f25c9",
+    "target_sha256": "b75be4f8ab149ba8c177e61b2090fc6f40882be2837d07239c9ff8429c8f25c9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w094_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w094_t0220.csv",
+    "source_sha256": "a3dab6c774308c7726c98578c47731424cbd87970b44bc72474ff9613ad5009c",
+    "target_sha256": "a3dab6c774308c7726c98578c47731424cbd87970b44bc72474ff9613ad5009c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w095_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w095_t0220.csv",
+    "source_sha256": "905327fba844772eb93457865d65fef25a1943273e75d9fbf7e407b76278d14d",
+    "target_sha256": "905327fba844772eb93457865d65fef25a1943273e75d9fbf7e407b76278d14d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w096_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w096_t0220.csv",
+    "source_sha256": "4854819c77523c0bfe69c0f81f1970fdfd0551fc1dae3744a15eff90ae9c4811",
+    "target_sha256": "4854819c77523c0bfe69c0f81f1970fdfd0551fc1dae3744a15eff90ae9c4811",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w097_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w097_t0220.csv",
+    "source_sha256": "d25971618a38f85eaa523e5bdaefca980bd94fa269655c59d9672a56cd21e702",
+    "target_sha256": "d25971618a38f85eaa523e5bdaefca980bd94fa269655c59d9672a56cd21e702",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w098_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w098_t0220.csv",
+    "source_sha256": "b91961c18f2b71d4631f5000cafbcdc5a8203d563f8b2b639587dea997b4c529",
+    "target_sha256": "b91961c18f2b71d4631f5000cafbcdc5a8203d563f8b2b639587dea997b4c529",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w099_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w099_t0220.csv",
+    "source_sha256": "44a8acf666730e6f03ea6c3271fab6e759c4e8c9bf119576e213bcafeb8d813a",
+    "target_sha256": "44a8acf666730e6f03ea6c3271fab6e759c4e8c9bf119576e213bcafeb8d813a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w100_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w100_t0220.csv",
+    "source_sha256": "b3c69a8ecd17180ebcadba2b5e1014864c6b1b57ad0816e70ab0ecbe59470b40",
+    "target_sha256": "b3c69a8ecd17180ebcadba2b5e1014864c6b1b57ad0816e70ab0ecbe59470b40",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w101_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w101_t0220.csv",
+    "source_sha256": "3b664f77527d4a2f40ec540e528c0b91dfa6e25c93f4ce225fa5c321fb68e027",
+    "target_sha256": "3b664f77527d4a2f40ec540e528c0b91dfa6e25c93f4ce225fa5c321fb68e027",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w102_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w102_t0220.csv",
+    "source_sha256": "43a9c1200155ca43c88dc4a28d9433c4f83fc9d1b9d03a510a85e77625502e3e",
+    "target_sha256": "43a9c1200155ca43c88dc4a28d9433c4f83fc9d1b9d03a510a85e77625502e3e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w103_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w103_t0220.csv",
+    "source_sha256": "a41f65201798465b119c2b03c8ee686d7fdf73ce234fb16b15908dc75104ab45",
+    "target_sha256": "a41f65201798465b119c2b03c8ee686d7fdf73ce234fb16b15908dc75104ab45",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w104_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w104_t0220.csv",
+    "source_sha256": "7adfb2a0f0104848af649bea0d0bcd65e24b8efb401f92214ec481ed6be472a8",
+    "target_sha256": "7adfb2a0f0104848af649bea0d0bcd65e24b8efb401f92214ec481ed6be472a8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w105_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w105_t0220.csv",
+    "source_sha256": "7d37eb2a1dbc5e182bec03a10fddf36d27e93f2b3f8c6e9e13460e8dd1295396",
+    "target_sha256": "7d37eb2a1dbc5e182bec03a10fddf36d27e93f2b3f8c6e9e13460e8dd1295396",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w106_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w106_t0220.csv",
+    "source_sha256": "2b6c8b4de5c0d1784233fadbfc7f05e0c965d950b7eaba4f7e1e522e5e68742b",
+    "target_sha256": "2b6c8b4de5c0d1784233fadbfc7f05e0c965d950b7eaba4f7e1e522e5e68742b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w107_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w107_t0220.csv",
+    "source_sha256": "208944b8186981edf53d9866e042340a7e18ee4345a5bc524a997eb6e54695c5",
+    "target_sha256": "208944b8186981edf53d9866e042340a7e18ee4345a5bc524a997eb6e54695c5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w108_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w108_t0220.csv",
+    "source_sha256": "72020aaa2783465db5d644df4e44f62a2358f72431f3de93615224cb4c624d7b",
+    "target_sha256": "72020aaa2783465db5d644df4e44f62a2358f72431f3de93615224cb4c624d7b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w109_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w109_t0220.csv",
+    "source_sha256": "3882201ff0ae261400a66a18245e7fec2f95b5b6b086154f4c3768ce75d86642",
+    "target_sha256": "3882201ff0ae261400a66a18245e7fec2f95b5b6b086154f4c3768ce75d86642",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w110_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w110_t0220.csv",
+    "source_sha256": "201b3076e7ec710d71458c5f66e1de7c8570516f6c8af2beaf45291b688bc05a",
+    "target_sha256": "201b3076e7ec710d71458c5f66e1de7c8570516f6c8af2beaf45291b688bc05a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w111_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w111_t0220.csv",
+    "source_sha256": "63f4dd70b2dd441b5f55ac6bae7a6f5390f13ae771fa3b689ab09e5bac9ffe1d",
+    "target_sha256": "63f4dd70b2dd441b5f55ac6bae7a6f5390f13ae771fa3b689ab09e5bac9ffe1d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w112_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w112_t0220.csv",
+    "source_sha256": "fa955c4a738cd8d8cb578f74d9b23ef04e54e24a2867f749417554080ce8e95b",
+    "target_sha256": "fa955c4a738cd8d8cb578f74d9b23ef04e54e24a2867f749417554080ce8e95b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w113_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w113_t0220.csv",
+    "source_sha256": "f45083a2b3d92d56ae0e5b57c446546cc3beaa2dd424c8df0861c8c7f446d1c8",
+    "target_sha256": "f45083a2b3d92d56ae0e5b57c446546cc3beaa2dd424c8df0861c8c7f446d1c8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w114_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w114_t0220.csv",
+    "source_sha256": "62ba5bb282c4c8b0da564245dfd870b8c882c5389d549e97cb8644fa06208810",
+    "target_sha256": "62ba5bb282c4c8b0da564245dfd870b8c882c5389d549e97cb8644fa06208810",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w115_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w115_t0220.csv",
+    "source_sha256": "136d513dfec4af7b00565e6c800f7a79a8f1e535a0efec0941866058030f2300",
+    "target_sha256": "136d513dfec4af7b00565e6c800f7a79a8f1e535a0efec0941866058030f2300",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w116_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w116_t0220.csv",
+    "source_sha256": "b930d24d2acf605d92fb37e152ba93b9c33a8cc3d272c081252405903f53f53b",
+    "target_sha256": "b930d24d2acf605d92fb37e152ba93b9c33a8cc3d272c081252405903f53f53b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w117_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w117_t0220.csv",
+    "source_sha256": "6cd6a69033ad0ba50104a7949d7a146f149dd2b20953cd400020ce32ce945e58",
+    "target_sha256": "6cd6a69033ad0ba50104a7949d7a146f149dd2b20953cd400020ce32ce945e58",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w118_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w118_t0220.csv",
+    "source_sha256": "12102eeb0b04bc7d0c08591a8b5b48d4b8a0c6902013cb99ffe5a1b5e4a2a034",
+    "target_sha256": "12102eeb0b04bc7d0c08591a8b5b48d4b8a0c6902013cb99ffe5a1b5e4a2a034",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w119_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w119_t0220.csv",
+    "source_sha256": "6caf7bed05a89848727280c50b05d53e7543c13d3ed495f9ff5768a016056969",
+    "target_sha256": "6caf7bed05a89848727280c50b05d53e7543c13d3ed495f9ff5768a016056969",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w120_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w120_t0220.csv",
+    "source_sha256": "d9720976e380e0968005993f6930f16e97a5452f6a6c808ceee7576b9e38818d",
+    "target_sha256": "d9720976e380e0968005993f6930f16e97a5452f6a6c808ceee7576b9e38818d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w121_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w121_t0220.csv",
+    "source_sha256": "cfc99ee53b5db177b646c1c9a315fbb990400cf70712d1e45b3635e5a8b28b23",
+    "target_sha256": "cfc99ee53b5db177b646c1c9a315fbb990400cf70712d1e45b3635e5a8b28b23",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w122_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w122_t0220.csv",
+    "source_sha256": "2b6b5ec8cbed4bd95d6496bd2e8e48fdcd3e0ba15f4d50466c0ad933f360672e",
+    "target_sha256": "2b6b5ec8cbed4bd95d6496bd2e8e48fdcd3e0ba15f4d50466c0ad933f360672e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w123_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w123_t0220.csv",
+    "source_sha256": "e4ed905728683b7b268acdf10de840f49d47110cf4bed3a9333808573ceb5f56",
+    "target_sha256": "e4ed905728683b7b268acdf10de840f49d47110cf4bed3a9333808573ceb5f56",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w124_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w124_t0220.csv",
+    "source_sha256": "b7b79cb995e30a54fdd8f3f69a72e3814e73b02e6a67e344dac5e37c775e4f07",
+    "target_sha256": "b7b79cb995e30a54fdd8f3f69a72e3814e73b02e6a67e344dac5e37c775e4f07",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w125_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w125_t0220.csv",
+    "source_sha256": "6fdba44b44b9d803d17287e788a2beea705b4e6c1ca37971ee933a942be0b209",
+    "target_sha256": "6fdba44b44b9d803d17287e788a2beea705b4e6c1ca37971ee933a942be0b209",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w126_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w126_t0220.csv",
+    "source_sha256": "fea8f862dcfef16f36a99385c192f911617471812546f3ce585e30c3f833ca55",
+    "target_sha256": "fea8f862dcfef16f36a99385c192f911617471812546f3ce585e30c3f833ca55",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w127_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w127_t0220.csv",
+    "source_sha256": "fd77af7d27804fd9fc8e446dbfea9091fc63058785ed49a4f0da6b669b5e56ac",
+    "target_sha256": "fd77af7d27804fd9fc8e446dbfea9091fc63058785ed49a4f0da6b669b5e56ac",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w128_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w128_t0220.csv",
+    "source_sha256": "c72e9f2154f1a885be2d864fc878727eb995521a6916ab4260a352bc31b1cd76",
+    "target_sha256": "c72e9f2154f1a885be2d864fc878727eb995521a6916ab4260a352bc31b1cd76",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w129_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w129_t0220.csv",
+    "source_sha256": "d4a28dee8e16e6a8ff9cbde78261b5390dae46ef01faa16b2da2457f1583e9e6",
+    "target_sha256": "d4a28dee8e16e6a8ff9cbde78261b5390dae46ef01faa16b2da2457f1583e9e6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w130_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w130_t0220.csv",
+    "source_sha256": "c8504dffda72929b5b97c5d19ba8fdcc107d7ef2f28b94f7eb3283ab836f9d31",
+    "target_sha256": "c8504dffda72929b5b97c5d19ba8fdcc107d7ef2f28b94f7eb3283ab836f9d31",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w131_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w131_t0220.csv",
+    "source_sha256": "a5ef57094d64aba8c93d0113dcc25e06181ba7689a68499f461086944f51b12f",
+    "target_sha256": "a5ef57094d64aba8c93d0113dcc25e06181ba7689a68499f461086944f51b12f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w132_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w132_t0220.csv",
+    "source_sha256": "783310786f19822ef7e8981da64ba03bc3b85fea3506945e1912e9fa64d2df48",
+    "target_sha256": "783310786f19822ef7e8981da64ba03bc3b85fea3506945e1912e9fa64d2df48",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w133_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w133_t0220.csv",
+    "source_sha256": "ef402b71c433b52c453580b1a91f30a8dc7f759563758d963c77e88628a7336d",
+    "target_sha256": "ef402b71c433b52c453580b1a91f30a8dc7f759563758d963c77e88628a7336d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w134_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w134_t0220.csv",
+    "source_sha256": "64e70a6f1c4dbc7aa55f2d850ec6e5ba71796fedf8fb14803e90217d2a6fdc3e",
+    "target_sha256": "64e70a6f1c4dbc7aa55f2d850ec6e5ba71796fedf8fb14803e90217d2a6fdc3e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w135_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w135_t0220.csv",
+    "source_sha256": "80c581e9cf8a21deeb257fec36035342a48ee39cbfd04472306fab02d3d25c05",
+    "target_sha256": "80c581e9cf8a21deeb257fec36035342a48ee39cbfd04472306fab02d3d25c05",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w136_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w136_t0220.csv",
+    "source_sha256": "89db4e713838657976326514efafc9968587107abdce84b66b34d23356021f8d",
+    "target_sha256": "89db4e713838657976326514efafc9968587107abdce84b66b34d23356021f8d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w137_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w137_t0220.csv",
+    "source_sha256": "530a9bf4f66231546b21000a4e646b093495fd682b30d8a8f55ef07fac3aa81b",
+    "target_sha256": "530a9bf4f66231546b21000a4e646b093495fd682b30d8a8f55ef07fac3aa81b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w138_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w138_t0220.csv",
+    "source_sha256": "13ddfd3acfa340d1d687dc9ebf2b38f13c879045dcc091fdf2b47c7bfa3412c6",
+    "target_sha256": "13ddfd3acfa340d1d687dc9ebf2b38f13c879045dcc091fdf2b47c7bfa3412c6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w139_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w139_t0220.csv",
+    "source_sha256": "4678b841d6321ff65ac7bf6cd33132c07a6c4f0046d63b9ec181d19c0ebe9295",
+    "target_sha256": "4678b841d6321ff65ac7bf6cd33132c07a6c4f0046d63b9ec181d19c0ebe9295",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w140_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w140_t0220.csv",
+    "source_sha256": "f40c934710167549116747952abe816b02bef51e84bd4d37d2261a7e701531f2",
+    "target_sha256": "f40c934710167549116747952abe816b02bef51e84bd4d37d2261a7e701531f2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w141_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w141_t0220.csv",
+    "source_sha256": "87d9eda1e48ab97ecaccafacdebd4d7810b0019e8a3d23b2e0f795ae30f6b3eb",
+    "target_sha256": "87d9eda1e48ab97ecaccafacdebd4d7810b0019e8a3d23b2e0f795ae30f6b3eb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w142_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w142_t0220.csv",
+    "source_sha256": "3d19c751b2144f52069a43d8cee3128bac79c554319656b6f5da8b46545a8e2c",
+    "target_sha256": "3d19c751b2144f52069a43d8cee3128bac79c554319656b6f5da8b46545a8e2c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w143_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w143_t0220.csv",
+    "source_sha256": "3727ac090fe030812e69b9c485af05ef1ae866eddde26e59ee1d19dd77c35f21",
+    "target_sha256": "3727ac090fe030812e69b9c485af05ef1ae866eddde26e59ee1d19dd77c35f21",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w144_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w144_t0220.csv",
+    "source_sha256": "f73d0582041c561455df73bfe76bbb94079e60b0ad114065924ec342cfcd6cbd",
+    "target_sha256": "f73d0582041c561455df73bfe76bbb94079e60b0ad114065924ec342cfcd6cbd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w145_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w145_t0220.csv",
+    "source_sha256": "f429d6863b11c8d1c6fb9fcaa66c550805a5553a71efba9d8ac331eae3571fe6",
+    "target_sha256": "f429d6863b11c8d1c6fb9fcaa66c550805a5553a71efba9d8ac331eae3571fe6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w146_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w146_t0220.csv",
+    "source_sha256": "8e713ac5b102c1e5bd0380b2393baefdd4bffc8505e98a1a96e797ca1fe35de3",
+    "target_sha256": "8e713ac5b102c1e5bd0380b2393baefdd4bffc8505e98a1a96e797ca1fe35de3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w147_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w147_t0220.csv",
+    "source_sha256": "8e85a923332593e6a73a682f7762339a3b3fc3a395a90ff190309d8b7c226a05",
+    "target_sha256": "8e85a923332593e6a73a682f7762339a3b3fc3a395a90ff190309d8b7c226a05",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w148_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w148_t0220.csv",
+    "source_sha256": "f6597ec2966a6150a8c405165c0020b164b17a8b8d6006dcf70e8b06f41c8ed6",
+    "target_sha256": "f6597ec2966a6150a8c405165c0020b164b17a8b8d6006dcf70e8b06f41c8ed6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w149_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w149_t0220.csv",
+    "source_sha256": "b978ca906efc7483f7150733b1379ea19bca0127d5c01f97b0e02f3d9412cc53",
+    "target_sha256": "b978ca906efc7483f7150733b1379ea19bca0127d5c01f97b0e02f3d9412cc53",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w150_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w150_t0220.csv",
+    "source_sha256": "61fadd26745020f620e0bab6e87e57f026c956085642f262d33bf639db72c97b",
+    "target_sha256": "61fadd26745020f620e0bab6e87e57f026c956085642f262d33bf639db72c97b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w151_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w151_t0220.csv",
+    "source_sha256": "021a90006a0e74d572a690abadb3e3ac4f16e66a7963f04ba606f9be53e37a0e",
+    "target_sha256": "021a90006a0e74d572a690abadb3e3ac4f16e66a7963f04ba606f9be53e37a0e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w152_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w152_t0220.csv",
+    "source_sha256": "6e32cc6d1bc0e39156b0405e31759e628a00f337cb403fb0222263dd84e2a0e3",
+    "target_sha256": "6e32cc6d1bc0e39156b0405e31759e628a00f337cb403fb0222263dd84e2a0e3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w153_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w153_t0220.csv",
+    "source_sha256": "74801843eadec7fbd6c473ead998db37f36006a11394b60d437accaccc31d329",
+    "target_sha256": "74801843eadec7fbd6c473ead998db37f36006a11394b60d437accaccc31d329",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w154_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w154_t0220.csv",
+    "source_sha256": "5ca3b1bce1beecd2c40d1e70a32aeb46b6b96a44b56faeae5e4e4cfc23f108bb",
+    "target_sha256": "5ca3b1bce1beecd2c40d1e70a32aeb46b6b96a44b56faeae5e4e4cfc23f108bb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w155_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w155_t0220.csv",
+    "source_sha256": "3d566e8f485cd419a51f31505af2c3767c7ba6bc5eb1f77b8889d56044b0fd2f",
+    "target_sha256": "3d566e8f485cd419a51f31505af2c3767c7ba6bc5eb1f77b8889d56044b0fd2f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w156_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w156_t0220.csv",
+    "source_sha256": "48ce7be9c9d5a9bbac36e885e0dd3450c4a8bb06055bd865d2eba8e9e5ad6b57",
+    "target_sha256": "48ce7be9c9d5a9bbac36e885e0dd3450c4a8bb06055bd865d2eba8e9e5ad6b57",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w157_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w157_t0220.csv",
+    "source_sha256": "51fbbaa40475a6c695b0eb0e61f2c4ca7ca3ddabfe396e648582e28682bf8a3a",
+    "target_sha256": "51fbbaa40475a6c695b0eb0e61f2c4ca7ca3ddabfe396e648582e28682bf8a3a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w158_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w158_t0220.csv",
+    "source_sha256": "71772aaf22273d593f64728c7e55d166fd6edbe24470ece1dbba5d2e7f23258c",
+    "target_sha256": "71772aaf22273d593f64728c7e55d166fd6edbe24470ece1dbba5d2e7f23258c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w159_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w159_t0220.csv",
+    "source_sha256": "73e741dc30cfa1c27567a0e01655df0e200cc394869925bcc2db72a932ec894c",
+    "target_sha256": "73e741dc30cfa1c27567a0e01655df0e200cc394869925bcc2db72a932ec894c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w160_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w160_t0220.csv",
+    "source_sha256": "cfdef3d0e18f46408f8e404a5938c344efe3a8a21fd9af33e5d09784a83645b8",
+    "target_sha256": "cfdef3d0e18f46408f8e404a5938c344efe3a8a21fd9af33e5d09784a83645b8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w161_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w161_t0220.csv",
+    "source_sha256": "bf2f36571ea1a70f271d0695329f30f7521d3e9611b89b2653eef9a424036c4a",
+    "target_sha256": "bf2f36571ea1a70f271d0695329f30f7521d3e9611b89b2653eef9a424036c4a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w162_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w162_t0220.csv",
+    "source_sha256": "9392d4ced1c6ea29e9c3f206145360bfe0e118df39049b7ed73abd9798e51e86",
+    "target_sha256": "9392d4ced1c6ea29e9c3f206145360bfe0e118df39049b7ed73abd9798e51e86",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w163_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w163_t0220.csv",
+    "source_sha256": "1918b4ece3313b32056191085d6e7c5f919699dbd91f3634922bd2b27ab8d5ad",
+    "target_sha256": "1918b4ece3313b32056191085d6e7c5f919699dbd91f3634922bd2b27ab8d5ad",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w164_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w164_t0220.csv",
+    "source_sha256": "40700c57f8203fa23b9bf90f408201e1424d405e956895f23f02b8f7f2f9c51b",
+    "target_sha256": "40700c57f8203fa23b9bf90f408201e1424d405e956895f23f02b8f7f2f9c51b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w165_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w165_t0220.csv",
+    "source_sha256": "812eddc2fb5fc3da67ebdc35fb92b3396b92cf350ff6062315d4ffcd3ff19601",
+    "target_sha256": "812eddc2fb5fc3da67ebdc35fb92b3396b92cf350ff6062315d4ffcd3ff19601",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w166_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w166_t0220.csv",
+    "source_sha256": "02b259610af974d520df7a4ff832ed0ba6c8130f01c398b3414eef2d791c3153",
+    "target_sha256": "02b259610af974d520df7a4ff832ed0ba6c8130f01c398b3414eef2d791c3153",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w167_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w167_t0220.csv",
+    "source_sha256": "72f9bb04a99da29d8202b7e2f0ce1c3bf4f84f96c0f1dde2b1f026376a2504be",
+    "target_sha256": "72f9bb04a99da29d8202b7e2f0ce1c3bf4f84f96c0f1dde2b1f026376a2504be",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w168_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w168_t0220.csv",
+    "source_sha256": "851356d54482d7edcee45b289dc5af250cbe2526e3233613ef4545273982b50d",
+    "target_sha256": "851356d54482d7edcee45b289dc5af250cbe2526e3233613ef4545273982b50d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w169_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w169_t0220.csv",
+    "source_sha256": "dbbd54b0554129fcb8250f853c464888b6e0af73192c6037b7aac9a044142d37",
+    "target_sha256": "dbbd54b0554129fcb8250f853c464888b6e0af73192c6037b7aac9a044142d37",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w170_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w170_t0220.csv",
+    "source_sha256": "d1d5188c287ffd8c885c86a292def79525270b1da3b3c7333ef34efb13639d80",
+    "target_sha256": "d1d5188c287ffd8c885c86a292def79525270b1da3b3c7333ef34efb13639d80",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w171_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w171_t0220.csv",
+    "source_sha256": "cba2c67293893f96aa6c5631c29d080171220d299c3623e2e6e25cb5bc9bb862",
+    "target_sha256": "cba2c67293893f96aa6c5631c29d080171220d299c3623e2e6e25cb5bc9bb862",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w172_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w172_t0220.csv",
+    "source_sha256": "cf1b25298841fca96c716e0999ae98071bd949bd5747348ffb377722b5c37d2c",
+    "target_sha256": "cf1b25298841fca96c716e0999ae98071bd949bd5747348ffb377722b5c37d2c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w173_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w173_t0220.csv",
+    "source_sha256": "104a4b40cab3a855061b5737b8ed939fbf94ad00f67542b5f2470ae595dda98d",
+    "target_sha256": "104a4b40cab3a855061b5737b8ed939fbf94ad00f67542b5f2470ae595dda98d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w174_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w174_t0220.csv",
+    "source_sha256": "4ec34eff6e719978010cae3d57913e509948fe456661c160237b3281e9513654",
+    "target_sha256": "4ec34eff6e719978010cae3d57913e509948fe456661c160237b3281e9513654",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w175_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w175_t0220.csv",
+    "source_sha256": "90d63188da930c3a390d4127f48e8964a8a4a3ccfff216728dce2d7c3caa5398",
+    "target_sha256": "90d63188da930c3a390d4127f48e8964a8a4a3ccfff216728dce2d7c3caa5398",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w176_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w176_t0220.csv",
+    "source_sha256": "2a844fcd1567d4c910a5eef4bde1e9e3869e513d58971209401c3778b48cf8d1",
+    "target_sha256": "2a844fcd1567d4c910a5eef4bde1e9e3869e513d58971209401c3778b48cf8d1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w177_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w177_t0220.csv",
+    "source_sha256": "3f42538ca4274af564c7ed8df14366a46d5a5bc148840bde6a7da068d7d6bbfc",
+    "target_sha256": "3f42538ca4274af564c7ed8df14366a46d5a5bc148840bde6a7da068d7d6bbfc",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w178_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w178_t0220.csv",
+    "source_sha256": "d87859ca8bc445e8de6e35ccb8f29e50bc96728c51315ebc2ccf9bfc36294c54",
+    "target_sha256": "d87859ca8bc445e8de6e35ccb8f29e50bc96728c51315ebc2ccf9bfc36294c54",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w179_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w179_t0220.csv",
+    "source_sha256": "58d6647ac06216d44c5ce42259b3e005edf16436116e26bc6e181fd39691757d",
+    "target_sha256": "58d6647ac06216d44c5ce42259b3e005edf16436116e26bc6e181fd39691757d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w180_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w180_t0220.csv",
+    "source_sha256": "98900ed3a9299b8b004eab9d221b9e4fa8361b4cfef1f42d9994baaa5c60648f",
+    "target_sha256": "98900ed3a9299b8b004eab9d221b9e4fa8361b4cfef1f42d9994baaa5c60648f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w181_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w181_t0220.csv",
+    "source_sha256": "b537993c76c89039ca0b2b94eebf9c299afcd964b03d6dd70a39468e4ff0d4a5",
+    "target_sha256": "b537993c76c89039ca0b2b94eebf9c299afcd964b03d6dd70a39468e4ff0d4a5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w182_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w182_t0220.csv",
+    "source_sha256": "6a5c0a24a00c623c78fb2036cf5bad642ce7a8fe3a5242f9812b4c1f52243cff",
+    "target_sha256": "6a5c0a24a00c623c78fb2036cf5bad642ce7a8fe3a5242f9812b4c1f52243cff",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w183_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w183_t0220.csv",
+    "source_sha256": "d7a4476aa11c1069a1cd71f34e3d0991c88a01503b898250a5d760646036264d",
+    "target_sha256": "d7a4476aa11c1069a1cd71f34e3d0991c88a01503b898250a5d760646036264d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w184_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w184_t0220.csv",
+    "source_sha256": "f3bfd9c57d3b4abffdcd944d43fa5ce8a47a7d10a8a735cc57a938f556b10dd8",
+    "target_sha256": "f3bfd9c57d3b4abffdcd944d43fa5ce8a47a7d10a8a735cc57a938f556b10dd8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w185_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w185_t0220.csv",
+    "source_sha256": "0644aee5438868998ff2c63779d9111e3241cbb73dbd165ecfb7f944cc536607",
+    "target_sha256": "0644aee5438868998ff2c63779d9111e3241cbb73dbd165ecfb7f944cc536607",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w186_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w186_t0220.csv",
+    "source_sha256": "0a27b92a755f9a0e175153476878c2f68d121a6af7a17eb6134a87e162abc1c4",
+    "target_sha256": "0a27b92a755f9a0e175153476878c2f68d121a6af7a17eb6134a87e162abc1c4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w187_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w187_t0220.csv",
+    "source_sha256": "375b030d6c1360f21b3c2569c6b3d2bf59a7bcf1d960d62763dfce20f15cb59c",
+    "target_sha256": "375b030d6c1360f21b3c2569c6b3d2bf59a7bcf1d960d62763dfce20f15cb59c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w188_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w188_t0220.csv",
+    "source_sha256": "c8aba4b2ef900f4fec6005a43f677a3b463ae32218d19e7305718a321759612f",
+    "target_sha256": "c8aba4b2ef900f4fec6005a43f677a3b463ae32218d19e7305718a321759612f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w189_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w189_t0220.csv",
+    "source_sha256": "02b422762c9d726b02feeb8e2ea1ff3ce8656d544b794be6cfb0f96ca22fa0c9",
+    "target_sha256": "02b422762c9d726b02feeb8e2ea1ff3ce8656d544b794be6cfb0f96ca22fa0c9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w190_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w190_t0220.csv",
+    "source_sha256": "f21c118fa1309e507c1d1a2fa305f479a187dabd939e29998858e25a6e60dabf",
+    "target_sha256": "f21c118fa1309e507c1d1a2fa305f479a187dabd939e29998858e25a6e60dabf",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w191_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w191_t0220.csv",
+    "source_sha256": "13d8aa64cd1c55a066bd18700c0e244cd90af5d8679a0942de58a73b8444e9a4",
+    "target_sha256": "13d8aa64cd1c55a066bd18700c0e244cd90af5d8679a0942de58a73b8444e9a4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w192_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w192_t0220.csv",
+    "source_sha256": "dcb529de085af7e43a1edaec43aa209dfb620b16c540c74923a35235f9c1eaa6",
+    "target_sha256": "dcb529de085af7e43a1edaec43aa209dfb620b16c540c74923a35235f9c1eaa6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w193_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w193_t0220.csv",
+    "source_sha256": "22910bf85e32e3fb19bde165498d410c6abf09b5e758e7164729d664336035d6",
+    "target_sha256": "22910bf85e32e3fb19bde165498d410c6abf09b5e758e7164729d664336035d6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w194_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w194_t0220.csv",
+    "source_sha256": "b4dd7ee76aafa5d33646fd6f7da17cbb3450b08757972cb90eff3197a800ad80",
+    "target_sha256": "b4dd7ee76aafa5d33646fd6f7da17cbb3450b08757972cb90eff3197a800ad80",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w195_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w195_t0220.csv",
+    "source_sha256": "ffac7ef8f019aa5c2b3532bac303cc7762696ca86c3fe8d201310d3a2f7262a3",
+    "target_sha256": "ffac7ef8f019aa5c2b3532bac303cc7762696ca86c3fe8d201310d3a2f7262a3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w196_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w196_t0220.csv",
+    "source_sha256": "dc2fbeb548097d05cce1a140a16465af835dbb8ec5a82d4e9ae3c2eecbb58917",
+    "target_sha256": "dc2fbeb548097d05cce1a140a16465af835dbb8ec5a82d4e9ae3c2eecbb58917",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w197_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w197_t0220.csv",
+    "source_sha256": "4409292d8073275093f5b7055a2d864cc8b602b88c6e844ec81a6d86173de6e0",
+    "target_sha256": "4409292d8073275093f5b7055a2d864cc8b602b88c6e844ec81a6d86173de6e0",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w198_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w198_t0220.csv",
+    "source_sha256": "117e6ffda92a5978ca6ad0aaa0364e484d198c03a1bc1a80271fa91d65f1bc98",
+    "target_sha256": "117e6ffda92a5978ca6ad0aaa0364e484d198c03a1bc1a80271fa91d65f1bc98",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w199_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w199_t0220.csv",
+    "source_sha256": "57393b80e8382414cb0f3f5a51af6cf765227f8efc9113f5fcefc62facaae85a",
+    "target_sha256": "57393b80e8382414cb0f3f5a51af6cf765227f8efc9113f5fcefc62facaae85a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/neff_tables/neff_siwire_w200_t0220.csv",
+    "target": "third_party/PIC-Flow/FDTD/neff_tables/neff_siwire_w200_t0220.csv",
+    "source_sha256": "7639cea36f80e7b6afe1c0fc02840a81b22950abdcc7c5bc81008018c562b310",
+    "target_sha256": "7639cea36f80e7b6afe1c0fc02840a81b22950abdcc7c5bc81008018c562b310",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/pack_dataset.py",
+    "target": "third_party/PIC-Flow/FDTD/pack_dataset.py",
+    "source_sha256": "c332df2d29e289dd698fec19a4736701bbf65b15bea31e253673adfbf2d58558",
+    "target_sha256": "c332df2d29e289dd698fec19a4736701bbf65b15bea31e253673adfbf2d58558",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/param_ranges.py",
+    "target": "third_party/PIC-Flow/FDTD/param_ranges.py",
+    "source_sha256": "ab941431e93b3fb81989bdc1901e4a414c1a42ad1aab00a044c6fbc7a9290e91",
+    "target_sha256": "ab941431e93b3fb81989bdc1901e4a414c1a42ad1aab00a044c6fbc7a9290e91",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/sbend/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/sbend/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/sbend/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/sbend/device_sweep.py",
+    "source_sha256": "06dc88b1c78562b0b385d42a9fe36891df46a92377c3b1e3f23d28d5f036579c",
+    "target_sha256": "06dc88b1c78562b0b385d42a9fe36891df46a92377c3b1e3f23d28d5f036579c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/sbend/sbend.py",
+    "target": "third_party/PIC-Flow/FDTD/sbend/sbend.py",
+    "source_sha256": "c08a7da9a15fc1a107808d3e351977ee7ce32108a4275a8f4555479edbf0bf43",
+    "target_sha256": "c08a7da9a15fc1a107808d3e351977ee7ce32108a4275a8f4555479edbf0bf43",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/straight_waveguide/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/straight_waveguide/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/straight_waveguide/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/straight_waveguide/device_sweep.py",
+    "source_sha256": "c863abf2f7d84ded665e33f88dd2ab7c4792e80c020a5787a30d767927b8a772",
+    "target_sha256": "c863abf2f7d84ded665e33f88dd2ab7c4792e80c020a5787a30d767927b8a772",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/straight_waveguide/straight.py",
+    "target": "third_party/PIC-Flow/FDTD/straight_waveguide/straight.py",
+    "source_sha256": "30d5036564b7eaa3d6b3c34b15e6e059611dfa789ade6aef647ff13cf9a66ea8",
+    "target_sha256": "30d5036564b7eaa3d6b3c34b15e6e059611dfa789ade6aef647ff13cf9a66ea8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/straight_waveguide/straight_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/straight_waveguide/straight_sweep.py",
+    "source_sha256": "8af940ad4b4e0aac468ca7da5b6645708c7f8992f335454df44ed6ed0d5b321c",
+    "target_sha256": "8af940ad4b4e0aac468ca7da5b6645708c7f8992f335454df44ed6ed0d5b321c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/sweep_utils.py",
+    "target": "third_party/PIC-Flow/FDTD/sweep_utils.py",
+    "source_sha256": "5d574ac3600e098c06e857e31731526dfd32759a65d1969fd9e0b6bd88c3a486",
+    "target_sha256": "5d574ac3600e098c06e857e31731526dfd32759a65d1969fd9e0b6bd88c3a486",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/taper/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/taper/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/taper/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/taper/device_sweep.py",
+    "source_sha256": "305c0f9b77f704fa3a0640a85e935aef6c58adb4bb2bd5e55247d1f7e35b08b7",
+    "target_sha256": "305c0f9b77f704fa3a0640a85e935aef6c58adb4bb2bd5e55247d1f7e35b08b7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/taper/taper.py",
+    "target": "third_party/PIC-Flow/FDTD/taper/taper.py",
+    "source_sha256": "9afd467836f338edebea6b8723e12d64e0b5847ed586b599cfa24fa29ba2f8a8",
+    "target_sha256": "9afd467836f338edebea6b8723e12d64e0b5847ed586b599cfa24fa29ba2f8a8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/unified_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/unified_sweep.py",
+    "source_sha256": "da7ecaddd804b6468b80933b15b4641cf750e45c85f4d19c897c34b86c59ab8b",
+    "target_sha256": "da7ecaddd804b6468b80933b15b4641cf750e45c85f4d19c897c34b86c59ab8b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/utils.py",
+    "target": "third_party/PIC-Flow/FDTD/utils.py",
+    "source_sha256": "6a7e06b0bafbcce7210c2ea1ea84ffc88c5eaa42702a7094826612d6ed136f62",
+    "target_sha256": "6a7e06b0bafbcce7210c2ea1ea84ffc88c5eaa42702a7094826612d6ed136f62",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/ybranch/__init__.py",
+    "target": "third_party/PIC-Flow/FDTD/ybranch/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "target_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/ybranch/device_sweep.py",
+    "target": "third_party/PIC-Flow/FDTD/ybranch/device_sweep.py",
+    "source_sha256": "f7e2bbc2234ecf3a0110d9b3bc71009bcc5f546aee3b93e960258df02196f996",
+    "target_sha256": "f7e2bbc2234ecf3a0110d9b3bc71009bcc5f546aee3b93e960258df02196f996",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/FDTD/ybranch/ybranch.py",
+    "target": "third_party/PIC-Flow/FDTD/ybranch/ybranch.py",
+    "source_sha256": "766e40b86eaa418854d129420f82feda5e46e2ab97b8faa30d53e42034a93160",
+    "target_sha256": "766e40b86eaa418854d129420f82feda5e46e2ab97b8faa30d53e42034a93160",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/PIC-Flow-新研究资料/PIC-Flow-main/PIC-Flow-main/LICENSE",
+    "target": "third_party/PIC-Flow/LICENSE",
+    "source_sha256": "798f827dbbcfc435163ace516f0b0d8a1a15cb4521dbe1f3da7c479fc26dc913",
+    "target_sha256": "798f827dbbcfc435163ace516f0b0d8a1a15cb4521dbe1f3da7c479fc26dc913",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/references/NeurOLight-source/NeurOLight-main/core/models/pde_base.py",
+    "target": "third_party/NeurOLight/core/models/pde_base.py",
+    "source_sha256": "cf071419e7810b12c2aac14cb50ee278129188b0a2b9ea8c59e991925dc3dc49",
+    "target_sha256": "cf071419e7810b12c2aac14cb50ee278129188b0a2b9ea8c59e991925dc3dc49",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/references/NeurOLight-source/NeurOLight-main/core/models/neurolight_cnn.py",
+    "target": "third_party/NeurOLight/core/models/neurolight_cnn.py",
+    "source_sha256": "718b7d91959ed2bd15ef66dcdff967b45fc71a1d990bf920736699bcf0d018f0",
+    "target_sha256": "718b7d91959ed2bd15ef66dcdff967b45fc71a1d990bf920736699bcf0d018f0",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/references/NeurOLight-source/NeurOLight-main/core/models/layers/fno_conv2d.py",
+    "target": "third_party/NeurOLight/core/models/layers/fno_conv2d.py",
+    "source_sha256": "00cdc141e5697253ae72b56edbded35a6c9fd46c3215ac6a5c6a392449d5cef2",
+    "target_sha256": "00cdc141e5697253ae72b56edbded35a6c9fd46c3215ac6a5c6a392449d5cef2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/references/NeurOLight-source/NeurOLight-main/core/models/layers/neurolight_conv2d.py",
+    "target": "third_party/NeurOLight/core/models/layers/neurolight_conv2d.py",
+    "source_sha256": "3f119c95541a1c722a7cf20d20675e70d5a66561c118464e16552586bf2e0ee9",
+    "target_sha256": "3f119c95541a1c722a7cf20d20675e70d5a66561c118464e16552586bf2e0ee9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/references/NeurOLight-source/NeurOLight-main/LICENSE",
+    "target": "third_party/NeurOLight/LICENSE",
+    "source_sha256": "6f3e49e99314ecd26546b0e881a16e7295b747c8e48cf051d0b1e3feb01315cb",
+    "target_sha256": "6f3e49e99314ecd26546b0e881a16e7295b747c8e48cf051d0b1e3feb01315cb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/path_geometry.py",
+    "target": "src/phase_reference/geometry.py",
+    "source_sha256": "7bd5ee66b6fd6f0d3cd4fce84462a85c009b4ca776ffe62348723fa2f0fde861",
+    "target_sha256": "d8b3184314b0e6aa55b92a55d028705a5d7e81a438f2a1c18a20ec16373d23a3",
+    "note": "Portable imports/paths; remove unrelated smoke entry points where applicable; numerical function bodies retained"
+  },
+  {
+    "source": "research/research_sbend_path_v2/path_v2.py",
+    "target": "src/phase_reference/path_v2.py",
+    "source_sha256": "14c5a6c98617ce740d85cf52dcb45d20138f1a05e552ff2542f020c433672125",
+    "target_sha256": "0985c6a66731747da0c534c6ee39bd436f443a66467c0a31dde3518306d389bf",
+    "note": "Portable imports/paths; remove unrelated smoke entry points where applicable; numerical function bodies retained"
+  },
+  {
+    "source": "research/research_sbend_formal/features.py",
+    "target": "src/phase_reference/features.py",
+    "source_sha256": "551a2cbd873966a6005995f6d8b7eaaf715efe05978ea068447f2b5a70307f27",
+    "target_sha256": "4ace6967a1e67a7a1be077101f510c1a4f259414e1db1fc70bd5b92d99d18e70",
+    "note": "Portable imports/paths; remove unrelated smoke entry points where applicable; numerical function bodies retained"
+  },
+  {
+    "source": "research/research_v4/official_bridge.py",
+    "target": "src/phase_reference/compat/official_bridge.py",
+    "source_sha256": "fb7ecb14ceb0cad678bdb79d78eee77df0193afadfdb945ec893167ffd27ce96",
+    "target_sha256": "e58c698a2270aa439a3052339974a8ddeb7cfd511173002b96d6715322ba186e",
+    "note": "Portable imports/paths; remove unrelated smoke entry points where applicable; numerical function bodies retained"
+  },
+  {
+    "source": "research/research_v4/official_architecture.py",
+    "target": "src/phase_reference/compat/official_architecture.py",
+    "source_sha256": "727a7a7979ac4ad56f3df709b91efdfcc7e1b573b039b698f429da9ee1aef6df",
+    "target_sha256": "5d9e72b0b11974e89d5d53b9c866335f36ad9ac1c5fb69fdd7f9cb4098ecab29",
+    "note": "Portable imports/paths; remove unrelated smoke entry points where applicable; numerical function bodies retained"
+  },
+  {
+    "source": "research/research_sbend_formal/model.py",
+    "target": "src/phase_reference/model.py",
+    "source_sha256": "6dae06b0bc05dd85cca2137bc2563d82f6f54bf171f68337a308a21675ba2b65",
+    "target_sha256": "b3198ca05edfd9e9ace903f27eb3e98ead99931db197cd1bfc8e2828981ec073",
+    "note": "Portable imports/paths; remove unrelated smoke entry points where applicable; numerical function bodies retained"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/analyze.py",
+    "target": "src/phase_reference/metrics.py",
+    "source_sha256": "58ebfdf4c91e50cdbe8c05990080741ecc40ff6d04a0676adc0915b6dc5f47e5",
+    "target_sha256": "e5fdaf6783a34c1601b889093e280635e0384603b4936df5287735d9718c152c",
+    "note": "Extract five original numerical functions verbatim; replace historical AST loader with package geometry imports"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/Figure1.png",
+    "target": "paper/figures/fig1.png",
+    "source_sha256": "08e7974c15d780a8512ce6c65c7fbe45886567d98d88c87f8085d2db6f37a2c2",
+    "target_sha256": "08e7974c15d780a8512ce6c65c7fbe45886567d98d88c87f8085d2db6f37a2c2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/Figure2.png",
+    "target": "paper/figures/fig2.png",
+    "source_sha256": "d69954f8b0caaa9505776d20ec6416be394776a6da6d1efdc0520a2e013b103c",
+    "target_sha256": "d69954f8b0caaa9505776d20ec6416be394776a6da6d1efdc0520a2e013b103c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/Figure3.png",
+    "target": "paper/figures/fig3.png",
+    "source_sha256": "afe2dc89fbda15f5c5ad64ef4d375c9846ce483f4d0e711176d3c6caf4f24774",
+    "target_sha256": "afe2dc89fbda15f5c5ad64ef4d375c9846ce483f4d0e711176d3c6caf4f24774",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/Figure6.png",
+    "target": "paper/figures/fig4.png",
+    "source_sha256": "c00c6bc76b1c7302d32dc60203c11131b05e62a06e5c00dd9ec678290fd8c687",
+    "target_sha256": "c00c6bc76b1c7302d32dc60203c11131b05e62a06e5c00dd9ec678290fd8c687",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/SFigure1.png",
+    "target": "paper/supplement_figures/S1_euler_real_fields.png",
+    "source_sha256": "d078fc9703a44043e049552b0abdc8dae198c0b91f5de57cb1f163e3b8e49d8e",
+    "target_sha256": "d078fc9703a44043e049552b0abdc8dae198c0b91f5de57cb1f163e3b8e49d8e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/SFigure2.png",
+    "target": "paper/supplement_figures/S2_euler_phase_errors.png",
+    "source_sha256": "0984c77b12f878e174d51a235fcb5ed5d827127a686711645b2960408d8fe417",
+    "target_sha256": "0984c77b12f878e174d51a235fcb5ed5d827127a686711645b2960408d8fe417",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/SFigure3.png",
+    "target": "paper/supplement_figures/S3_euler_complex_errors.png",
+    "source_sha256": "8f6204ac90f97d05e94dee14ab39786ec9295d8df2732a6b61a2cc1c02ceb95d",
+    "target_sha256": "8f6204ac90f97d05e94dee14ab39786ec9295d8df2732a6b61a2cc1c02ceb95d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/SFigure4.png",
+    "target": "paper/supplement_figures/S4_fdtd_settings.png",
+    "source_sha256": "d20812bb6a56f1a96b735ed56bd6c78e09b1c0cc77cbaaa1ea9b61f6505fdb4a",
+    "target_sha256": "d20812bb6a56f1a96b735ed56bd6c78e09b1c0cc77cbaaa1ea9b61f6505fdb4a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/SFigure5.png",
+    "target": "paper/supplement_figures/S5_material_profiles.png",
+    "source_sha256": "06955a818a1f30e736e99ed2555e43fe4d6d2547dcab71e9b548cfddb45043d9",
+    "target_sha256": "06955a818a1f30e736e99ed2555e43fe4d6d2547dcab71e9b548cfddb45043d9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/Figure5.png",
+    "target": "paper/supplement_figures/S6_reference_diagnostics.png",
+    "source_sha256": "471a87a2b25667cbb1d793c624f31bb32206566950d648188f7be7839635e389",
+    "target_sha256": "471a87a2b25667cbb1d793c624f31bb32206566950d648188f7be7839635e389",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/figures/SFigure8.png",
+    "target": "paper/supplement_figures/S7_sinusoidal_examples.png",
+    "source_sha256": "00c606192a185bf3fc348b325910c39ddacab48b8fa7c0981d0e3c9e57e65684",
+    "target_sha256": "00c606192a185bf3fc348b325910c39ddacab48b8fa7c0981d0e3c9e57e65684",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_blind_paired.csv",
+    "target": "results/blind_blind_paired.csv",
+    "source_sha256": "0069c9b748241c3c1e20d782ed48ea3feb8d46a1cb748a3461d26ed10bc5d9f3",
+    "target_sha256": "0069c9b748241c3c1e20d782ed48ea3feb8d46a1cb748a3461d26ed10bc5d9f3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_blind_per_geometry.csv",
+    "target": "results/blind_blind_per_geometry.csv",
+    "source_sha256": "e6646fd6d14341041033f5b1fe6a9a1bdfbdd0167bcd214d51030704af559aa5",
+    "target_sha256": "e6646fd6d14341041033f5b1fe6a9a1bdfbdd0167bcd214d51030704af559aa5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_blind_summary.csv",
+    "target": "results/blind_blind_summary.csv",
+    "source_sha256": "0547e7847e1259aae9d1fb8e941e27c5a3ec748e55df7271bb0e0096b5ded3ac",
+    "target_sha256": "0547e7847e1259aae9d1fb8e941e27c5a3ec748e55df7271bb0e0096b5ded3ac",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_config.json",
+    "target": "results/blind_config.json",
+    "source_sha256": "0707893ab42275ea2b6ae59cbc203340e4dff789a708771c45622f2402991363",
+    "target_sha256": "0707893ab42275ea2b6ae59cbc203340e4dff789a708771c45622f2402991363",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_field_interpolation_sensitivity.csv",
+    "target": "results/blind_field_interpolation_sensitivity.csv",
+    "source_sha256": "5c123d7c9a7afa0bae5c4774cd0eb490c4e3d1c619020ef8a28a78ec9cccf06e",
+    "target_sha256": "5c123d7c9a7afa0bae5c4774cd0eb490c4e3d1c619020ef8a28a78ec9cccf06e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_geometry_manifest.json",
+    "target": "results/blind_geometry_manifest.json",
+    "source_sha256": "9c81ae5387eef0bfa8da234cc304a1308bd413cd475157bd5437dc49193d7435",
+    "target_sha256": "9c81ae5387eef0bfa8da234cc304a1308bd413cd475157bd5437dc49193d7435",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_grid_interpolation.csv",
+    "target": "results/blind_grid_interpolation.csv",
+    "source_sha256": "82f55348467bc4577687a21ebb29ccb072ea4f52202f8ea27574dfa1b94e9d84",
+    "target_sha256": "82f55348467bc4577687a21ebb29ccb072ea4f52202f8ea27574dfa1b94e9d84",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_grid_paired.csv",
+    "target": "results/blind_grid_paired.csv",
+    "source_sha256": "62ffd6adc146cf2d429fc0c5823a0f3e2fa75a14013b993bee7edac6ed635d00",
+    "target_sha256": "62ffd6adc146cf2d429fc0c5823a0f3e2fa75a14013b993bee7edac6ed635d00",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_grid_per_geometry.csv",
+    "target": "results/blind_grid_per_geometry.csv",
+    "source_sha256": "25ea68310be9bdc34d43a562e7056f10400b76cddc53952a7e6d44d1250efc66",
+    "target_sha256": "25ea68310be9bdc34d43a562e7056f10400b76cddc53952a7e6d44d1250efc66",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_grid_summary.csv",
+    "target": "results/blind_grid_summary.csv",
+    "source_sha256": "80a13bf8eaf379bb905b4193e9ac6c08164ae5284cb9299f363920ffc2c5ccd2",
+    "target_sha256": "80a13bf8eaf379bb905b4193e9ac6c08164ae5284cb9299f363920ffc2c5ccd2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_grid_truth_changes.csv",
+    "target": "results/blind_grid_truth_changes.csv",
+    "source_sha256": "c1a09c78f3d0522d7d321d2b376b7b4dffb6fc6d66bae5a9d174530eceab9891",
+    "target_sha256": "c1a09c78f3d0522d7d321d2b376b7b4dffb6fc6d66bae5a9d174530eceab9891",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_refined_paired.csv",
+    "target": "results/blind_refined_paired.csv",
+    "source_sha256": "a4cf41d2b908206ecab9a25ed728ae8eb72167900635776c7d7109089baee209",
+    "target_sha256": "a4cf41d2b908206ecab9a25ed728ae8eb72167900635776c7d7109089baee209",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_refined_per_geometry.csv",
+    "target": "results/blind_refined_per_geometry.csv",
+    "source_sha256": "5096b72e7238280d8b23414a165d49015f305e0ba9e52c8a97ca24dbf33965e6",
+    "target_sha256": "5096b72e7238280d8b23414a165d49015f305e0ba9e52c8a97ca24dbf33965e6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_refined_summary.csv",
+    "target": "results/blind_refined_summary.csv",
+    "source_sha256": "d25b47c09e7309b119165939619c51625676f07cd927179bc1a06fcbcece4e22",
+    "target_sha256": "d25b47c09e7309b119165939619c51625676f07cd927179bc1a06fcbcece4e22",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_refined_truth_changes.csv",
+    "target": "results/blind_refined_truth_changes.csv",
+    "source_sha256": "f2c3d1b38ad8577761de63ec069857b8ea669d20d65611a5917cda89b7d43df6",
+    "target_sha256": "f2c3d1b38ad8577761de63ec069857b8ea669d20d65611a5917cda89b7d43df6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/blind_REPORT.md",
+    "target": "results/blind_REPORT.md",
+    "source_sha256": "aedc844a3408bab560aae5bfb2048222f581cecae4ee604f822270dab78b52be",
+    "target_sha256": "aedc844a3408bab560aae5bfb2048222f581cecae4ee604f822270dab78b52be",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_beta.csv",
+    "target": "results/fdtd_beta.csv",
+    "source_sha256": "0d44dde3c46760166bab7dc46799546c6c3a3f0edc7950b32140553b52a9d191",
+    "target_sha256": "0d44dde3c46760166bab7dc46799546c6c3a3f0edc7950b32140553b52a9d191",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_courant_sensitivity.json",
+    "target": "results/fdtd_courant_sensitivity.json",
+    "source_sha256": "9bd4b2270da4e3444aefa352bd56a35d620ad61fe67968b5d45a090b7fc619f1",
+    "target_sha256": "9bd4b2270da4e3444aefa352bd56a35d620ad61fe67968b5d45a090b7fc619f1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_decomposition.csv",
+    "target": "results/fdtd_decomposition.csv",
+    "source_sha256": "a5df4ce7c6c084fc6e86b252a5018ba8133429a9d694fa45cd099bc981bc0845",
+    "target_sha256": "a5df4ce7c6c084fc6e86b252a5018ba8133429a9d694fa45cd099bc981bc0845",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_material_controls.csv",
+    "target": "results/fdtd_material_controls.csv",
+    "source_sha256": "8e8544fcb17e8898a2f5f1115866e114f563a845033e2cf9bddda170022e2146",
+    "target_sha256": "8e8544fcb17e8898a2f5f1115866e114f563a845033e2cf9bddda170022e2146",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_material_summary.csv",
+    "target": "results/fdtd_material_summary.csv",
+    "source_sha256": "ed80bb5a551630e45e26776bb82e8d9f4f9e602b8fab5aa958a71583e452a19e",
+    "target_sha256": "ed80bb5a551630e45e26776bb82e8d9f4f9e602b8fab5aa958a71583e452a19e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_port_reference.csv",
+    "target": "results/fdtd_port_reference.csv",
+    "source_sha256": "a2f7011651a8a8fe11cfea524f5bd51a20997fc712573b3d75a10272cb22ede8",
+    "target_sha256": "a2f7011651a8a8fe11cfea524f5bd51a20997fc712573b3d75a10272cb22ede8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_REPORT.md",
+    "target": "results/fdtd_REPORT.md",
+    "source_sha256": "6ddbeb0d5bc211d623324c694b29d82940a0ee05971b2cb26c1f62ff2b236d1d",
+    "target_sha256": "6ddbeb0d5bc211d623324c694b29d82940a0ee05971b2cb26c1f62ff2b236d1d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/fdtd_sensitivity.csv",
+    "target": "results/fdtd_sensitivity.csv",
+    "source_sha256": "70ecbd845b905bd2a9e18f3dd545179604d813886361cfdb808725522c5df09e",
+    "target_sha256": "70ecbd845b905bd2a9e18f3dd545179604d813886361cfdb808725522c5df09e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_extractor_bias.csv",
+    "target": "results/historical_extractor_bias.csv",
+    "source_sha256": "c3ee69e423f572824c2cba27d4ff9a4b331448681e6ef371840ed1ef672ece8e",
+    "target_sha256": "c3ee69e423f572824c2cba27d4ff9a4b331448681e6ef371840ed1ef672ece8e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_native_distribution.json",
+    "target": "results/historical_native_distribution.json",
+    "source_sha256": "59b12618cfcfd629958a70c0122354474e94aef1547bc79d406f40d3ba492e32",
+    "target_sha256": "59b12618cfcfd629958a70c0122354474e94aef1547bc79d406f40d3ba492e32",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_native_labels.csv",
+    "target": "results/historical_native_labels.csv",
+    "source_sha256": "232217d05d4dc93531de20939286f0cadfac14ed19fee4bfbd4a91d9eb12ca8d",
+    "target_sha256": "232217d05d4dc93531de20939286f0cadfac14ed19fee4bfbd4a91d9eb12ca8d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_optical_seed_metrics.csv",
+    "target": "results/historical_optical_seed_metrics.csv",
+    "source_sha256": "349c05310d7faa04f0838eafb897e803713d0b6a40ba3544c93192cf588ff86e",
+    "target_sha256": "349c05310d7faa04f0838eafb897e803713d0b6a40ba3544c93192cf588ff86e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_paired_geometry_statistics.json",
+    "target": "results/historical_paired_geometry_statistics.json",
+    "source_sha256": "806d4a06527ba705340affe66f1fc1138ba5d3f9da1e669e3458cc5955b2aeca",
+    "target_sha256": "806d4a06527ba705340affe66f1fc1138ba5d3f9da1e669e3458cc5955b2aeca",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_sbend_all_pairs.csv",
+    "target": "results/historical_sbend_all_pairs.csv",
+    "source_sha256": "e08724f67fad93cc441dcddbb3b2ad6d337725fcead14e299f09bdd09696ba9a",
+    "target_sha256": "e08724f67fad93cc441dcddbb3b2ad6d337725fcead14e299f09bdd09696ba9a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_sbend_per_geometry.csv",
+    "target": "results/historical_sbend_per_geometry.csv",
+    "source_sha256": "509b64be273a696fc05411ffc0e36ea6d0bbec4e38d1c043f2f67750179da447",
+    "target_sha256": "509b64be273a696fc05411ffc0e36ea6d0bbec4e38d1c043f2f67750179da447",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_sbend_three_seed_main.csv",
+    "target": "results/historical_sbend_three_seed_main.csv",
+    "source_sha256": "8b63f5c5d13e0d46a7ae32332f9243ee097dbb17742b326cebabd896b05eabd8",
+    "target_sha256": "8b63f5c5d13e0d46a7ae32332f9243ee097dbb17742b326cebabd896b05eabd8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_spectral_summary.csv",
+    "target": "results/historical_spectral_summary.csv",
+    "source_sha256": "396092735a78074bf2ca23f58bf65c00275a7a866e2f38cd83d9c2484eba756a",
+    "target_sha256": "396092735a78074bf2ca23f58bf65c00275a7a866e2f38cd83d9c2484eba756a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_three_seed_summary.csv",
+    "target": "results/historical_three_seed_summary.csv",
+    "source_sha256": "d41b8421b528c9cfbbcc8cc42f65f5dddec35365f50b6cb034a38834765b7765",
+    "target_sha256": "d41b8421b528c9cfbbcc8cc42f65f5dddec35365f50b6cb034a38834765b7765",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_ybranch_all_pairs.csv",
+    "target": "results/historical_ybranch_all_pairs.csv",
+    "source_sha256": "246b79e44fc078059908d5a99c344f4534346922d8bcd1435c0d288f190ebb5d",
+    "target_sha256": "246b79e44fc078059908d5a99c344f4534346922d8bcd1435c0d288f190ebb5d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_ybranch_all_summary.csv",
+    "target": "results/historical_ybranch_all_summary.csv",
+    "source_sha256": "14521750208bf7f753397bd5d83edd06dd19596cd15be425d602266c3300b536",
+    "target_sha256": "14521750208bf7f753397bd5d83edd06dd19596cd15be425d602266c3300b536",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/historical_ybranch_per_geometry.csv",
+    "target": "results/historical_ybranch_per_geometry.csv",
+    "source_sha256": "cb85d79538df1d4db81c9d8f2e2ef7b1cab310674dee9626c7be198bea6c52fe",
+    "target_sha256": "cb85d79538df1d4db81c9d8f2e2ef7b1cab310674dee9626c7be198bea6c52fe",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_analytic_geometry.csv",
+    "target": "results/sine_analytic_geometry.csv",
+    "source_sha256": "1a8f4d1d66875ac5f4554a8e40388876161a826e0629e282be1fec6b4289cb0e",
+    "target_sha256": "1a8f4d1d66875ac5f4554a8e40388876161a826e0629e282be1fec6b4289cb0e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_blind_paired.csv",
+    "target": "results/sine_blind_paired.csv",
+    "source_sha256": "61023164403058c34b6c33fd667ae0f2aade47978c6886b040ae132d1733d731",
+    "target_sha256": "61023164403058c34b6c33fd667ae0f2aade47978c6886b040ae132d1733d731",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_blind_per_geometry.csv",
+    "target": "results/sine_blind_per_geometry.csv",
+    "source_sha256": "dd43ca41b7e9efe2de3913fc9eae9ad242a6f2dcdcdc6e55a98e23eb2ae3c1c2",
+    "target_sha256": "dd43ca41b7e9efe2de3913fc9eae9ad242a6f2dcdcdc6e55a98e23eb2ae3c1c2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_config.json",
+    "target": "results/sine_config.json",
+    "source_sha256": "f32e073d04f3cf96d74438613eea7736ee84f305e9b9e6e8d91e71dfe6672c41",
+    "target_sha256": "f32e073d04f3cf96d74438613eea7736ee84f305e9b9e6e8d91e71dfe6672c41",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_figure_selection.json",
+    "target": "results/sine_figure_selection.json",
+    "source_sha256": "d1be21c3a5250e869a0a7fd262c9498a9308e507028230d53430cb0fc1789b01",
+    "target_sha256": "d1be21c3a5250e869a0a7fd262c9498a9308e507028230d53430cb0fc1789b01",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_geometry_manifest.json",
+    "target": "results/sine_geometry_manifest.json",
+    "source_sha256": "89fab6292c70b930384cd0d04126e3576f22e6dfb0e66d2f683c833628bf8a6b",
+    "target_sha256": "89fab6292c70b930384cd0d04126e3576f22e6dfb0e66d2f683c833628bf8a6b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_grid_interpolation.csv",
+    "target": "results/sine_grid_interpolation.csv",
+    "source_sha256": "e15cc9bbbf4c1171bf4fce04c9f7c4b954b6501a47b3f04947241f22b51eeded",
+    "target_sha256": "e15cc9bbbf4c1171bf4fce04c9f7c4b954b6501a47b3f04947241f22b51eeded",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_grid_truth_changes.csv",
+    "target": "results/sine_grid_truth_changes.csv",
+    "source_sha256": "cc27d4bd86f952e310dd4c59b565b9fc73156c5c7d0996d80cdfafc5a26082fc",
+    "target_sha256": "cc27d4bd86f952e310dd4c59b565b9fc73156c5c7d0996d80cdfafc5a26082fc",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_independent_verification.json",
+    "target": "results/sine_independent_verification.json",
+    "source_sha256": "59ddcb216fc9acabce11671ad3576c7dbaa34e41422712f69808ee9881400b7b",
+    "target_sha256": "59ddcb216fc9acabce11671ad3576c7dbaa34e41422712f69808ee9881400b7b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_main_table.csv",
+    "target": "results/sine_main_table.csv",
+    "source_sha256": "af8b1021a27565edc92a955ba70b2f50f7060aa93842acd4c6c5b50d0f36a042",
+    "target_sha256": "af8b1021a27565edc92a955ba70b2f50f7060aa93842acd4c6c5b50d0f36a042",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_mesh_assessment.json",
+    "target": "results/sine_mesh_assessment.json",
+    "source_sha256": "55c9b3050a2f835115a5a6f0dda681a63d6ca0008ffa8fbd52661aac10427473",
+    "target_sha256": "55c9b3050a2f835115a5a6f0dda681a63d6ca0008ffa8fbd52661aac10427473",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_mesh_primary_table.csv",
+    "target": "results/sine_mesh_primary_table.csv",
+    "source_sha256": "f7e1fee0b142a5bdf46deb37d80d5192fc6520d6f6258f9e4323a7968befc28b",
+    "target_sha256": "f7e1fee0b142a5bdf46deb37d80d5192fc6520d6f6258f9e4323a7968befc28b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_prediction_freeze.json",
+    "target": "results/sine_prediction_freeze.json",
+    "source_sha256": "82cdc668430e57158bf0612f91af610541bbaf4e978d80b11dc1b0d88942ec33",
+    "target_sha256": "82cdc668430e57158bf0612f91af610541bbaf4e978d80b11dc1b0d88942ec33",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_PROTOCOL.md",
+    "target": "results/sine_PROTOCOL.md",
+    "source_sha256": "1a87b8c5420660820f5004a3a54d0738e1722b466847220673ba94635ce554c2",
+    "target_sha256": "1a87b8c5420660820f5004a3a54d0738e1722b466847220673ba94635ce554c2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_seed_summary.csv",
+    "target": "results/sine_seed_summary.csv",
+    "source_sha256": "6440163addfa1c7cffe4753e0e01963fc4dd94407fa2ba36dcf406e1b9cd5997",
+    "target_sha256": "6440163addfa1c7cffe4753e0e01963fc4dd94407fa2ba36dcf406e1b9cd5997",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/sine_transfer_primary.json",
+    "target": "results/sine_transfer_primary.json",
+    "source_sha256": "7f04f7ed68f13e9b06edf806ecd6bc4cab52ee44fbcceda4180ab1e4743195ee",
+    "target_sha256": "7f04f7ed68f13e9b06edf806ecd6bc4cab52ee44fbcceda4180ab1e4743195ee",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_break_even_scenarios.csv",
+    "target": "results/surrogate_break_even_scenarios.csv",
+    "source_sha256": "51471e94282b31bdaf4fb38b82b0f6578eee12122eaad589344ee2dad72699e7",
+    "target_sha256": "51471e94282b31bdaf4fb38b82b0f6578eee12122eaad589344ee2dad72699e7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_cost_analysis.json",
+    "target": "results/surrogate_cost_analysis.json",
+    "source_sha256": "ac511dfb4067ffefab04c8ff3f2d067ddbbea84337701e2e6da92ea00bb475c3",
+    "target_sha256": "ac511dfb4067ffefab04c8ff3f2d067ddbbea84337701e2e6da92ea00bb475c3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_endpoints_per_geometry.csv",
+    "target": "results/surrogate_endpoints_per_geometry.csv",
+    "source_sha256": "0e7ecbe3fcd8173267ca8ee30b1ced15a66ce557d96cd473635efc710fb42465",
+    "target_sha256": "0e7ecbe3fcd8173267ca8ee30b1ced15a66ce557d96cd473635efc710fb42465",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_final_verification.json",
+    "target": "results/surrogate_final_verification.json",
+    "source_sha256": "38fc22a291145dc3889e50f8ccd347a981ec513ba1d8d39b9522b78ece210f32",
+    "target_sha256": "38fc22a291145dc3889e50f8ccd347a981ec513ba1d8d39b9522b78ece210f32",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_gallery_selection.json",
+    "target": "results/surrogate_gallery_selection.json",
+    "source_sha256": "70319585a6b3c4847f773ec0ad0e8a45ce7bfc854c5ee9fb9d60bf420b60f043",
+    "target_sha256": "70319585a6b3c4847f773ec0ad0e8a45ce7bfc854c5ee9fb9d60bf420b60f043",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_illustrative_tolerance_rates.csv",
+    "target": "results/surrogate_illustrative_tolerance_rates.csv",
+    "source_sha256": "8e1c77fd88550af44ce973961cf48645c8a557cbf16d1e92d4599a7117fe6f37",
+    "target_sha256": "8e1c77fd88550af44ce973961cf48645c8a557cbf16d1e92d4599a7117fe6f37",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_main_table_per_seed.csv",
+    "target": "results/surrogate_main_table_per_seed.csv",
+    "source_sha256": "5d9d4764d4a9ea551fe9c31fe2ea957dbcb9cc1fe881963f07b1f66b2abbe746",
+    "target_sha256": "5d9d4764d4a9ea551fe9c31fe2ea957dbcb9cc1fe881963f07b1f66b2abbe746",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_main_table_three_seed_summary.csv",
+    "target": "results/surrogate_main_table_three_seed_summary.csv",
+    "source_sha256": "53bc1fb2d7d14ae1324767721a9cf06b49a65f4eb26e3747fa532269b58c43c9",
+    "target_sha256": "53bc1fb2d7d14ae1324767721a9cf06b49a65f4eb26e3747fa532269b58c43c9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_offline_cost_ledger.csv",
+    "target": "results/surrogate_offline_cost_ledger.csv",
+    "source_sha256": "2f015a351cc7875b5156349316dfc67b5c3a8d07f47cf1d604b30d4e9fc35571",
+    "target_sha256": "2f015a351cc7875b5156349316dfc67b5c3a8d07f47cf1d604b30d4e9fc35571",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_offline_overhead_replay.json",
+    "target": "results/surrogate_offline_overhead_replay.json",
+    "source_sha256": "35220267acb0df2f4e024bac0509d1921494938b314598a382dc95b22e9e10dd",
+    "target_sha256": "35220267acb0df2f4e024bac0509d1921494938b314598a382dc95b22e9e10dd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_online_cost_summary.csv",
+    "target": "results/surrogate_online_cost_summary.csv",
+    "source_sha256": "2de19339d2a4111bf3af75b527f8a752a98a13a56f072bde9d4810d2284eb084",
+    "target_sha256": "2de19339d2a4111bf3af75b527f8a752a98a13a56f072bde9d4810d2284eb084",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_paired_differences.csv",
+    "target": "results/surrogate_paired_differences.csv",
+    "source_sha256": "0ed4f750c909ebb263ec53a1764c382910b23885ba92c8ae3dd42bd687b6fb0d",
+    "target_sha256": "0ed4f750c909ebb263ec53a1764c382910b23885ba92c8ae3dd42bd687b6fb0d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_stratified_metrics.csv",
+    "target": "results/surrogate_stratified_metrics.csv",
+    "source_sha256": "2e7515e2fc4e980749623210d41dac8c46e94d6f661d68f23e87a656c059f54a",
+    "target_sha256": "2e7515e2fc4e980749623210d41dac8c46e94d6f661d68f23e87a656c059f54a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/surrogate_field_manuscript_v4_1_writing_package/tables/surrogate_training_costs.csv",
+    "target": "results/surrogate_training_costs.csv",
+    "source_sha256": "f5b2e9cf854674fcec3708234961a493c3166ed6cf9207d43f04bc7c6c5c806b",
+    "target_sha256": "f5b2e9cf854674fcec3708234961a493c3166ed6cf9207d43f04bc7c6c5c806b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/calibration.json",
+    "target": "configs/calibration.json",
+    "source_sha256": "d7cb1e18c8e74dc196461c4f4035ce15cee22491477c80899f8df76b6bbc1295",
+    "target_sha256": "d7cb1e18c8e74dc196461c4f4035ce15cee22491477c80899f8df76b6bbc1295",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/config.json",
+    "target": "configs/historical_formal.json",
+    "source_sha256": "fcce7874bd6f88c8eb85d6d5534b1ebf791aee17ab623a7231ad819de8cc8b19",
+    "target_sha256": "fcce7874bd6f88c8eb85d6d5534b1ebf791aee17ab623a7231ad819de8cc8b19",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/geometry_manifest.json",
+    "target": "data/manifests/euler_original180.json",
+    "source_sha256": "987922c4d27e4291bd5c2a69111f374508571e0ccf1007fe54cf445c81c65782",
+    "target_sha256": "987922c4d27e4291bd5c2a69111f374508571e0ccf1007fe54cf445c81c65782",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/geometry_manifest.json",
+    "target": "data/manifests/euler_independent72.json",
+    "source_sha256": "9c81ae5387eef0bfa8da234cc304a1308bd413cd475157bd5437dc49193d7435",
+    "target_sha256": "9c81ae5387eef0bfa8da234cc304a1308bd413cd475157bd5437dc49193d7435",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/geometry_manifest.json",
+    "target": "data/manifests/sinusoidal36.json",
+    "source_sha256": "89fab6292c70b930384cd0d04126e3576f22e6dfb0e66d2f683c833628bf8a6b",
+    "target_sha256": "89fab6292c70b930384cd0d04126e3576f22e6dfb0e66d2f683c833628bf8a6b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/example_geometry.json",
+    "target": "examples/geometry.json",
+    "source_sha256": "7c7bb5d59dfdf631683b4d50b3928496aac3a31a928bf983f2157914d39ef07e",
+    "target_sha256": "7c7bb5d59dfdf631683b4d50b3928496aac3a31a928bf983f2157914d39ef07e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/benchmark_environment.json",
+    "target": "environments/historical_gpu.json",
+    "source_sha256": "e11a34dde9b0a29b7147488b7f348cc465fab7dedc6b6c972289e1d1cf461d31",
+    "target_sha256": "e11a34dde9b0a29b7147488b7f348cc465fab7dedc6b6c972289e1d1cf461d31",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/fdtd_environment.json",
+    "target": "environments/historical_meep.json",
+    "source_sha256": "68cf3e4e967ded6d5fe5fb45cd7e2fc87a98179a575ef359d0304c7d7ccfbf36",
+    "target_sha256": "68cf3e4e967ded6d5fe5fb45cd7e2fc87a98179a575ef359d0304c7d7ccfbf36",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "paper/github_publication_guidance/verify_available_tables.py",
+    "target": "scripts/verify_tables.py",
+    "source_sha256": "6bc05df6c259b9fb3c77641707780871de8a852846c98c3e0b13cd73a551d7a2",
+    "target_sha256": "6bc05df6c259b9fb3c77641707780871de8a852846c98c3e0b13cd73a551d7a2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/assemble_delivery.py",
+    "target": "historical_source/research_sbend_formal/assemble_delivery.py",
+    "source_sha256": "d0742abc934eaaa72195af3f2a957a3c4e0101d09a935f59d0ed0321da01f361",
+    "target_sha256": "d0742abc934eaaa72195af3f2a957a3c4e0101d09a935f59d0ed0321da01f361",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/calibration.py",
+    "target": "historical_source/research_sbend_formal/calibration.py",
+    "source_sha256": "669351ebe67a895ed93511b464348e156aba3955de98515a2fcb1bc48e9b6cc6",
+    "target_sha256": "669351ebe67a895ed93511b464348e156aba3955de98515a2fcb1bc48e9b6cc6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/common.py",
+    "target": "historical_source/research_sbend_formal/common.py",
+    "source_sha256": "7824ddaa8f55e76e220e7ce013487d1cdc7680d1a4fb48fe812c6b516a346c7c",
+    "target_sha256": "7824ddaa8f55e76e220e7ce013487d1cdc7680d1a4fb48fe812c6b516a346c7c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/evaluate.py",
+    "target": "historical_source/research_sbend_formal/evaluate.py",
+    "source_sha256": "e32d66e71a5f545b6a57d08e47f27e98157312a23fe57a396133e533e9869c77",
+    "target_sha256": "e32d66e71a5f545b6a57d08e47f27e98157312a23fe57a396133e533e9869c77",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/fdtd_worker.py",
+    "target": "historical_source/research_sbend_formal/fdtd_worker.py",
+    "source_sha256": "ecfab28c8a8269a9338c1701026dff0afadb8145f7f2c418a4605f5fc5ac0a0f",
+    "target_sha256": "ecfab28c8a8269a9338c1701026dff0afadb8145f7f2c418a4605f5fc5ac0a0f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/features.py",
+    "target": "historical_source/research_sbend_formal/features.py",
+    "source_sha256": "551a2cbd873966a6005995f6d8b7eaaf715efe05978ea068447f2b5a70307f27",
+    "target_sha256": "551a2cbd873966a6005995f6d8b7eaaf715efe05978ea068447f2b5a70307f27",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/freeze.py",
+    "target": "historical_source/research_sbend_formal/freeze.py",
+    "source_sha256": "2120053b692248d6320df7b1738a18d84ea70f23ed19211c98d6a8c9189c2269",
+    "target_sha256": "2120053b692248d6320df7b1738a18d84ea70f23ed19211c98d6a8c9189c2269",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/generate_data.py",
+    "target": "historical_source/research_sbend_formal/generate_data.py",
+    "source_sha256": "d2c380b0710e9fb2e99aa1786f3d0c9fa837fc64e3d913d0e7ce45365cf84047",
+    "target_sha256": "d2c380b0710e9fb2e99aa1786f3d0c9fa837fc64e3d913d0e7ce45365cf84047",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/model.py",
+    "target": "historical_source/research_sbend_formal/model.py",
+    "source_sha256": "6dae06b0bc05dd85cca2137bc2563d82f6f54bf171f68337a308a21675ba2b65",
+    "target_sha256": "6dae06b0bc05dd85cca2137bc2563d82f6f54bf171f68337a308a21675ba2b65",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/pipeline.py",
+    "target": "historical_source/research_sbend_formal/pipeline.py",
+    "source_sha256": "00d1334f6ee26fe572760d2e4f2f8b0ffafa3866ea3d477b4f28279d448ad359",
+    "target_sha256": "00d1334f6ee26fe572760d2e4f2f8b0ffafa3866ea3d477b4f28279d448ad359",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/plots.py",
+    "target": "historical_source/research_sbend_formal/plots.py",
+    "source_sha256": "c9f7908b1e1b5a2697a8fbfa509038c788c832b9d8dac19d59d35010e6ac42d0",
+    "target_sha256": "c9f7908b1e1b5a2697a8fbfa509038c788c832b9d8dac19d59d35010e6ac42d0",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/posthoc_details.py",
+    "target": "historical_source/research_sbend_formal/posthoc_details.py",
+    "source_sha256": "a00d7cc18ce6140342db4da067d8eaa913205015f46f4cf76d0020574b915116",
+    "target_sha256": "a00d7cc18ce6140342db4da067d8eaa913205015f46f4cf76d0020574b915116",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/preflight.py",
+    "target": "historical_source/research_sbend_formal/preflight.py",
+    "source_sha256": "7bcced4f5297f8051b61471cfd6671056057341d104312ec5ae0061a6d8581ac",
+    "target_sha256": "7bcced4f5297f8051b61471cfd6671056057341d104312ec5ae0061a6d8581ac",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/prepare_training.py",
+    "target": "historical_source/research_sbend_formal/prepare_training.py",
+    "source_sha256": "8cef88d5f4752d8fde1b84285ec35511add7cc421b720b12c32471511eb399b4",
+    "target_sha256": "8cef88d5f4752d8fde1b84285ec35511add7cc421b720b12c32471511eb399b4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/report.py",
+    "target": "historical_source/research_sbend_formal/report.py",
+    "source_sha256": "1dbf90de21cc2d2bda88b84fe59be725742119ab407fc862304fb8c3b0cd8746",
+    "target_sha256": "1dbf90de21cc2d2bda88b84fe59be725742119ab407fc862304fb8c3b0cd8746",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/runtime_checks.py",
+    "target": "historical_source/research_sbend_formal/runtime_checks.py",
+    "source_sha256": "d9a7b28fb0ad46fa879aa78df2129ffc1c512dfbbe1d312649d5c77a273fcf47",
+    "target_sha256": "d9a7b28fb0ad46fa879aa78df2129ffc1c512dfbbe1d312649d5c77a273fcf47",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/sampling.py",
+    "target": "historical_source/research_sbend_formal/sampling.py",
+    "source_sha256": "052f0aebb8ad5bca5b6c1e30354d9e288ce50160f67ee3c35d5206f72e99050d",
+    "target_sha256": "052f0aebb8ad5bca5b6c1e30354d9e288ce50160f67ee3c35d5206f72e99050d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/snapshot.py",
+    "target": "historical_source/research_sbend_formal/snapshot.py",
+    "source_sha256": "35dca346c2c7617e26b1c8678e381c61c7f80396996d27502318b61ba978e369",
+    "target_sha256": "35dca346c2c7617e26b1c8678e381c61c7f80396996d27502318b61ba978e369",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/summarize_ports.py",
+    "target": "historical_source/research_sbend_formal/summarize_ports.py",
+    "source_sha256": "c6a0267e192289262709f97c342210e521e19e8f7474c67cb1276dd6a9f3bcf1",
+    "target_sha256": "c6a0267e192289262709f97c342210e521e19e8f7474c67cb1276dd6a9f3bcf1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/train.py",
+    "target": "historical_source/research_sbend_formal/train.py",
+    "source_sha256": "717370ba89db0ea01b93c7a65278c608bb563e3da17619312d2b0c24048b65bd",
+    "target_sha256": "717370ba89db0ea01b93c7a65278c608bb563e3da17619312d2b0c24048b65bd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/verify_results.py",
+    "target": "historical_source/research_sbend_formal/verify_results.py",
+    "source_sha256": "d7b26451ec4f0dfc1b4f831ebc69d3945c5fbc262a499a48450fbb540f8d3a6b",
+    "target_sha256": "d7b26451ec4f0dfc1b4f831ebc69d3945c5fbc262a499a48450fbb540f8d3a6b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/verify_results_cached_r1.py",
+    "target": "historical_source/research_sbend_formal/verify_results_cached_r1.py",
+    "source_sha256": "a68207ccab4dbd9c6fd63d163dff2a947ae2e15e00f5bef516f7fbd1d4809538",
+    "target_sha256": "a68207ccab4dbd9c6fd63d163dff2a947ae2e15e00f5bef516f7fbd1d4809538",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/verify_statistics.py",
+    "target": "historical_source/research_sbend_formal/verify_statistics.py",
+    "source_sha256": "debe25f472f39eea29f2fa7dc601145ab6b1305234805ed60c298f8a1ee4f1c3",
+    "target_sha256": "debe25f472f39eea29f2fa7dc601145ab6b1305234805ed60c298f8a1ee4f1c3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/PROTOCOL.md",
+    "target": "historical_source/research_sbend_formal/PROTOCOL.md",
+    "source_sha256": "41e814e3ce973722d2353e6fe267da50218e5368a258b5bb4dff78084c3f266e",
+    "target_sha256": "41e814e3ce973722d2353e6fe267da50218e5368a258b5bb4dff78084c3f266e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/config.json",
+    "target": "historical_source/research_sbend_formal/config.json",
+    "source_sha256": "fcce7874bd6f88c8eb85d6d5534b1ebf791aee17ab623a7231ad819de8cc8b19",
+    "target_sha256": "fcce7874bd6f88c8eb85d6d5534b1ebf791aee17ab623a7231ad819de8cc8b19",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/experiment.py",
+    "target": "historical_source/research_sbend_fourmethod_5seed/experiment.py",
+    "source_sha256": "63a13cc3f2a2be1e876b6d7431dd06aa1ab2f962308917b46339474cf353871d",
+    "target_sha256": "63a13cc3f2a2be1e876b6d7431dd06aa1ab2f962308917b46339474cf353871d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/verify_saved_outcomes.py",
+    "target": "historical_source/research_sbend_fourmethod_5seed/verify_saved_outcomes.py",
+    "source_sha256": "c76779125a4fe1c61bfee50617e17acbad77bfc868878c0a602f5ae6a19571af",
+    "target_sha256": "c76779125a4fe1c61bfee50617e17acbad77bfc868878c0a602f5ae6a19571af",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/PROTOCOL.md",
+    "target": "historical_source/research_sbend_fourmethod_5seed/PROTOCOL.md",
+    "source_sha256": "d5b0db3c41eb7b286994511d50856f67aa1773cbd30e3a746f6975338a430427",
+    "target_sha256": "d5b0db3c41eb7b286994511d50856f67aa1773cbd30e3a746f6975338a430427",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/analyze_costs.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/analyze_costs.py",
+    "source_sha256": "a41c522bf7499c48e60f169ef37cf14f364191223973347e59d9a9a7b99758d9",
+    "target_sha256": "a41c522bf7499c48e60f169ef37cf14f364191223973347e59d9a9a7b99758d9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/audit.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/audit.py",
+    "source_sha256": "5fe613b1ab87b82cc9478ffe7b2c767384c55719249dca1defbc520d87634363",
+    "target_sha256": "5fe613b1ab87b82cc9478ffe7b2c767384c55719249dca1defbc520d87634363",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/benchmark.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/benchmark.py",
+    "source_sha256": "ac87c1a2294dd5b2b57448eb0da51a0c1869fe01c6274174e43a4983d40dfbf1",
+    "target_sha256": "ac87c1a2294dd5b2b57448eb0da51a0c1869fe01c6274174e43a4983d40dfbf1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/finish_delivery.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/finish_delivery.py",
+    "source_sha256": "65be01518799e420442656f7fe1e9361a15dc6c6cb19616e1f6e12ad3116ffb2",
+    "target_sha256": "65be01518799e420442656f7fe1e9361a15dc6c6cb19616e1f6e12ad3116ffb2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/integrate_results.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/integrate_results.py",
+    "source_sha256": "4244c7280ddf7c88d5720c2549bfc85ec0df68f6645dbac849efe51597bcc929",
+    "target_sha256": "4244c7280ddf7c88d5720c2549bfc85ec0df68f6645dbac849efe51597bcc929",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/make_report.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/make_report.py",
+    "source_sha256": "9611504388b7b84e91b8c78124bfe4065c51b320533238aff3457e5cebc5b184",
+    "target_sha256": "9611504388b7b84e91b8c78124bfe4065c51b320533238aff3457e5cebc5b184",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/predict.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/predict.py",
+    "source_sha256": "b874243794723ea884061039c10c4e5d637c94f35daae4971463ea8d56b3688c",
+    "target_sha256": "b874243794723ea884061039c10c4e5d637c94f35daae4971463ea8d56b3688c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/predict_benchmarked.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/predict_benchmarked.py",
+    "source_sha256": "6bed9e5be7366486bff9cf55ece59b5a237920ea6835e2137c1472cd3782c341",
+    "target_sha256": "6bed9e5be7366486bff9cf55ece59b5a237920ea6835e2137c1472cd3782c341",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/replay_offline_overhead.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/replay_offline_overhead.py",
+    "source_sha256": "be5e8418f2429938b3632588b6fceb3565be06c3270945766b9c801214e65a49",
+    "target_sha256": "be5e8418f2429938b3632588b6fceb3565be06c3270945766b9c801214e65a49",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/run_delivery.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/run_delivery.py",
+    "source_sha256": "3775f26493ce420a7605258886952b0fdc314a6a29ecdf24630eb2b2a72f2043",
+    "target_sha256": "3775f26493ce420a7605258886952b0fdc314a6a29ecdf24630eb2b2a72f2043",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/verify_delivery.py",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/verify_delivery.py",
+    "source_sha256": "e413d555d68342f879102b72518eb29721c99e3e625e81426836a266d1c0ac8a",
+    "target_sha256": "e413d555d68342f879102b72518eb29721c99e3e625e81426836a266d1c0ac8a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_surrogate_delivery_2026-11-15/PROTOCOL.md",
+    "target": "historical_source/research_sbend_surrogate_delivery_2026-11-15/PROTOCOL.md",
+    "source_sha256": "547d4b41f35a174b2731cc7acb6047ca0adb3902774e58d08be7e999556a598b",
+    "target_sha256": "547d4b41f35a174b2731cc7acb6047ca0adb3902774e58d08be7e999556a598b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/analysis_driver.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/analysis_driver.py",
+    "source_sha256": "e3588bc9ad3e97528f5427acfb779575fd91f0213368f00a2cff47b2beaecbef",
+    "target_sha256": "e3588bc9ad3e97528f5427acfb779575fd91f0213368f00a2cff47b2beaecbef",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/audit_field_interpolation.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/audit_field_interpolation.py",
+    "source_sha256": "bc3262642fa8dbb96724c7074b24c28ab71a14f496312151589d3a0a85634c5c",
+    "target_sha256": "bc3262642fa8dbb96724c7074b24c28ab71a14f496312151589d3a0a85634c5c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/evaluate_blind.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/evaluate_blind.py",
+    "source_sha256": "474e2c0227f8cbc128adfccb2825001948fe6d8b0d620f581a26e556e311714f",
+    "target_sha256": "474e2c0227f8cbc128adfccb2825001948fe6d8b0d620f581a26e556e311714f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/experiment.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/experiment.py",
+    "source_sha256": "04cba491f87f8426d09c31ea5af21b5d875039fd994a8075f57529680e30e7f1",
+    "target_sha256": "04cba491f87f8426d09c31ea5af21b5d875039fd994a8075f57529680e30e7f1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/make_report.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/make_report.py",
+    "source_sha256": "4b7983e8a238df5bbe92f538a86e6dfdcc92dfb0d847b55ec053fff20ded0080",
+    "target_sha256": "4b7983e8a238df5bbe92f538a86e6dfdcc92dfb0d847b55ec053fff20ded0080",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/report_driver.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/report_driver.py",
+    "source_sha256": "46e9b459f6e9342ba82cdc7316f1ec10777918e1e65d736d5403abcfac2e1579",
+    "target_sha256": "46e9b459f6e9342ba82cdc7316f1ec10777918e1e65d736d5403abcfac2e1579",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/verify_fine.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/verify_fine.py",
+    "source_sha256": "e3c269783c7818837e9c0ad4a016236485587f2352fd9d76aca9e9d07e1ac9db",
+    "target_sha256": "e3c269783c7818837e9c0ad4a016236485587f2352fd9d76aca9e9d07e1ac9db",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/verify_independent.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/verify_independent.py",
+    "source_sha256": "0d37bd30161b138fcff78f660da27fd4bcc12c97fa2dc488d04b7923319fb769",
+    "target_sha256": "0d37bd30161b138fcff78f660da27fd4bcc12c97fa2dc488d04b7923319fb769",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/verify_normalization.py",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/verify_normalization.py",
+    "source_sha256": "35b14b5f9b224a09765c0a88a83b6561b67ee8015937ea8e582283d8ced29533",
+    "target_sha256": "35b14b5f9b224a09765c0a88a83b6561b67ee8015937ea8e582283d8ced29533",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/PROTOCOL.md",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/PROTOCOL.md",
+    "source_sha256": "33ddf77659b8f9434d22d980653dce96385cbfabda9ac8d6b16a24a36318b32b",
+    "target_sha256": "33ddf77659b8f9434d22d980653dce96385cbfabda9ac8d6b16a24a36318b32b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_blind_local_phase_2026-11-15/config.json",
+    "target": "historical_source/research_sbend_blind_local_phase_2026-11-15/config.json",
+    "source_sha256": "0707893ab42275ea2b6ae59cbc203340e4dff789a708771c45622f2402991363",
+    "target_sha256": "0707893ab42275ea2b6ae59cbc203340e4dff789a708771c45622f2402991363",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/analysis_driver.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/analysis_driver.py",
+    "source_sha256": "3a438d49c7c787405c1f4296956f19a974a758bb05d059b9c3197dd67408ea71",
+    "target_sha256": "3a438d49c7c787405c1f4296956f19a974a758bb05d059b9c3197dd67408ea71",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/analyze.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/analyze.py",
+    "source_sha256": "0b84918fb10ae999afad62a97483b096b184a8123889a3e3fa304e7fea181657",
+    "target_sha256": "0b84918fb10ae999afad62a97483b096b184a8123889a3e3fa304e7fea181657",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/attribution.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/attribution.py",
+    "source_sha256": "cd3b5ad60ff2175450c63796bb7b6b7613cf385b04eacf29cb785b1f73d279cb",
+    "target_sha256": "cd3b5ad60ff2175450c63796bb7b6b7613cf385b04eacf29cb785b1f73d279cb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/conditional80.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/conditional80.py",
+    "source_sha256": "3417f3d356fc770bd9269057de61b3c849def51d7df73ca0ec18d4820961f89e",
+    "target_sha256": "3417f3d356fc770bd9269057de61b3c849def51d7df73ca0ec18d4820961f89e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/experiment.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/experiment.py",
+    "source_sha256": "fd27f182c3d998d00bf0d8a2726d4df1ac18f50ab9086421d98e8166c3ed0241",
+    "target_sha256": "fd27f182c3d998d00bf0d8a2726d4df1ac18f50ab9086421d98e8166c3ed0241",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/experiment_initial_frozen.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/experiment_initial_frozen.py",
+    "source_sha256": "c09b930dfc7eaa73c215e72c9a56d5e9f4b8d62a230489ab6c064e65fafd8627",
+    "target_sha256": "c09b930dfc7eaa73c215e72c9a56d5e9f4b8d62a230489ab6c064e65fafd8627",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/make_report.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/make_report.py",
+    "source_sha256": "33198fa4d2a37dd5c5ecb5393fd5bf93339e0c14c2cc88d83650a9612bfe142b",
+    "target_sha256": "33198fa4d2a37dd5c5ecb5393fd5bf93339e0c14c2cc88d83650a9612bfe142b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/mode_shapes.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/mode_shapes.py",
+    "source_sha256": "a2a0fb383d9799c764bc091c7dcc7fded00223a36aa7126bd60de7b6534cbd2d",
+    "target_sha256": "a2a0fb383d9799c764bc091c7dcc7fded00223a36aa7126bd60de7b6534cbd2d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/mpb_domain.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/mpb_domain.py",
+    "source_sha256": "4318a7a61ff7a1eae9ebc9636eeea19e4a6a6a24cb1534612921c48656e9c0b1",
+    "target_sha256": "4318a7a61ff7a1eae9ebc9636eeea19e4a6a6a24cb1534612921c48656e9c0b1",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/report_driver.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/report_driver.py",
+    "source_sha256": "513087dfd3180c7b00ff84eb7e3b4f9ca5d4b791810f63264a42cc67537aac60",
+    "target_sha256": "513087dfd3180c7b00ff84eb7e3b4f9ca5d4b791810f63264a42cc67537aac60",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/resume.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/resume.py",
+    "source_sha256": "99b75b85b0b95e15b15cb582fd59952f501447b85513062c6c5ecd6049be3600",
+    "target_sha256": "99b75b85b0b95e15b15cb582fd59952f501447b85513062c6c5ecd6049be3600",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/seam_association.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/seam_association.py",
+    "source_sha256": "60313732c34b1549b230daa649658782d048a960603951d4baa331902bf38c10",
+    "target_sha256": "60313732c34b1549b230daa649658782d048a960603951d4baa331902bf38c10",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/validate_strict.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/validate_strict.py",
+    "source_sha256": "3abcf85397becb28386269cd79fc64189ef8fd94f8e5567debe50f7c2e32cd35",
+    "target_sha256": "3abcf85397becb28386269cd79fc64189ef8fd94f8e5567debe50f7c2e32cd35",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/verify_beta.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/verify_beta.py",
+    "source_sha256": "9babbb81e98daa23053f674072339c424ceedb50223879499a96c1e7fe81b1d6",
+    "target_sha256": "9babbb81e98daa23053f674072339c424ceedb50223879499a96c1e7fe81b1d6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/verify_decomposition.py",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/verify_decomposition.py",
+    "source_sha256": "3c190fc49835a26cc8331543cd7c7973f93eae45f3d379ae88098dd7f701bd66",
+    "target_sha256": "3c190fc49835a26cc8331543cd7c7973f93eae45f3d379ae88098dd7f701bd66",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/PROTOCOL.md",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/PROTOCOL.md",
+    "source_sha256": "cf73fa6dd7b4c440c5a2d0320cbc3272e764bf8444a80c7bb7f92512fcd14d9a",
+    "target_sha256": "cf73fa6dd7b4c440c5a2d0320cbc3272e764bf8444a80c7bb7f92512fcd14d9a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_fdtd_phase_error_decomposition_2026-11-15/config.json",
+    "target": "historical_source/research_fdtd_phase_error_decomposition_2026-11-15/config.json",
+    "source_sha256": "c075432102591d053deffcdb5bc4da5517ebfbd0fbae3fd60206a8ca5dbe0931",
+    "target_sha256": "c075432102591d053deffcdb5bc4da5517ebfbd0fbae3fd60206a8ca5dbe0931",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/analyze.py",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/analyze.py",
+    "source_sha256": "874ef0694a52ba7eee5d546e7293c9659f479e4ec120390b6d58406a62b82f25",
+    "target_sha256": "874ef0694a52ba7eee5d546e7293c9659f479e4ec120390b6d58406a62b82f25",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/continue.py",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/continue.py",
+    "source_sha256": "97a3ce1d515673efa33993f243d0b4a04f6f1d82f2971ef608aa7153f0b9e394",
+    "target_sha256": "97a3ce1d515673efa33993f243d0b4a04f6f1d82f2971ef608aa7153f0b9e394",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/experiment.py",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/experiment.py",
+    "source_sha256": "c3bcb101cfe6c72b15a760c23a202ae64235707b6b2e07f7ae75e509f5bbc6ca",
+    "target_sha256": "c3bcb101cfe6c72b15a760c23a202ae64235707b6b2e07f7ae75e509f5bbc6ca",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/package.py",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/package.py",
+    "source_sha256": "11f86856462d011f5cff11957fed026299b7953865a5dd844d8d1544721345dd",
+    "target_sha256": "11f86856462d011f5cff11957fed026299b7953865a5dd844d8d1544721345dd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/postprocess.py",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/postprocess.py",
+    "source_sha256": "d15cbf70d392ba59cebd463c5b78dff1246e732b7ffd9fca586f937f7f3a2954",
+    "target_sha256": "d15cbf70d392ba59cebd463c5b78dff1246e732b7ffd9fca586f937f7f3a2954",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/resume.py",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/resume.py",
+    "source_sha256": "536fb4d59952e4943173a8b903dedf1d51fd3cbbf0ec04dc0ec448f6553f4ff9",
+    "target_sha256": "536fb4d59952e4943173a8b903dedf1d51fd3cbbf0ec04dc0ec448f6553f4ff9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/PROTOCOL.md",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/PROTOCOL.md",
+    "source_sha256": "1a87b8c5420660820f5004a3a54d0738e1722b466847220673ba94635ce554c2",
+    "target_sha256": "1a87b8c5420660820f5004a3a54d0738e1722b466847220673ba94635ce554c2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sinusoidal_transfer_2026-11-16/config.json",
+    "target": "historical_source/research_sinusoidal_transfer_2026-11-16/config.json",
+    "source_sha256": "f32e073d04f3cf96d74438613eea7736ee84f305e9b9e6e8d91e71dfe6672c41",
+    "target_sha256": "f32e073d04f3cf96d74438613eea7736ee84f305e9b9e6e8d91e71dfe6672c41",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/common.py",
+    "target": "historical_source/research_sbend_path/common.py",
+    "source_sha256": "e03390ac7baffc1543c46a0ad189eec69f83f7b9333af367751e2d98b03f7ccf",
+    "target_sha256": "e03390ac7baffc1543c46a0ad189eec69f83f7b9333af367751e2d98b03f7ccf",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/diagnose.py",
+    "target": "historical_source/research_sbend_path/diagnose.py",
+    "source_sha256": "ffe289d550917adb797f51a5312bf2cb5924c3a97a8418fb9d80cb95f04b2ca7",
+    "target_sha256": "ffe289d550917adb797f51a5312bf2cb5924c3a97a8418fb9d80cb95f04b2ca7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/freeze.py",
+    "target": "historical_source/research_sbend_path/freeze.py",
+    "source_sha256": "3db2a8e839d101243a5a48e4364e97b45cee5957df05fcea5a6a823ddc97b508",
+    "target_sha256": "3db2a8e839d101243a5a48e4364e97b45cee5957df05fcea5a6a823ddc97b508",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/local_failure_analysis.py",
+    "target": "historical_source/research_sbend_path/local_failure_analysis.py",
+    "source_sha256": "64264bc04e36f5aaa50331ee25d1fc435eb48023bc6307a94d13ccd5721bd9db",
+    "target_sha256": "64264bc04e36f5aaa50331ee25d1fc435eb48023bc6307a94d13ccd5721bd9db",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/make_report.py",
+    "target": "historical_source/research_sbend_path/make_report.py",
+    "source_sha256": "66d6eb74e41e7f70fc6da15dd6b50b60543d03c7300e2907004bbe24feba62f4",
+    "target_sha256": "66d6eb74e41e7f70fc6da15dd6b50b60543d03c7300e2907004bbe24feba62f4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/path_geometry.py",
+    "target": "historical_source/research_sbend_path/path_geometry.py",
+    "source_sha256": "7bd5ee66b6fd6f0d3cd4fce84462a85c009b4ca776ffe62348723fa2f0fde861",
+    "target_sha256": "7bd5ee66b6fd6f0d3cd4fce84462a85c009b4ca776ffe62348723fa2f0fde861",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/plots.py",
+    "target": "historical_source/research_sbend_path/plots.py",
+    "source_sha256": "fcfff40e6bc638cdbdb1bd392128a57d3159239eaafd1d1b0e11f713e05fe3dd",
+    "target_sha256": "fcfff40e6bc638cdbdb1bd392128a57d3159239eaafd1d1b0e11f713e05fe3dd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/supplement.py",
+    "target": "historical_source/research_sbend_path/supplement.py",
+    "source_sha256": "4ee45673cc5eeaeea34341287962f55e0d17c8661a0f25913dd790bd14c778f0",
+    "target_sha256": "4ee45673cc5eeaeea34341287962f55e0d17c8661a0f25913dd790bd14c778f0",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/verify_final.py",
+    "target": "historical_source/research_sbend_path/verify_final.py",
+    "source_sha256": "e3c12dfeeccf44c071c59d63bdcdc9cc5a5b15549e1da8b7f99f680e69debfe2",
+    "target_sha256": "e3c12dfeeccf44c071c59d63bdcdc9cc5a5b15549e1da8b7f99f680e69debfe2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/verify_geometry.py",
+    "target": "historical_source/research_sbend_path/verify_geometry.py",
+    "source_sha256": "48a0f81c0be962e6bade131ef44cd5397c8ae474e311611a12dca6dd0a2e552e",
+    "target_sha256": "48a0f81c0be962e6bade131ef44cd5397c8ae474e311611a12dca6dd0a2e552e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path/PROTOCOL.md",
+    "target": "historical_source/research_sbend_path/PROTOCOL.md",
+    "source_sha256": "13bee4c7368da2b0b44d9be46e05af658262f45dd18b39a0c9b8712bb67a0870",
+    "target_sha256": "13bee4c7368da2b0b44d9be46e05af658262f45dd18b39a0c9b8712bb67a0870",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/analyze.py",
+    "target": "historical_source/research_sbend_path_v2/analyze.py",
+    "source_sha256": "d891510a469701daa90ac81ce2479c43f65bee42af776f8340382bfc6884449d",
+    "target_sha256": "d891510a469701daa90ac81ce2479c43f65bee42af776f8340382bfc6884449d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/make_report.py",
+    "target": "historical_source/research_sbend_path_v2/make_report.py",
+    "source_sha256": "2e8256ddebf9ef6b1a11ceef57a057afe993a33229334178fa663dfe24d7d0a7",
+    "target_sha256": "2e8256ddebf9ef6b1a11ceef57a057afe993a33229334178fa663dfe24d7d0a7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/path_v2.py",
+    "target": "historical_source/research_sbend_path_v2/path_v2.py",
+    "source_sha256": "14c5a6c98617ce740d85cf52dcb45d20138f1a05e552ff2542f020c433672125",
+    "target_sha256": "14c5a6c98617ce740d85cf52dcb45d20138f1a05e552ff2542f020c433672125",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/plots.py",
+    "target": "historical_source/research_sbend_path_v2/plots.py",
+    "source_sha256": "bfac4cec59ec9f9b6c65e8782a37b939f8db636ef3ec63e2abd60a0ee5e60f17",
+    "target_sha256": "bfac4cec59ec9f9b6c65e8782a37b939f8db636ef3ec63e2abd60a0ee5e60f17",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/refine_geometry.py",
+    "target": "historical_source/research_sbend_path_v2/refine_geometry.py",
+    "source_sha256": "d0d70d97d68cd38a7d59aa74d0b7eff5babfa226fe0b99b26b26b3e219eaa98b",
+    "target_sha256": "d0d70d97d68cd38a7d59aa74d0b7eff5babfa226fe0b99b26b26b3e219eaa98b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/support.py",
+    "target": "historical_source/research_sbend_path_v2/support.py",
+    "source_sha256": "4fdbf992771655be9757d954b74d5f56b9d3a821480859f227f5fcbb8ac05d61",
+    "target_sha256": "4fdbf992771655be9757d954b74d5f56b9d3a821480859f227f5fcbb8ac05d61",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/verify_final.py",
+    "target": "historical_source/research_sbend_path_v2/verify_final.py",
+    "source_sha256": "03091f2ee8eae2e0488d8f9556821b83e77eb8922f47f56a0a2f4d7e676fba25",
+    "target_sha256": "03091f2ee8eae2e0488d8f9556821b83e77eb8922f47f56a0a2f4d7e676fba25",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_path_v2/PROTOCOL.md",
+    "target": "historical_source/research_sbend_path_v2/PROTOCOL.md",
+    "source_sha256": "d9217c6ca7631575ba540a1e71d1205ac1cae01e318d9649095c090736b5f1a9",
+    "target_sha256": "d9217c6ca7631575ba540a1e71d1205ac1cae01e318d9649095c090736b5f1a9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/analyze.py",
+    "target": "historical_source/research_sbend_local_phase_2026-11-15/analyze.py",
+    "source_sha256": "58ebfdf4c91e50cdbe8c05990080741ecc40ff6d04a0676adc0915b6dc5f47e5",
+    "target_sha256": "58ebfdf4c91e50cdbe8c05990080741ecc40ff6d04a0676adc0915b6dc5f47e5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/audit_normal_pairs.py",
+    "target": "historical_source/research_sbend_local_phase_2026-11-15/audit_normal_pairs.py",
+    "source_sha256": "b0c511f58cf901018d7da0a29f116e9a3808635ac3407f02e392f878afc2cfbd",
+    "target_sha256": "b0c511f58cf901018d7da0a29f116e9a3808635ac3407f02e392f878afc2cfbd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/make_report.py",
+    "target": "historical_source/research_sbend_local_phase_2026-11-15/make_report.py",
+    "source_sha256": "a15f0af617d5880ffd164df761e2bd994a1b5389b1f434ca4d72a8c0a65de91b",
+    "target_sha256": "a15f0af617d5880ffd164df761e2bd994a1b5389b1f434ca4d72a8c0a65de91b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/resume_summary.py",
+    "target": "historical_source/research_sbend_local_phase_2026-11-15/resume_summary.py",
+    "source_sha256": "6031617814a30f76180cec477f475f73dd9758887b9e7e9e17dd779cc4336a83",
+    "target_sha256": "6031617814a30f76180cec477f475f73dd9758887b9e7e9e17dd779cc4336a83",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/PROTOCOL.md",
+    "target": "historical_source/research_sbend_local_phase_2026-11-15/PROTOCOL.md",
+    "source_sha256": "2f9e828996a65ce0708dab63c983d19af57574dc7bf564562826c76327d678e9",
+    "target_sha256": "2f9e828996a65ce0708dab63c983d19af57574dc7bf564562826c76327d678e9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_local_phase_2026-11-15/config.json",
+    "target": "historical_source/research_sbend_local_phase_2026-11-15/config.json",
+    "source_sha256": "e220b5e4dc29a13eb7d151a68c9d05cac991f5730cc4d782a23593ae4ecaddf8",
+    "target_sha256": "e220b5e4dc29a13eb7d151a68c9d05cac991f5730cc4d782a23593ae4ecaddf8",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_optical_audit/audit.py",
+    "target": "historical_source/research_sbend_optical_audit/audit.py",
+    "source_sha256": "20a6a8a66c733433ad5eb1d59f09c152db8c03b5cec42ff29b6789d1f2e72df3",
+    "target_sha256": "20a6a8a66c733433ad5eb1d59f09c152db8c03b5cec42ff29b6789d1f2e72df3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_optical_audit/audit_v2.py",
+    "target": "historical_source/research_sbend_optical_audit/audit_v2.py",
+    "source_sha256": "1e7161bbc4d0f5408c1b9da5ef413f15f3071d50b030b38fadfd8d0dbab9acc5",
+    "target_sha256": "1e7161bbc4d0f5408c1b9da5ef413f15f3071d50b030b38fadfd8d0dbab9acc5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_optical_audit/audit_v3.py",
+    "target": "historical_source/research_sbend_optical_audit/audit_v3.py",
+    "source_sha256": "351f763e1a2cd7fc1cdb9e5358b8bb925dc5e4b6242ae1c21a6c2abc72f8a822",
+    "target_sha256": "351f763e1a2cd7fc1cdb9e5358b8bb925dc5e4b6242ae1c21a6c2abc72f8a822",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_optical_audit/PROTOCOL.md",
+    "target": "historical_source/research_sbend_optical_audit/PROTOCOL.md",
+    "source_sha256": "216f8696a23d7a3fe6396e549a3ceeb85bcb3a6ba54ad1eb4507511d29052144",
+    "target_sha256": "216f8696a23d7a3fe6396e549a3ceeb85bcb3a6ba54ad1eb4507511d29052144",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/analyze_phase.py",
+    "target": "historical_source/research_phase_theory/analyze_phase.py",
+    "source_sha256": "0b4b522ac58e9374998e7d547ef72ebefab76c4d3e5b60ac53639d329e92593b",
+    "target_sha256": "0b4b522ac58e9374998e7d547ef72ebefab76c4d3e5b60ac53639d329e92593b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/build_report.py",
+    "target": "historical_source/research_phase_theory/build_report.py",
+    "source_sha256": "965c8f48cb79f874195a727db9fb7b193891f0004376f74ae8a338904b7aae55",
+    "target_sha256": "965c8f48cb79f874195a727db9fb7b193891f0004376f74ae8a338904b7aae55",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/finalize.py",
+    "target": "historical_source/research_phase_theory/finalize.py",
+    "source_sha256": "ef100fd51b2a1b63602d180c6b50641e0eaf09665086a4274f9ec008f2f9f5cf",
+    "target_sha256": "ef100fd51b2a1b63602d180c6b50641e0eaf09665086a4274f9ec008f2f9f5cf",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/modal_feasibility.py",
+    "target": "historical_source/research_phase_theory/modal_feasibility.py",
+    "source_sha256": "6bbcae235e0b62b72fd82cd71fb8111a0356aa5c8d065ce8f4b0b7466f796895",
+    "target_sha256": "6bbcae235e0b62b72fd82cd71fb8111a0356aa5c8d065ce8f4b0b7466f796895",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/replay.py",
+    "target": "historical_source/research_phase_theory/replay.py",
+    "source_sha256": "b049fb6f45b2159005a00e35277db38f9ece4c810af3bebf5f89975f1f63fcb7",
+    "target_sha256": "b049fb6f45b2159005a00e35277db38f9ece4c810af3bebf5f89975f1f63fcb7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/summarize_and_plot.py",
+    "target": "historical_source/research_phase_theory/summarize_and_plot.py",
+    "source_sha256": "0acc735c014967a8dcb3f442f546003e5dbff984f3485eeb26f4bd0db68f46d6",
+    "target_sha256": "0acc735c014967a8dcb3f442f546003e5dbff984f3485eeb26f4bd0db68f46d6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_phase_theory/analysis_config.json",
+    "target": "historical_source/research_phase_theory/analysis_config.json",
+    "source_sha256": "93a1b119ddf6976ad1962f971294eacd5a1a542e8a28e2a25125a07c92f15a7a",
+    "target_sha256": "93a1b119ddf6976ad1962f971294eacd5a1a542e8a28e2a25125a07c92f15a7a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_ybranch_branch_tangent_seed2026/pilot.py",
+    "target": "historical_source/research_ybranch_branch_tangent_seed2026/pilot.py",
+    "source_sha256": "fc36ac03aa8717c34d039ffd98472c59e3d7c6d8ece0c83f877e7fd1137fced9",
+    "target_sha256": "fc36ac03aa8717c34d039ffd98472c59e3d7c6d8ece0c83f877e7fd1137fced9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_ybranch_branch_tangent_seed2026/verify_saved.py",
+    "target": "historical_source/research_ybranch_branch_tangent_seed2026/verify_saved.py",
+    "source_sha256": "4c8b238719394c234d3bff324532c17b29757132265e9712d3593225f72528af",
+    "target_sha256": "4c8b238719394c234d3bff324532c17b29757132265e9712d3593225f72528af",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_ybranch_branch_tangent_seed2026/PROTOCOL.md",
+    "target": "historical_source/research_ybranch_branch_tangent_seed2026/PROTOCOL.md",
+    "source_sha256": "b2c4968f9b8f31abd801b33d7815cdf906643afe3cc0b826872ecbb2c2f8017b",
+    "target_sha256": "b2c4968f9b8f31abd801b33d7815cdf906643afe3cc0b826872ecbb2c2f8017b",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_ybranch_diagnostics/diagnose.py",
+    "target": "historical_source/research_ybranch_diagnostics/diagnose.py",
+    "source_sha256": "7599062124cc52975483bfe256ac1155e28579161d86dee05d56bb2c1d7fe495",
+    "target_sha256": "7599062124cc52975483bfe256ac1155e28579161d86dee05d56bb2c1d7fe495",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_ybranch_diagnostics/PROTOCOL.md",
+    "target": "historical_source/research_ybranch_diagnostics/PROTOCOL.md",
+    "source_sha256": "9543db8485a060b0b68389491036deb7c36ad7b32733ef47f0ee69221bba98be",
+    "target_sha256": "9543db8485a060b0b68389491036deb7c36ad7b32733ef47f0ee69221bba98be",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e3_2400/make_report.py",
+    "target": "historical_source/research_e3_2400/make_report.py",
+    "source_sha256": "3b477f27391d9deb4a25719c3a75590d6ed72fe5545d35780c247ab08fa1eb42",
+    "target_sha256": "3b477f27391d9deb4a25719c3a75590d6ed72fe5545d35780c247ab08fa1eb42",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e3_2400/train.py",
+    "target": "historical_source/research_e3_2400/train.py",
+    "source_sha256": "f04e3aea9e19d88ffb9fdd01abe490b0979ae7321b8d0c948ec6cc72883db890",
+    "target_sha256": "f04e3aea9e19d88ffb9fdd01abe490b0979ae7321b8d0c948ec6cc72883db890",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e3_2400/verify_results.py",
+    "target": "historical_source/research_e3_2400/verify_results.py",
+    "source_sha256": "e15568b91de8e8180aa7399f84c470a2b5a1ebdb076ce6bc256b789958393709",
+    "target_sha256": "e15568b91de8e8180aa7399f84c470a2b5a1ebdb076ce6bc256b789958393709",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e3_2400/PROTOCOL.md",
+    "target": "historical_source/research_e3_2400/PROTOCOL.md",
+    "source_sha256": "c16deed1daced60b932d84e457296b164fd94690f09a160ce40f017d1601811d",
+    "target_sha256": "c16deed1daced60b932d84e457296b164fd94690f09a160ce40f017d1601811d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e1/make_report.py",
+    "target": "historical_source/research_e1/make_report.py",
+    "source_sha256": "4d6b1a4d8d34236627d1349c224ff9c9ba1568e81432b9657aa75badfdfe9d16",
+    "target_sha256": "4d6b1a4d8d34236627d1349c224ff9c9ba1568e81432b9657aa75badfdfe9d16",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e1/run_linear.py",
+    "target": "historical_source/research_e1/run_linear.py",
+    "source_sha256": "029a1b97df668bcc786a5a20f444ffb0f811ef225506fde0ec0bdac918a5f01f",
+    "target_sha256": "029a1b97df668bcc786a5a20f444ffb0f811ef225506fde0ec0bdac918a5f01f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e1/verify_interface.py",
+    "target": "historical_source/research_e1/verify_interface.py",
+    "source_sha256": "ca48c624fe937966af4b55220de72f61ea84c4106ef49c757e08643997a5e198",
+    "target_sha256": "ca48c624fe937966af4b55220de72f61ea84c4106ef49c757e08643997a5e198",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e1/verify_results.py",
+    "target": "historical_source/research_e1/verify_results.py",
+    "source_sha256": "ad096fb54708e26c8931e479837813e73e679bbb0e5f146935117b5675c96faa",
+    "target_sha256": "ad096fb54708e26c8931e479837813e73e679bbb0e5f146935117b5675c96faa",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_e1/PROTOCOL.md",
+    "target": "historical_source/research_e1/PROTOCOL.md",
+    "source_sha256": "4ba791ede62862f4da33a39f5c3335d9f5c13f1cedaa5b7341048aa64c427a1c",
+    "target_sha256": "4ba791ede62862f4da33a39f5c3335d9f5c13f1cedaa5b7341048aa64c427a1c",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/audit_data.py",
+    "target": "historical_source/research_v3/audit_data.py",
+    "source_sha256": "e2613358480ec6ec4c2bfbd9607e4ab6d49ae830d56bf13223fd9f811ae65905",
+    "target_sha256": "e2613358480ec6ec4c2bfbd9607e4ab6d49ae830d56bf13223fd9f811ae65905",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/diagnostics.py",
+    "target": "historical_source/research_v3/diagnostics.py",
+    "source_sha256": "6bef450f3d51bfdfb8af001e30f1ee3f03b0c431a5033fa71b9d32e78fcc3a0a",
+    "target_sha256": "6bef450f3d51bfdfb8af001e30f1ee3f03b0c431a5033fa71b9d32e78fcc3a0a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/evaluate_exposure.py",
+    "target": "historical_source/research_v3/evaluate_exposure.py",
+    "source_sha256": "246ca567ada33bfe78a953bf83356423ed39e4e55a131a4da4c81557e1aa825e",
+    "target_sha256": "246ca567ada33bfe78a953bf83356423ed39e4e55a131a4da4c81557e1aa825e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/evaluate_fresh.py",
+    "target": "historical_source/research_v3/evaluate_fresh.py",
+    "source_sha256": "af6ad5b34e312352586756776531d90beb7ee38db6d2855cdcaa9f1878580dc5",
+    "target_sha256": "af6ad5b34e312352586756776531d90beb7ee38db6d2855cdcaa9f1878580dc5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/experiment.py",
+    "target": "historical_source/research_v3/experiment.py",
+    "source_sha256": "c4570b15d002b58901bebaaf1d32bddc09a95a39321a2e6f8fbde5ff63ebf8c9",
+    "target_sha256": "c4570b15d002b58901bebaaf1d32bddc09a95a39321a2e6f8fbde5ff63ebf8c9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/local_pool.py",
+    "target": "historical_source/research_v3/local_pool.py",
+    "source_sha256": "3af6c1c1fd201ff2cafc6333f7e895b1e142ec3959fc8bef0eb545099d60a873",
+    "target_sha256": "3af6c1c1fd201ff2cafc6333f7e895b1e142ec3959fc8bef0eb545099d60a873",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/make_report.py",
+    "target": "historical_source/research_v3/make_report.py",
+    "source_sha256": "f878701d6a515537ddfddc59190223995a27234cd31aaef435dff2082f01e8bb",
+    "target_sha256": "f878701d6a515537ddfddc59190223995a27234cd31aaef435dff2082f01e8bb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/prepare_fresh.py",
+    "target": "historical_source/research_v3/prepare_fresh.py",
+    "source_sha256": "535e2ef1b22ff547f00a32595300378b76f1cf15e647c798d33a9250320da364",
+    "target_sha256": "535e2ef1b22ff547f00a32595300378b76f1cf15e647c798d33a9250320da364",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/run_exposure.py",
+    "target": "historical_source/research_v3/run_exposure.py",
+    "source_sha256": "1bf415250c5bdd1750504c88d0b7b4cee7325db9d16bad625c6d2462dc6bee9a",
+    "target_sha256": "1bf415250c5bdd1750504c88d0b7b4cee7325db9d16bad625c6d2462dc6bee9a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/run_suite.py",
+    "target": "historical_source/research_v3/run_suite.py",
+    "source_sha256": "1f1e0e069fb3ba61ac7c481502ba7532b22c485d5b100386e30a4a14682db2bd",
+    "target_sha256": "1f1e0e069fb3ba61ac7c481502ba7532b22c485d5b100386e30a4a14682db2bd",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/verify_results.py",
+    "target": "historical_source/research_v3/verify_results.py",
+    "source_sha256": "041921452f1a9710fdef761f5771e6ed05f32e07d52fc87aa149f6adbe10e2ce",
+    "target_sha256": "041921452f1a9710fdef761f5771e6ed05f32e07d52fc87aa149f6adbe10e2ce",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v3/PROTOCOL.md",
+    "target": "historical_source/research_v3/PROTOCOL.md",
+    "source_sha256": "ce434a7a660e51b223bb57ac3b4d1f3b2ec7b79de715ea80be76786cb36156b5",
+    "target_sha256": "ce434a7a660e51b223bb57ac3b4d1f3b2ec7b79de715ea80be76786cb36156b5",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/fourier_full.py",
+    "target": "historical_source/research_v5/fourier_full.py",
+    "source_sha256": "8058987180650830dce0b3efb658119c10b27b1d648e3a7f431c1c86c5c95d40",
+    "target_sha256": "8058987180650830dce0b3efb658119c10b27b1d648e3a7f431c1c86c5c95d40",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/make_report.py",
+    "target": "historical_source/research_v5/make_report.py",
+    "source_sha256": "54be5bc8f11b604d28bd52dd4ad1287452aa9ddf819f37370e831255bb55eac7",
+    "target_sha256": "54be5bc8f11b604d28bd52dd4ad1287452aa9ddf819f37370e831255bb55eac7",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/progress.py",
+    "target": "historical_source/research_v5/progress.py",
+    "source_sha256": "e5674dd7787377e6c4be0365847eb75a6ac899cdd4629f1d51ec79d23699ff5d",
+    "target_sha256": "e5674dd7787377e6c4be0365847eb75a6ac899cdd4629f1d51ec79d23699ff5d",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/spectral_diagnostic.py",
+    "target": "historical_source/research_v5/spectral_diagnostic.py",
+    "source_sha256": "4b78f2566d72a4d72fe200383bbb0931aa5577730b64e89d2fd16e6fa20ec343",
+    "target_sha256": "4b78f2566d72a4d72fe200383bbb0931aa5577730b64e89d2fd16e6fa20ec343",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/verify_interface.py",
+    "target": "historical_source/research_v5/verify_interface.py",
+    "source_sha256": "d26a1500bd423e80efa19b83a0f51b64cbfdce1eacd06cfe46c6a20c1e2e31ab",
+    "target_sha256": "d26a1500bd423e80efa19b83a0f51b64cbfdce1eacd06cfe46c6a20c1e2e31ab",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/verify_results.py",
+    "target": "historical_source/research_v5/verify_results.py",
+    "source_sha256": "98af4a1d3d191898600eddc8aef088346558b2e6e1f53c6e30c1825f5f97a1c2",
+    "target_sha256": "98af4a1d3d191898600eddc8aef088346558b2e6e1f53c6e30c1825f5f97a1c2",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_v5/PROTOCOL.md",
+    "target": "historical_source/research_v5/PROTOCOL.md",
+    "source_sha256": "17c6e2d0aeca677b1535287a3fe56152f20b142eed765419ac92238c357239a9",
+    "target_sha256": "17c6e2d0aeca677b1535287a3fe56152f20b142eed765419ac92238c357239a9",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_official_audit/audit_materials.py",
+    "target": "historical_source/research_official_audit/audit_materials.py",
+    "source_sha256": "fb7a02788414fbd6be078dc85b28d4643bb0397215241b1b969ccf9dff3917af",
+    "target_sha256": "fb7a02788414fbd6be078dc85b28d4643bb0397215241b1b969ccf9dff3917af",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_official_audit/check_numeric_invariants.py",
+    "target": "historical_source/research_official_audit/check_numeric_invariants.py",
+    "source_sha256": "d7a9a4bae3c0a5d608139357f43d616362799c3a7260a75985d0cfad7e8ca20f",
+    "target_sha256": "d7a9a4bae3c0a5d608139357f43d616362799c3a7260a75985d0cfad7e8ca20f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_official_audit/prepare_sbend_geometry.py",
+    "target": "historical_source/research_official_audit/prepare_sbend_geometry.py",
+    "source_sha256": "ad25e8ab9ce09497d2b4f08ae84c8ad391e810dfb2c509057d93da4c12b17a24",
+    "target_sha256": "ad25e8ab9ce09497d2b4f08ae84c8ad391e810dfb2c509057d93da4c12b17a24",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_official_audit/validate_sparams.py",
+    "target": "historical_source/research_official_audit/validate_sparams.py",
+    "source_sha256": "aa3cb42c75f8df792783464fcf77321525f7b708923c62d6284c57cb5d12b361",
+    "target_sha256": "aa3cb42c75f8df792783464fcf77321525f7b708923c62d6284c57cb5d12b361",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_official_audit/verify_audit.py",
+    "target": "historical_source/research_official_audit/verify_audit.py",
+    "source_sha256": "372ed6da13ea651f4d6181d8a8524a0fea551cbef3e6011983bbb7f7fde94ecb",
+    "target_sha256": "372ed6da13ea651f4d6181d8a8524a0fea551cbef3e6011983bbb7f7fde94ecb",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed42/run_seed42.py",
+    "target": "historical_source/research_sbend_fourmethod_5seed/seed42/run_seed42.py",
+    "source_sha256": "2802e9b6fb71741d8172baee8c97265a464abb70a3fba2675165d744bf410317",
+    "target_sha256": "2802e9b6fb71741d8172baee8c97265a464abb70a3fba2675165d744bf410317",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed42/verify_saved.py",
+    "target": "historical_source/research_sbend_fourmethod_5seed/seed42/verify_saved.py",
+    "source_sha256": "af56e3b35fac61f5368bba703fe999531877278b12c7ed92e4fc01c111289811",
+    "target_sha256": "af56e3b35fac61f5368bba703fe999531877278b12c7ed92e4fc01c111289811",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed2027/run_seed2027.py",
+    "target": "historical_source/research_sbend_fourmethod_5seed/seed2027/run_seed2027.py",
+    "source_sha256": "ea71f63137bd6e469a1f83913d341e70fcaf97c096a19411859809f51e662bd3",
+    "target_sha256": "ea71f63137bd6e469a1f83913d341e70fcaf97c096a19411859809f51e662bd3",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed2027/verify_saved.py",
+    "target": "historical_source/research_sbend_fourmethod_5seed/seed2027/verify_saved.py",
+    "source_sha256": "395cf673d33855c87d3df27b63b0013b9d912074ca1e201291eab25f3ac5723f",
+    "target_sha256": "395cf673d33855c87d3df27b63b0013b9d912074ca1e201291eab25f3ac5723f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed42/runs/linear/best.pt",
+    "target": "assets/checkpoints/seed42/linear/best.pt",
+    "source_sha256": "fd60a56bafd8a6b256caab9c8c2f28e607f737c1ba8349f7c0558f61ff0416ca",
+    "target_sha256": "fd60a56bafd8a6b256caab9c8c2f28e607f737c1ba8349f7c0558f61ff0416ca",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed42/runs/arc_only/best.pt",
+    "target": "assets/checkpoints/seed42/arc_only/best.pt",
+    "source_sha256": "a87b3ad115f12109e3ec5b5f9ac46533e16b2c7c60f5f8eb6a347c10eeb199ad",
+    "target_sha256": "a87b3ad115f12109e3ec5b5f9ac46533e16b2c7c60f5f8eb6a347c10eeb199ad",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed42/runs/local_tangent/best.pt",
+    "target": "assets/checkpoints/seed42/local_tangent/best.pt",
+    "source_sha256": "794199b59f7766b303426706060d6071af07c1d198c6e29fc084c61318a80eb6",
+    "target_sha256": "794199b59f7766b303426706060d6071af07c1d198c6e29fc084c61318a80eb6",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed42/runs/path_v2/best.pt",
+    "target": "assets/checkpoints/seed42/path_v2/best.pt",
+    "source_sha256": "c3de30a2c0cd72b9c6f48d09bd206284a04ba48c622dd9620fb4d63f656ccc76",
+    "target_sha256": "c3de30a2c0cd72b9c6f48d09bd206284a04ba48c622dd9620fb4d63f656ccc76",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/runs/linear/best.pt",
+    "target": "assets/checkpoints/seed2026/linear/best.pt",
+    "source_sha256": "e6f985cf27fda2fdb2b2cf5dd0bea569b7cc0b0e589ba6e0a3e28f749c628176",
+    "target_sha256": "e6f985cf27fda2fdb2b2cf5dd0bea569b7cc0b0e589ba6e0a3e28f749c628176",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/runs/arc_only/best.pt",
+    "target": "assets/checkpoints/seed2026/arc_only/best.pt",
+    "source_sha256": "5a19ba7a7bbf198694e9b858afd63c4d0e5fc693b3fea68182c06a7b8cc2b884",
+    "target_sha256": "5a19ba7a7bbf198694e9b858afd63c4d0e5fc693b3fea68182c06a7b8cc2b884",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/runs/local_tangent/best.pt",
+    "target": "assets/checkpoints/seed2026/local_tangent/best.pt",
+    "source_sha256": "c651ba9fdf2dc4a401ee156b0b9334e901aadda9d9b9262446c25acbddfec296",
+    "target_sha256": "c651ba9fdf2dc4a401ee156b0b9334e901aadda9d9b9262446c25acbddfec296",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_formal/runs/path_v2/best.pt",
+    "target": "assets/checkpoints/seed2026/path_v2/best.pt",
+    "source_sha256": "e0b0d94d213b83bcd0de9eab74920dbbc940aa56596dd3037974e9d58efea23a",
+    "target_sha256": "e0b0d94d213b83bcd0de9eab74920dbbc940aa56596dd3037974e9d58efea23a",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed2027/runs/linear/best.pt",
+    "target": "assets/checkpoints/seed2027/linear/best.pt",
+    "source_sha256": "e71eabce663a2ff71ce5e65e0da183c33496d69ceadad304523e9961cd3fbdb4",
+    "target_sha256": "e71eabce663a2ff71ce5e65e0da183c33496d69ceadad304523e9961cd3fbdb4",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed2027/runs/arc_only/best.pt",
+    "target": "assets/checkpoints/seed2027/arc_only/best.pt",
+    "source_sha256": "c519386021ec6319179e4056aa79cccb464e26c485c779a868c49ee760c21c4f",
+    "target_sha256": "c519386021ec6319179e4056aa79cccb464e26c485c779a868c49ee760c21c4f",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed2027/runs/local_tangent/best.pt",
+    "target": "assets/checkpoints/seed2027/local_tangent/best.pt",
+    "source_sha256": "533c77bcbea93adc9d725eca12253235a0f23ce85dd0acfd7e0a2c096ba6a75e",
+    "target_sha256": "533c77bcbea93adc9d725eca12253235a0f23ce85dd0acfd7e0a2c096ba6a75e",
+    "note": "Copied without content changes"
+  },
+  {
+    "source": "research/research_sbend_fourmethod_5seed/seed2027/runs/path_v2/best.pt",
+    "target": "assets/checkpoints/seed2027/path_v2/best.pt",
+    "source_sha256": "d3a20d8719539c963dbc3e3d97ade45d92473d525efe517e461f685edf615d1e",
+    "target_sha256": "d3a20d8719539c963dbc3e3d97ade45d92473d525efe517e461f685edf615d1e",
+    "note": "Copied without content changes"
+  }
+]

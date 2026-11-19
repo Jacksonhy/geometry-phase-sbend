@@ -1,0 +1,12 @@
+{
+  "normal_truth30_40_mean_deg": 1.9789693116095834,
+  "incident_normalized_bend_truth30_40_mean_deg": 8.936666221129,
+  "mean_cubic_linear_pair_metric_difference_res40_deg": 0.0043201589591756835,
+  "normal_LT_minus_Arc_negative_every_seed_grid": true,
+  "bend_LT_minus_Arc_negative_every_seed_grid": false,
+  "normal_numerical_gate_025deg": false,
+  "bend_numerical_gate_05deg": false,
+  "interpolation_gate_01deg": true,
+  "gate_origin": "same diagnostic tolerances as prior72 study; supplementary audit, no automatic downstream application",
+  "continuum_certified": false
+}

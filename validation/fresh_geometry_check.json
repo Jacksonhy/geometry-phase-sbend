@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "scope": "One independent Euler geometry, fresh Meep time-zero input and seed2026 LocalTangent prediction; not a new all-72 bitwise claim",
+  "array_equal": {
+    "eps": true,
+    "src_mask": true,
+    "x_um": true,
+    "y_um": true,
+    "source_center_um": true,
+    "x": true,
+    "carrier_linear": true,
+    "carrier_arc_only": true,
+    "carrier_local_tangent": true,
+    "carrier_path_v2": true
+  },
+  "prediction_array_equal": false,
+  "prediction_max_absolute_difference": 0.007518634665757418,
+  "prediction_relative_l2_difference": 0.00016771908849477768,
+  "note": "Fresh single-query batch size 1 versus archived batch size 2; TF32/batch-dependent floating-point variation. Matching batch-size-2 metric checks are recorded separately.",
+  "FDTD_runs": 0,
+  "truth_fields_used_for_preparation": 0
+}
