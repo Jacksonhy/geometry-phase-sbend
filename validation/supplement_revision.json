@@ -1,0 +1,61 @@
+{
+  "existing_display_equations_unchanged": 9,
+  "existing_table_lines_unchanged": 212,
+  "inserted_csv_comparisons": 18,
+  "total_numbered_tables": 23,
+  "original_image_files_unchanged": 7,
+  "limiting_grid_results_retained": true,
+  "source_csv_sha256": "f7e1fee0b142a5bdf46deb37d80d5192fc6520d6f6258f9e4323a7968befc28b",
+  "pdf_pages": 19,
+  "pages_with_figures": [
+    11,
+    12,
+    13,
+    15
+  ],
+  "rendered_all_pages": true,
+  "characters_per_page": [
+    3467,
+    3823,
+    4178,
+    2361,
+    3230,
+    2187,
+    3079,
+    2724,
+    3295,
+    3427,
+    905,
+    583,
+    2361,
+    2132,
+    2304,
+    3841,
+    3575,
+    2878,
+    2011
+  ],
+  "all_23_table_captions_present": true,
+  "all_7_figure_captions_present": true,
+  "image_hashes_match_original": {
+    "paper/supplement_figures/S1_euler_real_fields.png": true,
+    "paper/supplement_figures/S2_euler_phase_errors.png": true,
+    "paper/supplement_figures/S3_euler_complex_errors.png": true,
+    "paper/supplement_figures/S4_fdtd_settings.png": true,
+    "paper/supplement_figures/S5_material_profiles.png": true,
+    "paper/supplement_figures/S6_reference_diagnostics.png": true,
+    "paper/supplement_figures/S7_sinusoidal_examples.png": true
+  },
+  "pdf_sha256": "96195ea7446e3fc76ea8529822c6d43a8f2ab36d18529030a7d9adc96ee463ca",
+  "visual_review": {
+    "all_19_pages_reviewed_in_contact_sheets": true,
+    "full_page_reviews": [
+      1,
+      19
+    ],
+    "result": "Passed: author metadata, declarations, formulas, tables, original images, captions and pagination inspected; no clipping or overlap observed."
+  },
+  "markdown_sha256": "2957afa298a2e6c8fe2c1db2ee1e90b4ef2cbcd4f83fa68a98ace85cfb6de702",
+  "local_pdf_matches_repository_copy": true,
+  "author_metadata_and_declarations_match_main_manuscript": true
+}

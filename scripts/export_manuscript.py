@@ -19,6 +19,8 @@ h1 { font-size: 19pt; text-align: center; line-height: 1.15; margin: 0 0 13pt; }
 h2 { font-size: 13pt; margin: 15pt 0 6pt; break-after: avoid; }
 h3 { font-size: 11.3pt; margin: 11pt 0 5pt; break-after: avoid; }
 p { margin: 6pt 0; orphans: 3; widows: 3; }
+.author-block { text-align: center; margin: 0 0 14pt; break-inside: avoid; }
+.author-block p { margin: 4pt 0; }
 img { display: block; max-width: 100%; max-height: 150mm; margin: 7pt auto; object-fit: contain; }
 figure { margin: 9pt 0 4pt; break-inside: avoid; }
 .figure-block, .table-block { break-inside: avoid; }
@@ -33,7 +35,7 @@ table+p { break-before: avoid; font-size: 9.5pt; }
 math { font-family: "Cambria Math", "STIX Two Math", math; }
 math[display="block"] { margin: 9pt 0; font-size: 10.5pt; break-inside: avoid; }
 a { color: #111; text-decoration: none; overflow-wrap: anywhere; }
-li { margin-bottom: 4pt; }
+li { margin-bottom: 4pt; break-inside: avoid; }
 ol { padding-left: 19pt; }
 '''
 

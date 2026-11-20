@@ -1,0 +1,21 @@
+{
+  "author": "Hengyi Ji",
+  "affiliation": "University of Science and Technology of China, Hefei, China",
+  "corresponding_email": "jihy2241@mail.ustc.edu.cn",
+  "metadata_source": "Information supplied by the author in this conversation.",
+  "funding": "None",
+  "conflicts_of_interest": "None declared",
+  "ai_use": "Language polishing, as declared by the author.",
+  "existing_data_availability_preserved": true,
+  "research_text_unchanged": true,
+  "original_figures_unchanged": true,
+  "previous_markdown_sha256": "246167b796edad135d46895530d065385d369da9f0005767d4b94c1f8b096782",
+  "updated_markdown_sha256": "000be459754038cb13a89c1c2b62a6cf0f5b6453ad7df1064e67c9c6e6de0157",
+  "pdf_pages": 13,
+  "pdf_sha256": "e52838e65189fc7ecdf1cea6e304d72058117ae0b9a61a7326ef1823f45ab565",
+  "declarations_present": true,
+  "all_pages_rendered": true,
+  "visual_review": "Passed: all 13 pages reviewed in contact sheets; author page and declarations page inspected at full size.",
+  "local_pdf_matches_repository_copy": true,
+  "subsequent_revision": "validation/reference_revision.json records the current PDF after citation edits."
+}

@@ -1,8 +1,8 @@
 # Geometry-derived phase references for S-bend waveguides
 
-Reproducibility package for **Neural-operator prediction of complex electric fields in S-bend waveguides using geometry-derived phase references**, manuscript version 4.3.
+Reproducibility package for **Neural-operator prediction of complex electric fields in S-bend waveguides using geometry-derived phase references**, manuscript version 4.3. The latest document release is [v1.0.1](https://github.com/Jacksonhy/geometry-phase-sbend/tree/v1.0.1); see [release notes](CHANGELOG.md).
 
-[English manuscript (PDF)](paper/manuscript_v4_3_en.pdf) · [English Markdown](paper/manuscript_v4_3_en.md) · [中文完整指南](docs/GUIDE_zh.md) · [Data dictionary](docs/DATA.md) · [Scope and provenance](docs/PROVENANCE.md)
+[English manuscript (PDF)](paper/manuscript_v4_3_en.pdf) · [Editable Word manuscript](paper/manuscript_v4_3_en.docx) · [English Markdown](paper/manuscript_v4_3_en.md) · [中文完整指南](docs/GUIDE_zh.md) · [Data dictionary](docs/DATA.md) · [Scope and provenance](docs/PROVENANCE.md)
 
 The four output references are Linear, ArcOnly, LocalTangent, and Path v2. They share the architecture, 12 real input features, training splits, and training budgets. The reference phase changes the learned output envelope. Path v1 remains a **common input feature**, although it is not one of the four reported output methods.
 
@@ -10,7 +10,7 @@ The four output references are Linear, ArcOnly, LocalTangent, and Path v2. They 
 
 | Path | Contents |
 | --- | --- |
-| `paper/` | English Markdown and PDF, Chinese v4.3 review manuscript, aligned Chinese supplement, four main figures and seven supplement figures |
+| `paper/` | English manuscript in Markdown, PDF and editable Word; English supplement in Markdown, PDF and editable Word; Chinese v4.3 review manuscript; four main figures and seven supplement figures |
 | `src/phase_reference/` | Portable geometry/features, original network bodies with compatibility imports, fresh training, geometry-only inference, field and local-phase evaluation |
 | `assets/checkpoints/` | All 12 selected checkpoints: seeds 42, 2026, 2027 × four methods; SHA-256 hashes in `configs/checkpoints.json` |
 | `data/manifests/` | Fixed geometries and split assignments |
@@ -45,7 +45,6 @@ Meep is only needed to prepare inputs from new geometry or to run FDTD. It is no
 
 ```bash
 conda create -n phase-meep -c conda-forge python=3.11 pymeep=1.35.1 scipy
-conda run -n phase-meep python -m pip install --no-deps -e .
 conda run -n phase-meep python -m pip install --no-deps -e .
 ```
 
@@ -121,7 +120,7 @@ Run all combinations of four methods and three seeds to repeat the main training
 
 ## Manuscript and figures
 
-The English manuscript is a translation of the current Chinese v4.3 draft. Equations, scientific values, section structure, and the four retained main figures are preserved. The data-availability paragraph is updated for this repository. The Chinese draft retains its original historical availability statement. The supplement is provided in its current Chinese form; it has not been translated as part of the English manuscript export.
+The English manuscript is a translation of the current Chinese v4.3 draft. Equations, scientific values, section structure, and the four retained main figures are preserved. The data-availability paragraph is updated for this repository. The Chinese draft retains its original historical availability statement. The English supplement is available as [Markdown](paper/supplement_v4_3_aligned.md), [PDF](paper/supplement_v4_3_aligned.pdf), and [editable Word](paper/supplement_v4_3_aligned.docx). Its availability statement reflects the published package, and Table S19 includes all 18 archived sinusoidal grid comparisons, including reversals in absolute bend-core phase ranking. Its seven existing images are unchanged.
 
 Main figures map to the original figures 1, 2, 3, and 6; original figure 6 is now main figure 4. Supplement S6 uses the existing reference-diagnostic figure and S7 uses the existing sinusoidal examples. No deleted main-text section or figure has been restored.
 
@@ -129,9 +128,19 @@ To regenerate the English PDF from Markdown, install Pandoc and Chrome/Chromium,
 
 ```bash
 python scripts/export_manuscript.py --pandoc /path/to/pandoc --chrome /path/to/chrome
+python scripts/export_supplement.py --pandoc /path/to/pandoc --chrome /path/to/chrome
 ```
 
-The exporter embeds the existing images and MathML into a temporary local HTML document and prints to PDF with a separate headless browser profile. It does not use the user's browser session or fetch remote resources. This is a review manuscript, without author metadata or journal-specific submission declarations.
+To export the manuscript and supplement as editable Word documents with native equations and tables:
+
+```bash
+python scripts/export_manuscript_docx.py --pandoc /path/to/pandoc
+python scripts/export_supplement_docx.py --pandoc /path/to/pandoc
+```
+
+The main Word export retains the four original image files. Its prose and table cells have been checked by a Pandoc round trip, and all 14 pages have been rendered with Microsoft Word and visually reviewed. The 11 display-equation groups and 69 inline equations are editable OMML objects. Page breaks can differ from the browser-rendered PDF. The supplement Word export retains seven original images, 23 editable tables and 98 native equations (nine display groups); its existing equation labels S1–S8 are retained. All 19 pages have been rendered with Microsoft Word and visually reviewed.
+
+The exporter embeds the existing images and MathML into a temporary local HTML document and prints to PDF with a separate headless browser profile. It does not use the user's browser session or fetch remote resources. The English manuscript and supplement include the author-supplied affiliation, contact email, funding, conflict-of-interest, and AI-assisted language-editing declarations. Journal submission remains a separate step.
 
 ## Attribution and reuse
 

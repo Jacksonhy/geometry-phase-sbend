@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "editable_display_equations": 11,
+  "total_editable_equations": 80,
+  "native_word_tables": 7,
+  "original_images": 4,
+  "round_trip_prose_and_table_cells_match_source": true,
+  "source_markdown_sha256": "16944ec8309754e22c99d83bcbcdbdaf37ec9097bcb75dd1852c978e564ef8c1",
+  "reference_pdf_sha256": "ee591cb62b236e74df824e5d2b70525744402abf2979b2c211772664cdd3ce39",
+  "docx_sha256": "945807476be89940a068cd9e84c1977f85c9509754ae022832c7ad4e98b29837",
+  "rendered_pages": 14,
+  "renderer": "Microsoft Word 16.0 (packaged LibreOffice unavailable on Windows)",
+  "all_pages_rendered": true,
+  "characters_per_page": [
+    3966,
+    3467,
+    2634,
+    2159,
+    3890,
+    3114,
+    2963,
+    2176,
+    3735,
+    2715,
+    2926,
+    3346,
+    3171,
+    302
+  ],
+  "visual_review": {
+    "all_14_pages_reviewed_at_full_size": true,
+    "result": "Passed: native equations, all tables, original figures, author metadata, declarations, references, headers and footers inspected; no clipping or overlap observed."
+  },
+  "reference_pdf_lineage_verified": true,
+  "editable_equations_and_tables_verified": true,
+  "all_five_hyperlink_targets_preserved": true,
+  "document_not_protected": true,
+  "local_copy_matches_repository_copy": true
+}

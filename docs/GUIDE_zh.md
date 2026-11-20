@@ -1,8 +1,12 @@
 # 使用与维护完整指南
 
-本仓库对应当前 v4.3 manuscript。英文正文位于 `paper/manuscript_v4_3_en.md`，PDF 同目录；中文初稿和对齐后的中文补充材料也保留。英文稿的数据可用性段落已改为当前仓库信息，其余研究内容按新版翻译。补充材料本次没有翻译成英文。
+本仓库对应当前 v4.3 manuscript。英文正文位于 `paper/manuscript_v4_3_en.md`，PDF 同目录；中文初稿也保留。英文稿的数据可用性段落已改为当前仓库信息，其余研究内容按新版翻译。英文补充材料位于 `paper/supplement_v4_3_aligned.md`，PDF 同目录；已修正过时的可用性说明并补全 18 条正弦网格比较，包含绝对弯曲相位排名反转的结果。七张补充图沿用现有原图。
 
 ## 为什么保留这些文件
+
+可编辑英文正文位于 `paper/manuscript_v4_3_en.docx`。正文、表格和公式来自最终英文 Markdown；7 张表格及 80 处公式均可在 Word 中编辑，四张原图已嵌入。已用 Microsoft Word 渲染并检查全部 14 页，分页与浏览器导出的 PDF 可略有不同。
+
+补充材料的可编辑 Word 位于 `paper/supplement_v4_3_aligned.docx`，保留 7 张原图、23 张可编辑表格和 98 处原生公式（其中 9 组独立公式，编号 S1–S8 已保留）。正文、表格数值和图注与英文源稿核对一致，已用 Microsoft Word 渲染并逐页检查全部 19 页。可用 `python scripts/export_supplement_docx.py --pandoc /实际路径/pandoc` 重新导出。
 
 | 文件/目录 | 必要性 |
 | --- | --- |
@@ -108,15 +112,20 @@ python -m phase_reference.train --method local_tangent --seed 2026 --output outp
 
 ```bash
 python scripts/export_manuscript.py --pandoc /实际路径/pandoc --chrome /实际路径/chrome
+python scripts/export_supplement.py --pandoc /实际路径/pandoc --chrome /实际路径/chrome
+python scripts/export_manuscript_docx.py --pandoc /实际路径/pandoc
+python scripts/export_supplement_docx.py --pandoc /实际路径/pandoc
 ```
 
-图片和公式嵌入临时本地 HTML，用独立无头浏览器配置输出 A4 PDF。正文科学数值与公式按 v4.3 保留，数据可用性段落已反映当前公开仓库。作者信息、声明和目标期刊格式仍需按投稿要求补充。
+图片和公式嵌入临时本地 HTML，用独立无头浏览器配置输出 A4 PDF。正文科学数值与公式按 v4.3 保留，数据可用性段落已反映当前公开仓库。英文正文和补充材料已加入作者提供的单位、通讯邮箱、无基金、无利益冲突及 AI 润色声明。投稿系统中的作者资料与目标期刊格式仍需在提交时核对。
 
 ## 7. 历史实验与复现边界
 
 本包可直接运行主分辨率 S 弯训练、推理及主要场/相位指标。高网格场、直波导原始诊断场、完整 Y 分支原始数据和所有探索权重没有一并发布；相应程序与证据表已存档。`historical_source/` 中保留原绝对路径及实验之间的依赖，运行这些程序需要按原组织方式准备输入和适配路径，不能把它们当作已全部移植的入口。完整边界见 `docs/PROVENANCE.md`。
 
 论文计时沿用历史硬件和实测边界，不是新机器上的速度承诺。本次发布核验范围记录于 `validation/`。没有把全部 FDTD、高网格或 12 次完整训练重新运行一遍。
+
+当前发布标签为 `v1.0.1`（论文稿件版本仍为 4.3），变更记录见 `CHANGELOG.md`。正文与补充材料的 Markdown、PDF 和 Word 均已纳入该版本；原有模型、场数据和结果表沿用 `v1.0.0`。补充材料引用 `v1.0.0` 指向其实际使用的可复现代码与数据快照。
 
 ## 8. 今后更新 GitHub
 

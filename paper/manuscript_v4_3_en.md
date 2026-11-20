@@ -1,6 +1,12 @@
 # Neural-operator prediction of complex electric fields in S-bend waveguides using geometry-derived phase references
 
-**Version 4.3.** Review manuscript; author metadata and declarations are omitted.
+::: {.author-block}
+**Hengyi Ji**
+
+University of Science and Technology of China, Hefei, China
+
+Corresponding author: [jihy2241@mail.ustc.edu.cn](mailto:jihy2241@mail.ustc.edu.cn)
+:::
 
 ## Abstract
 
@@ -45,7 +51,7 @@ $$
 |\nabla A|^2=|\nabla\rho|^2+\rho^2|\nabla\theta-\nabla\phi|^2.
 $$
 
-This relation shows that removing a predictable phase component can change the spatial variation of the envelope. At field zeros, the product-rule identity $\nabla A=e^{-i\phi}(\nabla E-iE\nabla\phi)$ is more appropriate. A reference phase does not guarantee a smoother envelope throughout the computational domain; counterexamples and discussion are provided in Supplementary Material 1.
+This relation shows that removing a predictable phase component can change the spatial variation of the envelope. At field zeros, the product-rule identity $\nabla A=e^{-i\phi}(\nabla E-iE\nabla\phi)$ is more appropriate. A reference phase does not guarantee a smoother envelope throughout the computational domain; counterexamples and discussion are provided in Supplement 1.
 
 ### 2.2 Linear, arc-length, and local-tangent references
 
@@ -71,7 +77,7 @@ $$
 
 Here, $g$ activates the bend interval, and $B$ transitions from 1 near the waveguide to 0 outside a prescribed outer region. The kernel width is $0.05\,\mu\mathrm m$. The transverse transition starts at $w/2+0.05\,\mu\mathrm m$ and spans $0.5\,\mu\mathrm m$, where $w$ is the waveguide width, using fixed quintic polynomial gates. The implemented reference is continuous, but global $C^2$ regularity has not been established.
 
-These construction parameters were determined on 16 separate development samples that were excluded from subsequent model training, validation, and testing. Details of the Gaussian-weighted construction and its comparison with the earlier nearest-point projection method are given in Supplementary Material 1.
+These construction parameters were determined on 16 separate development samples that were excluded from subsequent model training, validation, and testing. Details of the Gaussian-weighted construction and its comparison with the earlier nearest-point projection method are given in Supplement 1.
 
 ### 2.4 Propagation-constant calibration and common model inputs
 
@@ -96,7 +102,7 @@ All four models use identical input features, propagation-constant calibration, 
 
 ### 3.1 FDTD simulation and prediction target
 
-The prediction target is the steady-state frequency-domain $E_z$ component of a two-dimensional effective-index waveguide model at $\lambda=1.55\,\mu\mathrm m$. The cladding refractive index is 1.444, and the original width-dependent effective-index table is used for the core. Fields are generated with Meep 1.35.1 [10].
+The prediction target is the steady-state frequency-domain $E_z$ component of a two-dimensional effective-index waveguide model at $\lambda=1.55\,\mu\mathrm m$. The cladding refractive index is 1.444, and the original width-dependent effective-index table is used for the core. Fields are generated with Meep 1.35.1 [10]. Table 1 summarizes the computational domain and spatial sampling; Meep's subpixel smoothing and PML boundary treatments are described in Refs. [11,12].
 
 | Simulation parameter | Setting |
 | -------------------- | ------- |
@@ -148,7 +154,7 @@ All four reference methods use the same neural-operator architecture, adapted fr
 
 Training uses AdamW for 2400 updates with batch size 2, initial learning rate 0.002, weight decay $10^{-4}$, and gradient clipping at 5. The learning rate follows a cosine schedule to $10^{-4}$. FP32 with TF32 enabled and a common amplitude normalization scale are used. The loss is the mean squared relative complex-field error across samples.
 
-Each method is trained with seeds 42, 2026, and 2027. Within each seed, all methods share the same parameter initialization and training-batch order. The best checkpoint is selected by validation RelL2. Sensitivity to using the final training checkpoint is reported in Supplementary Material 1.
+Each method is trained with seeds 42, 2026, and 2027. Within each seed, all methods share the same parameter initialization and training-batch order. The best checkpoint is selected by validation RelL2. Sensitivity to using the final training checkpoint is reported in Supplement 1.
 
 ### 3.4 Evaluation metrics and statistics
 
@@ -191,7 +197,7 @@ The extended Path v2 construction gives a full-field RelL2 of 0.1474, close to L
 | LocalTangent | 0.1472 ± 0.0045 | 0.1013 ± 0.0057 | 4.1876 ± 0.3143 | 3.4990 ± 0.0151 |
 | Path v2 | 0.1474 ± 0.0039 | 0.1012 ± 0.0051 | 4.1556 ± 0.3167 | 3.4724 ± 0.0392 |
 
-**Table 3. Results on 72 independent Euler waveguides.** Values are the mean ± sample standard deviation across the three seed-specific sample-mean errors. Complete seed statistics, medians, distribution tails, cross terms, and paired intervals are provided in Supplementary Material 1.
+**Table 3. Results on 72 independent Euler waveguides.** Values are the mean ± sample standard deviation across the three seed-specific sample-mean errors. Complete seed statistics, medians, distribution tails, cross terms, and paired intervals are provided in Supplement 1.
 
 ![Figure 2](figures/fig2.png)
 
@@ -236,17 +242,17 @@ For all three seeds, the 95% bootstrap confidence intervals for the paired diffe
 
 To examine whether the normal-pair relative-phase advantage depends on the FDTD reference grid, grid-resolution comparisons are performed on matched geometries. The relevant subsets and diagnostic controls are listed in Table 2.
 
-The local-tangent reference retains its advantage over the arc-length reference in mean normal-pair phase error across the FDTD reference grids examined. In particular, for the six preselected sinusoidal waveguides, LocalTangent has lower mean normal-pair relative-phase error than ArcOnly at resolutions 20, 30, and 40. Complete matched-grid phase comparisons, unfavorable results, and reference-field diagnostics are provided in Supplementary Material 1.
+The local-tangent reference retains its advantage over the arc-length reference in mean normal-pair phase error across the FDTD reference grids examined. In particular, for the six preselected sinusoidal waveguides, LocalTangent has lower mean normal-pair relative-phase error than ArcOnly at resolutions 20, 30, and 40. Complete matched-grid phase comparisons, unfavorable results, and reference-field diagnostics are provided in Supplement 1.
 
 ### 4.5 Optical postprocessing of predicted fields
 
-Beyond direct complex-field errors, transmission-phase extraction is examined on the original 100 waveguides. With a fixed directional extractor, the transmission-phase mean absolute errors for Linear, ArcOnly, LocalTangent, and Path v2 are 28.66°, 8.50°, 7.36°, and 7.41°, respectively. Applying the same extractor to the FDTD ground-truth electric fields gives a transmission-phase difference of 0.027° relative to native modal coefficients.
+Beyond direct complex-field errors, transmission-phase extraction is examined on the original 100 waveguides. With a fixed directional extractor, the transmission-phase mean absolute errors for Linear, ArcOnly, LocalTangent, and Path v2 are 28.66°, 8.50°, 7.36°, and 7.41°, respectively. Applying the same extractor to the FDTD ground-truth electric fields gives a transmission-phase difference of 0.027° relative to native modal coefficients from Meep mode decomposition [13].
 
-This agreement indicates consistency between the extractor and the original modal analysis and supports using the predicted complex fields to estimate transmission phase. Power-related metrics, however, do not improve consistently, and extraction of weak reflections remains limited. Complete postprocessing results are given in Supplementary Material 1.
+This agreement indicates consistency between the extractor and the original modal analysis and supports using the predicted complex fields to estimate transmission phase. Power-related metrics, however, do not improve consistently, and extraction of weak reflections remains limited. Complete postprocessing results are given in Supplement 1.
 
 ### 4.6 Exploratory comparison for a different device topology
 
-In an exploratory Y-branch comparison, Branch Path yields RelL2 values of 0.5333 and 0.4960 on two test sets of 100 geometries each. Adding a tangent correction, BranchTangent, increases these values to 0.5494 and 0.5111. This experiment uses only one training seed and a reference construction based on path routing and hard assignment. The local-tangent correction does not improve prediction under this setting; the complete experiment is reported in Supplementary Material 1.
+In an exploratory Y-branch comparison, Branch Path yields RelL2 values of 0.5333 and 0.4960 on two test sets of 100 geometries each. Adding a tangent correction, BranchTangent, increases these values to 0.5494 and 0.5111. This experiment uses only one training seed and a reference construction based on path routing and hard assignment. The local-tangent correction does not improve prediction under this setting; the complete experiment is reported in Supplement 1.
 
 ## 5. Prediction workflow and computational cost
 
@@ -268,13 +274,13 @@ Timing uses the seed-2026 models and covers three usage scenarios:
 - **Resident-model single query:** the model is preloaded on the GPU, and left- and right-excited structures selected from each of the three inclination strata are tested.
 - **Batch queries:** all 72 independent structures are evaluated with batch sizes 1 and 2. Inference and output export are timed three times, including the full geometry-preprocessing cost.
 
-The original FDTD workflow takes 8.892 s per structure on average. For LocalTangent, the mean times for cold-start, resident-model, and 72-structure batch prediction are 4.725, 2.454, and 1.591 s per structure, corresponding to FDTD-to-surrogate time ratios of 1.88, 3.62, and 5.59 (Table 7).
+The original FDTD workflow takes 8.892 s per structure on average. For LocalTangent, the mean times for cold-start, resident-model, and 72-structure batch prediction are 4.725, 2.454, and 1.591 s per structure, corresponding to FDTD-to-surrogate time ratios of 1.88, 3.62, and 5.59.
 
 Within the prediction workflow, common geometric-feature computation takes 1.142 s on average, material initialization takes 0.222 s, and input export takes 0.126 s. Overall times differ little among the four reference methods. The main cost is common geometric-feature computation rather than differences among reference-phase formulas, making geometry preprocessing the primary target for further optimization.
 
 ### 5.3 Offline investment and cumulative-time break-even
 
-The surrogate requires training-data generation and model training in advance. For one trained LocalTangent model, the offline cost comprises the following items:
+The surrogate requires training-data generation and model training in advance. Table 6 summarizes the offline cost for one trained LocalTangent model.
 
 | Offline cost item | Time (s) |
 | ----------------- | -------: |
@@ -286,7 +292,7 @@ The surrogate requires training-data generation and model training in advance. F
 
 **Table 6. Offline computational cost for one LocalTangent model.**
 
-The supplementary preparation estimate includes propagation-constant calibration, data assembly, run setup, and cache operations, estimated by reproducing the corresponding operations in the current environment. The total offline investment is approximately 26.10 min. Detailed timing boundaries and sensitivity to additional overhead are provided in Supplementary Material 1.
+The supplementary preparation estimate includes propagation-constant calibration, data assembly, run setup, and cache operations, estimated by reproducing the corresponding operations in the current environment. The total offline investment is approximately 26.10 min. Detailed timing boundaries and sensitivity to additional overhead are provided in Supplement 1.
 
 For predictions on $N$ new waveguides, the cumulative costs of the surrogate and the original FDTD workflow are
 
@@ -327,7 +333,7 @@ Time-cost comparisons must be interpreted alongside application-specific error r
 
 The comparisons indicate that cumulative centerline arc length and local propagation direction serve different roles in the output-field representation. The arc-length reference produces the main full-field error improvement, whereas the local-tangent correction further improves bend fields and transverse phase prediction. The larger reductions in normal-pair phase error in the high-angle stratum are consistent with the correction's incorporation of propagation direction. The more elaborate Path v2 reference, by contrast, provides no consistent full-field advantage.
 
-A geometry-derived reference phase extracts the phase component describable from geometry, allowing the neural operator to learn the remaining complex-amplitude envelope. This representation does not guarantee removal of rapid oscillations throughout the computational domain. Fourier analysis in Supplementary Material 1 shows that improved prediction cannot simply be attributed to a globally smoother envelope. The present comparisons are also limited to a fixed network architecture and training budget; relative performance under other architectures, training-data sizes, or longer training remains undetermined.
+A geometry-derived reference phase extracts the phase component describable from geometry, allowing the neural operator to learn the remaining complex-amplitude envelope. This representation does not guarantee removal of rapid oscillations throughout the computational domain. Fourier analysis in Supplement 1 shows that improved prediction cannot simply be attributed to a globally smoother envelope. The present comparisons are also limited to a fixed network architecture and training budget; relative performance under other architectures, training-data sizes, or longer training remains undetermined.
 
 ### 6.2 Scope across centerline shapes and device topologies
 
@@ -347,13 +353,25 @@ We compared geometry-derived reference phases for neural-operator prediction of 
 
 The results show that geometric priors can be used both as network inputs and to reorganize the output field to be learned. For the S-bends studied here, reference phases based on the propagation path and local direction improve prediction of the specified FDTD complex fields without increasing the input information. They can reduce cumulative computation time when error requirements are met and sufficiently many repeated queries are performed. Applicability to other device topologies, physical conditions, and more accurate numerical references requires further study.
 
+## Funding
+
+No funding was received for this research.
+
+## Disclosures
+
+The author declares no conflicts of interest.
+
+## AI-assisted language editing
+
+The author used AI-assisted tools for language polishing and is responsible for the content of the manuscript.
+
 ## Data availability
 
 Public Y-branch data and code are listed in Refs. [14,15]. The S-bend code, 12 trained checkpoints, geometry manifests, 288 primary-resolution field exports, geometry-level metric tables, and archived evaluation summaries are available in the accompanying repository at [github.com/Jacksonhy/geometry-phase-sbend](https://github.com/Jacksonhy/geometry-phase-sbend). The repository documents the scope of these exports; complete higher-resolution diagnostic fields and the full Y-branch raw data are not included.
 
 ## Supplementary material
 
-Supplementary Material 1 contains implementation and training details, complete seed statistics, matched-grid phase comparisons and unfavorable results, reference-field diagnostics, workflow timing, optical postprocessing, topology limitations, and complete field-distribution figure sets.
+Supplement 1 contains implementation and statistical details (Secs. S1–S2), independent-Euler statistics (Tables S1–S4), matched-grid comparisons and reference-field diagnostics (Tables S5–S13 and S19), workflow timing (Tables S14–S16), sinusoidal results (Tables S17–S19), retrospective and exploratory analyses (Tables S20–S23), and field and diagnostic visualizations (Figures S1–S7).
 
 ## References
 
@@ -367,8 +385,8 @@ Supplementary Material 1 contains implementation and training details, complete 
 8. S. G. Johnson, P. Bienstman, M. A. Skorobogatiy, M. Ibanescu, E. Lidorikis, and J. D. Joannopoulos, “Adiabatic theorem and continuous coupled-mode theory for efficient taper transitions in photonic crystals,” *Physical Review E* **66**, 066608 (2002).
 9. D. M. Shyroki, “Exact equivalent straight waveguide model for bent and twisted waveguides,” *IEEE Transactions on Microwave Theory and Techniques* **56**, 414–419 (2008).
 10. A. F. Oskooi, D. Roundy, M. Ibanescu, P. Bermel, J. D. Joannopoulos, and S. G. Johnson, “Meep: A flexible free-software package for electromagnetic simulations by the FDTD method,” *Computer Physics Communications* **181**, 687–702 (2010).
-11. Meep developers, “Subpixel smoothing” (n.d.).
-12. Meep developers, “Perfectly matched layers” (n.d.).
-13. Meep developers, “Mode decomposition” (2026).
+11. Meep developers, “Subpixel Smoothing,” *Meep Documentation*, [https://meep.readthedocs.io/en/latest/Subpixel_Smoothing/](https://meep.readthedocs.io/en/latest/Subpixel_Smoothing/) (accessed 20 November 2026).
+12. Meep developers, “Perfectly Matched Layer,” *Meep Documentation*, [https://meep.readthedocs.io/en/latest/Perfectly_Matched_Layer/](https://meep.readthedocs.io/en/latest/Perfectly_Matched_Layer/) (accessed 20 November 2026).
+13. Meep developers, “Mode Decomposition,” *Meep Documentation*, [https://meep.readthedocs.io/en/latest/Mode_Decomposition/](https://meep.readthedocs.io/en/latest/Mode_Decomposition/) (accessed 20 November 2026).
 14. Rizzo Integrated Photonic Systems Lab, “PIC-Flow Dataset” (2026).
 15. Rizzo Integrated Photonic Systems Lab, “PIC-Flow: Source code” (2026).

@@ -96,7 +96,7 @@ $$
 
 ### 3.1 FDTD 仿真与预测目标
 
-预测目标为二维有效折射率波导模型在波长 $\lambda=1.55\,\mu\mathrm m$ 下的稳态频域 $E_z$ 分量。包层折射率为 1.444，芯层采用原始的宽度相关有效折射率表。电场由 Meep 1.35.1 生成 [10]。
+预测目标为二维有效折射率波导模型在波长 $\lambda=1.55\,\mu\mathrm m$ 下的稳态频域 $E_z$ 分量。包层折射率为 1.444，芯层采用原始的宽度相关有效折射率表。电场由 Meep 1.35.1 生成 [10]。 表 1 汇总了计算域与空间采样设置；Meep 的亚像素平滑和 PML 边界处理分别见文献 [11,12]。
 
 | 仿真参数              | 设置                       |
 | --------------------- | -------------------------- |
@@ -240,7 +240,7 @@ $$
 
 ### 4.5 预测电场的光学后处理
 
-除直接比较复电场误差外，本文还在原始 100 个波导结构上考察预测场的透射相位提取。采用固定的方向性提取方法时，Linear、ArcOnly、LocalTangent 和 Path v2 的透射相位平均绝对误差分别为 28.66°、8.50°、7.36° 和 7.41°。对 FDTD 真值电场采用同一提取方法，所得透射相位与原生模态系数的相位差异为 0.027°。
+除直接比较复电场误差外，本文还在原始 100 个波导结构上考察预测场的透射相位提取。采用固定的方向性提取方法时，Linear、ArcOnly、LocalTangent 和 Path v2 的透射相位平均绝对误差分别为 28.66°、8.50°、7.36° 和 7.41°。对 FDTD 真值电场采用同一提取方法，所得透射相位与原生模态系数的相位差异为 0.027°；原生模态系数对应 Meep 的模式分解方法 [13]。
 
 该结果说明提取方法与原有模态分析结果具有较好的一致性，预测复电场可用于透射相位估计。不过，功率相关指标并未表现出一致改善，弱反射信号的提取也仍受限制。完整后处理结果见补充材料 1。
 
@@ -268,11 +268,13 @@ $$
 - **模型驻留单次查询：** 模型预先加载至 GPU，测试三个最大倾角分层中分别选取的左、右激励结构。
 - **批量查询：** 使用全部 72 个独立测试结构，分别考察批量大小为 1 和 2 的情况，推理与结果导出重复计时三次，同时计入完整几何预处理成本。
 
-原有 FDTD 工作流程平均每个结构耗时 8.892 秒。LocalTangent 模型在冷启动、模型驻留及 72 个结构批量预测三种情景下的平均耗时分别为 4.725、2.454 和 1.591 秒，对应 FDTD 与代理模型的耗时比分别为 1.88、3.62 和 5.59（表 7）。
+原有 FDTD 工作流程平均每个结构耗时 8.892 秒。LocalTangent 模型在冷启动、模型驻留及 72 个结构批量预测三种情景下的平均耗时分别为 4.725、2.454 和 1.591 秒，对应 FDTD 与代理模型的耗时比分别为 1.88、3.62 和 5.59。
 
 在预测流程的耗时分解中，公共几何特征计算平均需要 1.142 秒，材料初始化和输入导出分别需要 0.222 秒和 0.126 秒。四种参考方法的总体计算时间差异较小，当前流程的主要开销来自公共几何特征计算，而非参考相位公式之间的差异。因此，几何预处理是进一步优化工作流程的主要方向。
 
 ### 5.3 离线投入与累计时间盈亏平衡
+
+单个 LocalTangent 模型的离线成本汇总见表 6。
 
 代理模型需要预先生成训练数据并完成训练。以一个训练完成的 LocalTangent 模型为例，离线成本由以下各项构成：
 
@@ -353,7 +355,7 @@ Y 分支探索性比较未显示局部切向修正带来的性能改善（第 4.
 
 ## 补充材料
 
-补充材料 1 包含实现与训练细节、完整种子统计、匹配网格相位比较及不利结果、参考场诊断、工作流程计时、光学后处理、拓扑局限及完整场分布图组。
+补充材料 1 包含实现及统计细节（第 S1–S2 节）、独立欧拉测试统计（表 S1–S4）、匹配网格比较与参考场诊断（表 S5–S13 和 S19）、工作流程计时（表 S14–S16）、正弦型测试结果（表 S17–S19）、回顾性及探索性分析（表 S20–S23），以及场分布和诊断图（图 S1–S7）。
 
 ## 参考文献
 
@@ -367,8 +369,8 @@ Y 分支探索性比较未显示局部切向修正带来的性能改善（第 4.
 8. S. G. Johnson, P. Bienstman, M. A. Skorobogatiy, M. Ibanescu, E. Lidorikis, and J. D. Joannopoulos, “Adiabatic theorem and continuous coupled-mode theory for efficient taper transitions in photonic crystals”（光子晶体中高效渐变过渡的绝热定理与连续耦合模理论），*Physical Review E* **66**, 066608 (2002).
 9. D. M. Shyroki, “Exact equivalent straight waveguide model for bent and twisted waveguides”（弯曲及扭转波导的精确等效直波导模型），*IEEE Transactions on Microwave Theory and Techniques* **56**, 414–419 (2008).
 10. A. F. Oskooi, D. Roundy, M. Ibanescu, P. Bermel, J. D. Joannopoulos, and S. G. Johnson, “Meep: A flexible free-software package for electromagnetic simulations by the FDTD method”（Meep：用于 FDTD 电磁仿真的灵活自由软件包），*Computer Physics Communications* **181**, 687–702 (2010).
-11. Meep developers, “Subpixel smoothing”（亚像素平滑），(无日期).
-12. Meep developers, “Perfectly matched layers”（完全匹配层），(无日期).
-13. Meep developers, “Mode decomposition”（模态分解），(2026).
+11. Meep developers, “Subpixel Smoothing,” *Meep Documentation*，[https://meep.readthedocs.io/en/latest/Subpixel_Smoothing/](https://meep.readthedocs.io/en/latest/Subpixel_Smoothing/)（访问日期：2026 年 11 月 20 日）。
+12. Meep developers, “Perfectly Matched Layer,” *Meep Documentation*，[https://meep.readthedocs.io/en/latest/Perfectly_Matched_Layer/](https://meep.readthedocs.io/en/latest/Perfectly_Matched_Layer/)（访问日期：2026 年 11 月 20 日）。
+13. Meep developers, “Mode Decomposition,” *Meep Documentation*，[https://meep.readthedocs.io/en/latest/Mode_Decomposition/](https://meep.readthedocs.io/en/latest/Mode_Decomposition/)（访问日期：2026 年 11 月 20 日）。
 14. Rizzo Integrated Photonic Systems Lab, “PIC-Flow Dataset”（PIC-Flow 数据集），(2026).
 15. Rizzo Integrated Photonic Systems Lab, “PIC-Flow: Source code”（PIC-Flow：源代码），(2026).

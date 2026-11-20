@@ -1,0 +1,64 @@
+{
+  "release": "v1.0.1",
+  "manuscript_version": "4.3",
+  "date": "2026-11-20",
+  "passed": true,
+  "document_files": {
+    "paper/manuscript_v4_3_en.md": {
+      "sha256": "16944ec8309754e22c99d83bcbcdbdaf37ec9097bcb75dd1852c978e564ef8c1",
+      "bytes": 43267,
+      "local_copy_check": "Text matches paper/new; only local image paths may differ"
+    },
+    "paper/manuscript_v4_3_en.pdf": {
+      "sha256": "ee591cb62b236e74df824e5d2b70525744402abf2979b2c211772664cdd3ce39",
+      "bytes": 886618,
+      "local_copy_check": "Byte-identical to paper/new"
+    },
+    "paper/manuscript_v4_3_en.docx": {
+      "sha256": "945807476be89940a068cd9e84c1977f85c9509754ae022832c7ad4e98b29837",
+      "bytes": 509521,
+      "local_copy_check": "Byte-identical to paper/new"
+    },
+    "paper/manuscript_v4_3_zh.md": {
+      "sha256": "5cbba5e1f2aa6932fc2ac59c44bcddae1a351265194cd9f7c1e643057ca234e5",
+      "bytes": 38989,
+      "local_copy_check": "Text matches paper/new except local image paths and excluded trailing historical editorial note"
+    },
+    "paper/supplement_v4_3_aligned.md": {
+      "sha256": "2957afa298a2e6c8fe2c1db2ee1e90b4ef2cbcd4f83fa68a98ace85cfb6de702",
+      "bytes": 58803,
+      "local_copy_check": "Text matches paper/new; only local image paths may differ"
+    },
+    "paper/supplement_v4_3_aligned.pdf": {
+      "sha256": "96195ea7446e3fc76ea8529822c6d43a8f2ab36d18529030a7d9adc96ee463ca",
+      "bytes": 5677265,
+      "local_copy_check": "Byte-identical to paper/new"
+    },
+    "paper/supplement_v4_3_aligned.docx": {
+      "sha256": "ff8d0f30317a6d06c40f2f2271a7f44af8bff2403393537e6eff729ae0a200a5",
+      "bytes": 5654757,
+      "local_copy_check": "Byte-identical to paper/new"
+    }
+  },
+  "pdf_pages": {
+    "manuscript_v4_3_en": 14,
+    "supplement_v4_3_aligned": 19
+  },
+  "word_validation_reports_match_current_files": true,
+  "all_embedded_word_images_match_sources": true,
+  "exporter_syntax_valid": true,
+  "readme_and_guide_local_links_valid": true,
+  "asset_verification": {
+    "passed": true,
+    "checkpoints": 12,
+    "fields": 288,
+    "source_mappings": 466
+  },
+  "table_arithmetic": {
+    "passed": true,
+    "comparisons": 232,
+    "max_absolute_difference": 4.263256414560601e-14
+  },
+  "scientific_assets_unchanged_from_v1_0_0": true,
+  "scope": "Document synchronization, file hashes, archived table arithmetic and asset verification. No new FDTD, training or inference runs."
+}

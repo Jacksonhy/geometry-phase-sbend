@@ -1,6 +1,6 @@
 # Publication scope and provenance
 
-The current source of manuscript content is `paper/manuscript_v4_3_zh.md`. The English translation is `paper/manuscript_v4_3_en.md`, rendered directly to PDF. All 11 display-equation groups are unchanged. English reference titles replace the Chinese explanatory translations in the bibliography. The data-availability paragraph is updated to reflect the published package; no scientific results are changed. The Chinese source retains its historical availability wording. Author metadata, journal formatting, and submission declarations have not been invented.
+The current source of manuscript content is `paper/manuscript_v4_3_zh.md`. The English translation is `paper/manuscript_v4_3_en.md`, rendered directly to PDF. All 11 display-equation groups are unchanged. English reference titles replace the Chinese explanatory translations in the bibliography. The data-availability paragraph is updated to reflect the published package; no scientific results are changed. The Chinese source retains its historical availability wording. Author metadata and declarations in the English manuscript were supplied by Hengyi Ji: University of Science and Technology of China; corresponding email jihy2241@mail.ustc.edu.cn; no funding or conflicts of interest; AI-assisted language polishing. Journal-specific formatting has not yet been applied.
 
 ## Figures
 

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the manuscript when its final bibliographic record is available. This record identifies the software package only."
 title: "Geometry-derived phase references for S-bend waveguides: reproducibility package"
 type: software
-version: 1.0.0
+version: 1.0.1
 authors:
   - name: "Jacksonhy"
     affiliation: "Repository maintainer account; not a statement of manuscript authorship"

@@ -1,16 +1,22 @@
-# Supplementary Information
+# Supplement 1
 
-## Geometry-conditioned phase references for predicting FDTD complex fields in optical S-bends
+## Neural-operator prediction of complex electric fields in S-bend waveguides using geometry-derived phase references
 
-**Revised supplement aligned with manuscript V4.3**  
-**Companion to:** *基于几何相位参考的 S 弯波导复电场神经算子预测*  
-**Version:** Supplement V4.3 (Markdown editorial revision)
+::: {.author-block}
+**Hengyi Ji**
+
+University of Science and Technology of China, Hefei, China
+
+Corresponding author: [jihy2241@mail.ustc.edu.cn](mailto:jihy2241@mail.ustc.edu.cn)
+:::
+
+Supporting information for manuscript version 4.3.
 
 This supplement documents the implementation, reproducibility checks, seed-level results, matched-grid comparisons, numerical-reference diagnostics, and limitations underpinning the main manuscript. **The main manuscript governs the study design and interpretation**; results from the retrospective 100-geometry experiment and exploratory Y-branch study remain explicitly separate from the independent Euler and frozen sinusoidal tests.
 
 We use **L** = Linear, **A** = ArcOnly, **T** = LocalTangent, **P** = Path v2, and, only for the Y-branch experiment, **BP** = Branch Path and **BT** = BranchTangent. All error quantities refer to the **reconstructed physical complex field**, not a freely aligned prediction. Unless noted otherwise, negative differences of the form T − A favor LocalTangent.
 
-**Evidence and availability.** The numerical descriptions and tables in this supplement are transcribed and reorganized from the supplied Supplement V4.2, cross-checked against the supplied manuscript V4.3. The available writing materials describe geometry-level metrics, geometry definitions, and archived experiment summaries; they do not include the original complex-field arrays or model weights for an independent end-to-end rerun. No public deposit of the local S-bend datasets or trained checkpoints is asserted. The main manuscript identifies the public Y-branch sources in references [14, 15].
+**Data and code availability.** The S-bend reproducibility package is available at [github.com/Jacksonhy/geometry-phase-sbend](https://github.com/Jacksonhy/geometry-phase-sbend), version `v1.0.0`. It includes the model and geometry code, all 12 selected checkpoints, the geometry manifests, 288 primary-resolution field exports, and the archived geometry-level metrics, evaluation summaries, and diagnostic tables. The five primary metrics have been recomputed for all 12 checkpoints on the 72 independent Euler and 36 sinusoidal structures and checked against the archived results. This verification does not constitute new FDTD simulations or a repetition of all full training runs. Complete higher-resolution diagnostic fields, straight-reference raw fields, and full Y-branch raw data are not included; their availability is distinguished from the included primary fields in the repository documentation. Public Y-branch sources are identified in the main manuscript, Refs. [14,15].
 
 ## S1. Phase representation and geometric implementation
 
@@ -39,7 +45,7 @@ These identities permit cancellation of *predictable* phase variation but yield 
 
 ### S1.2. S-bend distance references and Path v2
 
-The simulation and feature generator use the same **256-vertex Euler centerline plus straight leads**, represented by overlapping rotated Blocks. The three principal propagation distances \(d_L,d_A,d_T\) are exactly those in main Eq. (Sec. 2.2). Their distinction is in the output carrier; **ArcOnly does not introduce an additional model input**. The source arclength anchor is obtained from the source projection, and unit tangents from normalized vertex derivatives interpolated at observation columns.
+The simulation and feature generator use the same **256-vertex Euler centerline plus straight leads**, represented by overlapping rotated Blocks. The three principal propagation distances \(d_L,d_A,d_T\) are exactly those in main Sec. 2.2. Their distinction is in the output carrier; **ArcOnly does not introduce an additional model input**. The source arclength anchor is obtained from the source projection, and unit tangents from normalized vertex derivatives interpolated at observation columns.
 
 The historical **Path v1** input feature is the signed arclength coordinate of the closest line-segment projection minus the source anchor. Segment parameters are clipped to \([0,1]\); minimum squared-distance ties use the first segment index. Nearest-segment changes can introduce discontinuities outside a unique-projection neighborhood. Path v1 is **not** an additional trained output-reference method in the four-way independent comparison.
 
@@ -65,7 +71,7 @@ s_c+g\left\{B(q-s_c)+(1-B)t_y z\right\}-s_s
 \tag{S4}
 \]
 
-The longitudinal gate \(g\) is the product of one-grid-width quintic transitions at the two bend ends. Kernel evaluation is restricted to the nonzero blend support; outside the gate the distance is columnwise arclength. The parameters were fixed on 16 separate development geometries. The implemented construction is continuous; global \(C^2\) regularity has **not** been established. This definition supplies the \(q\), \(B\), and \(g\) details omitted from the compact expression in main Sec. 2.3.
+The longitudinal gate \(g\) is the product of one-grid-width quintic transitions at the two bend ends. Kernel evaluation is restricted to the nonzero blend support; outside the gate the distance is columnwise arclength. The parameters were fixed on 16 separate development geometries. The implemented construction is continuous; global \(C^2\) regularity has **not** been established. These definitions specify \(q\), \(B\), and \(g\) in the compact expression in main Sec. 2.3.
 
 ### S1.3. Calibration, FDTD settings, and common model interface
 
@@ -258,7 +264,7 @@ Three preselected narrow, **left-excited**, \(w=0.400\,\mu\mathrm m\) structures
 *Table S7. Paired phase differences for the nested three Euler geometries. All three normal-pair differences remain negative through resolution 60; the *absolute bend-phase mean differences reverse sign* at resolutions 30/40/60.*
 
 
-Table S7 is an important **adverse result**. In this restricted subset, LocalTangent retains a normal-pair phase advantage while its absolute bend-phase endpoint becomes worse at the finer grids. This is possible because the normal-pair relative phase rejects a shared longitudinal phase offset. The result prevents extrapolating the normal-phase advantage into universal cross-grid absolute-phase or full-field accuracy.
+In this restricted subset, LocalTangent retains a normal-pair phase advantage while its absolute bend-phase endpoint becomes worse at the finer grids. This is possible because the normal-pair relative phase rejects a shared longitudinal phase offset. The result prevents extrapolating the normal-phase advantage into universal cross-grid absolute-phase or full-field accuracy.
 
 ### S4.3. Changes in the FDTD truth itself
 
@@ -440,7 +446,7 @@ The following images are copied byte-for-byte from the supplied writing-package 
 
 ### S7.1. Geometry, no-retraining protocol, and seed-level endpoints
 
-The **raised-sine** centerline is defined in **main Sec. 3.2**, not Sec. 4.4. It is not the raised-cosine SBend profile in PICwriter. Its continuous endpoint slope and curvature vanish, while the 256-vertex polyline/Block discretization has its own material-grid error.
+The **raised-sine** centerline is defined in **main Sec. 3.2**. It is not the raised-cosine SBend profile in PICwriter. Its continuous endpoint slope and curvature vanish, while the 256-vertex polyline/Block discretization has its own material-grid error.
 
 The 36 structures cover actual endpoint offsets **1.965–5.213 µm**, axial spans **6.887–14.822 µm**, and analytic minimum radii **3.912–9.012 µm**. The maximum-angle stratum boundaries are **30.1934°** and **34.3810°**. Six widths (0.400, 0.425, 0.475, 0.500, 0.550, 0.575 µm) and both incidence directions give 12 geometries per stratum. Selection matches Euler structures by **actual** endpoint span and offset rather than nominal geometry-constructor inputs. Arclength, curvature, peak angle and optical difficulty are not matched.
 
@@ -483,7 +489,30 @@ The three-seed mean whole-field RelL2 values in the frozen transfer are **0.3201
 
 Six preselected sinusoidal structures span the three angle/width levels and both incidence directions. The six-device subset has width–angle confounding; the fixed predictions and source/reference planes are unchanged as truth-grid resolution changes among **20, 30 and 40**. From resolution 30 to 40, the *truth-reference* changes average **1.979°** for normal-pair phase and **8.937°** for incident-normalized bend-core phase. The bilinear-versus-cubic sensitivity of the resolution-40 normal-pair metric is approximately **0.004°** on average.
 
-For each seed and tested truth grid, the mean **normal-pair T − A phase** remains negative. All six intervals at resolutions 30 and 40 exclude zero on the negative side. However, on these finer grids the **absolute bend-phase mean differences reverse sign**, with all six intervals including zero. These statements report the archived signed-comparison conclusions; they are not a substitute for a continuum convergence study. The original V4.2 supplement refers to a companion file named `sine_mesh_primary_table.csv` for the full numerical values. **That CSV was not among the two uploaded source documents**, so its unquoted entries have not been reconstructed or invented here. The full signed fine-grid table should be attached if it is available at submission.
+For every seed and tested truth grid, the mean **normal-pair T − A phase error** is negative. At resolutions 30 and 40, all six corresponding paired intervals lie below zero. For the same six structures, the mean **absolute bend-core phase differences** are positive at resolutions 30 and 40, and all six intervals include zero. The two phase observables therefore have different grid-dependent behavior. Table S19 reports all 18 signed comparisons from `results/sine_mesh_primary_table.csv`, including resolution 20. These comparisons do not establish continuum convergence.
+
+| Resolution | Seed | Phase metric | A WMAE (°) | T WMAE (°) | T − A (°) | 95% paired interval (°) | T better |
+| --- | --- | --- | ---: | ---: | ---: | --- | --- |
+| 20 | 42 | Bend | 6.30235 | 4.90920 | -1.39314 | [-3.36817, +0.23714] | 3/6 |
+| 20 | 42 | Normal | 4.01603 | 3.59268 | -0.42335 | [-0.83562, +0.00010] | 4/6 |
+| 20 | 2026 | Bend | 5.55668 | 4.37236 | -1.18432 | [-2.29607, -0.27545] | 5/6 |
+| 20 | 2026 | Normal | 4.18730 | 3.56969 | -0.61761 | [-1.24543, +0.01706] | 4/6 |
+| 20 | 2027 | Bend | 5.21528 | 4.98083 | -0.23445 | [-0.90313, +0.40149] | 3/6 |
+| 20 | 2027 | Normal | 4.36280 | 3.51270 | -0.85010 | [-1.76977, +0.01478] | 4/6 |
+| 30 | 42 | Bend | 27.34836 | 29.29258 | +1.94422 | [-1.81648, +5.48209] | 2/6 |
+| 30 | 42 | Normal | 3.58115 | 2.68661 | -0.89454 | [-1.57638, -0.28496] | 5/6 |
+| 30 | 2026 | Bend | 28.11660 | 28.36549 | +0.24890 | [-2.05136, +2.45916] | 3/6 |
+| 30 | 2026 | Normal | 3.74645 | 2.59194 | -1.15451 | [-1.97659, -0.61997] | 6/6 |
+| 30 | 2027 | Bend | 28.16951 | 28.59232 | +0.42281 | [-0.47939, +1.20834] | 2/6 |
+| 30 | 2027 | Normal | 3.72316 | 2.42338 | -1.29979 | [-2.05100, -0.71090] | 6/6 |
+| 40 | 42 | Bend | 36.09979 | 38.04825 | +1.94846 | [-1.82380, +5.48964] | 2/6 |
+| 40 | 42 | Normal | 3.17497 | 2.39958 | -0.77538 | [-1.47555, -0.10624] | 5/6 |
+| 40 | 2026 | Bend | 36.86573 | 37.12018 | +0.25445 | [-2.04438, +2.46121] | 3/6 |
+| 40 | 2026 | Normal | 3.35594 | 2.40038 | -0.95556 | [-1.71191, -0.29508] | 5/6 |
+| 40 | 2027 | Bend | 36.92237 | 37.34788 | +0.42551 | [-0.48411, +1.21463] | 2/6 |
+| 40 | 2027 | Normal | 3.56340 | 2.23571 | -1.32769 | [-2.04334, -0.63702] | 6/6 |
+
+*Table S19. Complete matched-grid sinusoidal comparisons for the six preselected structures. Bend denotes source-referenced bend-core phase WMAE; Normal denotes normal-pair relative-phase WMAE. Differences are LocalTangent minus ArcOnly, and negative values favor LocalTangent. All phase quantities and intervals are in degrees. Values are rounded to five decimal places from the archived CSV; paired bootstrap intervals condition on each fixed pair of models.*
 
 ![Sinusoidal prediction examples](supplement_figures/S7_sinusoidal_examples.png)
 
@@ -507,7 +536,7 @@ The original 100-geometry benchmark (50 left, 50 right excitation) was inspected
 | 2026 | 0.337387 | 0.337387 | 0.161969 | 0.162054 | 0.153715 | 0.152596 | 0.153420 | 0.152286 |
 | 2027 | 0.300163 | 0.303942 | 0.166983 | 0.166983 | 0.154842 | 0.154742 | 0.154553 | 0.154477 |
 
-*Table S19. Original 100-Euler retrospective benchmark. Best = minimum validation RelL2 checkpoint; last = end of 2,400 updates. This table replaces numerous overlapping historical checkpoint and pair-comparison tables.*
+*Table S20. Original 100-Euler retrospective benchmark. Best = minimum validation RelL2 checkpoint; last = end of 2,400 updates. This table replaces numerous overlapping historical checkpoint and pair-comparison tables.*
 
 
 For the retrospective best checkpoints, the three-seed mean whole-field RelL2 values are **0.3459**, **0.1652**, **0.1524**, and **0.1524** for L/A/T/P, as reported in main Sec. 4.1. This analysis does not make the original 100 retrospectively independent. Archived within-seed paired contrasts favor ArcOnly over Linear and LocalTangent over ArcOnly, but near-tied T/P ordering is training-seed dependent.
@@ -548,7 +577,7 @@ The complex difference decomposes algebraically; magnitudes, power errors and ci
 | LocalTangent | 0.137903 | 7.3614 | 0.075106 | 0.334560 |
 | Path v2 | 0.139338 | 7.4085 | 0.079125 | 0.357770 |
 
-*Table S20. Three-seed mean *model* discrepancies against the true-field scalar proxy on 100 original Euler geometries. The fixed proxy-versus-native extractor discrepancy is common to all methods: complex MAE 0.000835, phase MAE 0.0271°, power MAE 0.001175, and insertion-loss MAE 0.005244 dB.*
+*Table S21. Three-seed mean model discrepancies against the true-field scalar proxy on 100 original Euler geometries. The fixed proxy-versus-native extractor discrepancy is common to all methods: complex MAE 0.000835, phase MAE 0.0271°, power MAE 0.001175, and insertion-loss MAE 0.005244 dB.*
 
 
 Main Sec. 4.5 rounds the four transmission phase errors to **28.66°, 8.50°, 7.36°, and 7.41°**. The ordering of power MAE is different: ArcOnly's **0.069917** is lower than LocalTangent's **0.075106** in this proxy-target comparison. All 100 transmission channels pass the archived native-amplitude \(|t_N|\ge0.05\) gate, whereas only 16 reflection channels do.
@@ -586,7 +615,7 @@ The correction's source value is interpolated at the historical mask centroid, w
 | M4 | Branch Path | 0.495988 | 0.498927 |
 | M4 | BranchTangent | 0.511072 | 0.514325 |
 
-*Table S21. Single-seed exploratory Y-branch comparisons. BranchTangent is worse than Branch Path in both disjoint evaluation sets for best and last checkpoints.*
+*Table S22. Single-seed exploratory Y-branch comparisons. BranchTangent is worse than Branch Path in both disjoint evaluation sets for best and last checkpoints.*
 
 
 The best-checkpoint BranchTangent-minus-Branch Path increments are **+0.016053** on E2 and **+0.015084** on M4, using the displayed source means before rounding. Port-stratified archived increases are also positive; however, they are unadjusted for baseline difficulty and not causal evidence of which junction mechanism causes the loss. E2/M4 agreement does not create independent training-seed replication.
@@ -616,7 +645,7 @@ The exploratory full-domain Fourier diagnostic uses the **64 S-bend training fie
 | Path v1 | 40/70 | 0.104188 | 0.032157 |
 | Path v2 | 40/70 | 0.101079 | 0.031659 |
 
-*Table S22. Selected archived whole-domain spectrum endpoints. A finer 60/105 block was omitted for concision; the main text's counterexample does not require all four rectangular cutoffs.*
+*Table S23. Selected archived whole-domain spectrum endpoints. A finer 60/105 block was omitted for concision; the main text's counterexample does not require all four rectangular cutoffs.*
 
 
 Removing the dominant propagation carrier dramatically reduces low-mode tail energy relative to Direct, but **LocalTangent does not strictly dominate Linear at every cutoff** (for example 20/35 and 40/70). Accordingly, the full-field neural prediction advantage must not be attributed to a uniformly smaller global Fourier tail or guaranteed smoother envelope.
@@ -627,6 +656,18 @@ An older 123,330-parameter U-Net study used only 32 training geometries, 600 upd
 
 ## S9. Interpretation boundary and correspondence with the main article
 
-The principal evidence hierarchy is: **72 independent Euler geometries** (main Secs. 4.1–4.2; Tables S1–S4), **36 frozen sinusoidal tests** (main Sec. 4.3; Tables S17–S18), **matched numerical-reference sensitivities** (main Sec. 4.4; Tables S5–S13), and **complete-workflow timing** (main Sec. 5; Tables S14–S16). The retrospective and exploratory analyses in Sec. S8 bound these claims, not strengthen them through pooling.
+The principal evidence hierarchy is: **72 independent Euler geometries** (main Secs. 4.1–4.2; Tables S1–S4), **36 frozen sinusoidal tests** (main Sec. 4.3; Tables S17–S19), **matched numerical-reference sensitivities** (main Sec. 4.4; Tables S5–S13), and **complete-workflow timing** (main Sec. 5; Tables S14–S16). The retrospective and exploratory analyses in Sec. S8 bound these claims, not strengthen them through pooling.
 
-The method demonstrates a useful geometry-derived phase representation **for the evaluated single-path S-bends**. It does not demonstrate cross-topology improvement, numerical continuum convergence, consistently lower error in every downstream optical observable, or a speedup relative to an equal-accuracy and equal-output FDTD solver. The revised citations to the main manuscript refer to its actual **V4.3** numbering (main Figs. 1–4 and Secs. 2–6); no stale reference to a field gallery as “main Figure 4” remains.
+The method demonstrates a useful geometry-derived phase representation **for the evaluated single-path S-bends**. It does not demonstrate cross-topology improvement, numerical continuum convergence, consistently lower error in every downstream optical observable, or a speedup relative to an equal-accuracy and equal-output FDTD solver.
+
+## Funding
+
+No funding was received for this research.
+
+## Disclosures
+
+The author declares no conflicts of interest.
+
+## AI-assisted language editing
+
+The author used AI-assisted tools for language polishing and is responsible for the content of the manuscript.

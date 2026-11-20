@@ -3253,5 +3253,12 @@
     "source_sha256": "d3a20d8719539c963dbc3e3d97ade45d92473d525efe517e461f685edf615d1e",
     "target_sha256": "d3a20d8719539c963dbc3e3d97ade45d92473d525efe517e461f685edf615d1e",
     "note": "Copied without content changes"
+  },
+  {
+    "source": "github_publication_guidance/audit/supplement_revision_before.md",
+    "target": "paper/supplement_v4_3_aligned.md",
+    "source_sha256": "773a8fe1dd4c8078ddf47efb56293db5e7d9445f3b1ba7b517d21732da42fa32",
+    "target_sha256": "2957afa298a2e6c8fe2c1db2ee1e90b4ef2cbcd4f83fa68a98ace85cfb6de702",
+    "note": "Revised availability wording and editorial remnants; inserted all 18 archived sinusoidal grid comparisons as Table S19 and renumbered later tables. Existing numerical table rows, display equations, images, and limiting results retained. Author-supplied metadata and declarations match the English main manuscript."
   }
 ]
